@@ -2,7 +2,7 @@ var
   margin = {top: 20, right: 20, bottom: 110, left: 40},
   margin2 = {top: 430, right: 20, bottom: 30, left: 40},
   width = 1000 - margin.left - margin.right,
-  height = 500 - margin.top - margin.bottom,
+  height = 550 - margin.top - margin.bottom,
   height2 = 500 - margin2.top - margin2.bottom;
 
 var svg = d3.select("#pairedBarChart")
@@ -113,7 +113,7 @@ d3.csv("frequencia.csv", type, function(error, data) {
       .attr("dy", "0.01em")
       .attr("text-anchor", "middle")
       .attr("fill", "#000")
-      .text("Frequência relativa");
+      .text("Frequência relativa (%)");
 
   g.append("g")
       .attr("class", "axis axis--y")
