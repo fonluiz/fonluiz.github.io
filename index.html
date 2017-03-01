@@ -1,1 +1,42 @@
-Hello World
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width" />
+		<title>Pessoas aleatórias fazendo coisas aleatórias</title>
+		<link href="css/bootstrap.min.css" rel="stylesheet">
+		<link rel="stylesheet" href="css/style.css">
+		<script src="//d3js.org/d3.v4.min.js" charset="utf-8"></script>
+	</head>
+	<body>
+		<div class-"container">
+			<div class="col-xs-12 col-sm-12 col-md-10 col-md-offset-1 col-lg-10 col-lg-offset-1 col-xl-8 col-xl-offset-2">
+				<div class="header">
+					<h2>Pessoas aleatórias fazendo coisas aleatórias</h2>
+					<p>Esta é uma versão diferente de outra visualização. <br>
+					A outra versão pode ser encontrada <a href="https://leticiawanderley.github.io/">aqui</a></p>
+				</div>
+				<div class="col-xs-12 col-sm-12 col-md-10 col-md-offset-1 col-lg-10 col-lg-offset-1 col-xl-8 col-xl-offset-2 explanation">
+					<span>
+						Quão aleatórias são as pessoas? Quando elas tentam ser aleatórias escrevendo caracteres, elas caem num padrão?
+						Vários individuos foram convidados a digitar textos aleatórios em um <a href="https://nazareno.typeform.com/to/giC9Vw">
+						formulário online</a> e a frequência relativa das letras digitadas foi comparada à
+						<a href="https://pt.wikipedia.org/wiki/Frequ%C3%AAncia_de_letras#Frequ.C3.AAncias_relativas_das_letras_em_outros_idiomas">
+						frequência relativa</a> das letras na Língua Portuguesa.
+					</span>
+					<br>
+					<br>
+					<p><b>Mudanças na visualização:</b></p>
+					<p>As barras que representam as diferentes frequências relativas não estão mais empilhadas. Agora elas
+					estão pareadas. Isso facilita a tarefa de comparar as frequências relativas de uma mesma letra, o que era mais
+					 difícil na outra versão. Parear as barras também facilita a tarefa de comparar de modo geral se todas as
+					 frequências são parecidas. Nesta nova versão as letras do eixo horizontal estão ordenadas alfabeticamente, o que facilita a tarefa de procurar as frequências
+					 de determinada letra. Na visualização antiga as letras estavam ordenadas pela soma de ambas as frequências.</p>
+				</div>
+				<div id="pairedBarChart"></div>
+				<script src="stackedBarChart.js"></script>
+				<div class="footer"></div>
+			</div>
+		</div>
+	</body>
+</html>
