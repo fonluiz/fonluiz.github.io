@@ -1,0 +1,1136 @@
+"id","geocodigo","geocodigo1","municipio","uf_cod","uf","regiao","meso_cod","mesoregiao","micro_cod","microregiao","area_km2","semiarido","pop_atendida","pop_total","pop_relativa_atendida","extensao_rede_agua","consumo_agua_1000m3"
+1,2200053,220005,"Acauã",22,"PI","Nordeste",2204,"Sudeste Piauiense",22015,"Alto Médio Canindé",1279.6,"Sim",1563,6933,22.54,4.07,45.91
+4,2200251,220025,"Alagoinha do Piauí",22,"PI","Nordeste",2204,"Sudeste Piauiense",22014,"Pio IX",533,"Sim",3316,7501,44.21,5.07,105.86
+5,2200277,220027,"Alegrete do Piauí",22,"PI","Nordeste",2204,"Sudeste Piauiense",22014,"Pio IX",282.7,"Sim",4832,4832,100,45,56.5
+8,2200459,220045,"Alvorada do Gurguéia",22,"PI","Nordeste",2203,"Sudoeste Piauiense",22010,"Alto Médio Gurguéia",2132,"Sim",3954,5278,74.91,32.3,432
+11,2200707,220070,"Anísio de Abreu",22,"PI","Nordeste",2203,"Sudoeste Piauiense",22011,"São Raimundo Nonato",337.9,"Sim",6086,9597,63.42,14.82,196.67
+13,2200905,220090,"Aroazes",22,"PI","Nordeste",2202,"Centro-Norte Piauiense",22006,"Valença do Piauí",821.7,"Sim",4192,5763,72.74,22.17,149.99
+14,2200954,220095,"Aroeiras do Itaim",22,"PI","Nordeste",2204,"Sudeste Piauiense",22013,"Picos",257.1,"Sim",NA,2460,NA,NA,NA
+16,2201051,220105,"Assunção do Piauí",22,"PI","Nordeste",2202,"Centro-Norte Piauiense",22004,"Campo Maior",1690.7,"Sim",3378,7686,43.95,18,398.7
+17,2201101,220110,"Avelino Lopes",22,"PI","Nordeste",2203,"Sudoeste Piauiense",22012,"Chapadas do Extremo Sul Piauiense",1305.5,"Sim",7873,11433,68.86,17.93,286.85
+24,2201556,220155,"Bela Vista do Piauí",22,"PI","Nordeste",2204,"Sudeste Piauiense",22015,"Alto Médio Canindé",499.4,"Sim",NA,3919,NA,NA,NA
+25,2201572,220157,"Belém do Piauí",22,"PI","Nordeste",2204,"Sudeste Piauiense",22015,"Alto Médio Canindé",243.3,"Sim",2148,3464,62.01,14.49,64.91
+27,2201705,220170,"Bertolínia",22,"PI","Nordeste",2203,"Sudoeste Piauiense",22008,"Bertolínia",1225.3,"Sim",4804,5402,88.93,24.76,201.01
+28,2201739,220173,"Betânia do Piauí",22,"PI","Nordeste",2204,"Sudeste Piauiense",22015,"Alto Médio Canindé",564.7,"Sim",NA,6097,NA,NA,NA
+30,2201804,220180,"Bocaina",22,"PI","Nordeste",2204,"Sudeste Piauiense",22013,"Picos",268.6,"Sim",2355,4436,53.09,9.04,90.94
+31,2201903,220190,"Bom Jesus",22,"PI","Nordeste",2203,"Sudoeste Piauiense",22010,"Alto Médio Gurguéia",5469.2,"Sim",23447,24327,96.38,26.48,1088.37
+33,2201929,220192,"Bonfim do Piauí",22,"PI","Nordeste",2203,"Sudoeste Piauiense",22011,"São Raimundo Nonato",289.2,"Sim",1436,5549,25.88,6,46.94
+36,2201988,220198,"Brejo do Piauí",22,"PI","Nordeste",2203,"Sudoeste Piauiense",22011,"São Raimundo Nonato",2183.3,"Sim",2033,3871,52.52,6.71,72.45
+38,2202026,220202,"Buriti dos Montes",22,"PI","Nordeste",2202,"Centro-Norte Piauiense",22004,"Campo Maior",2652.1,"Sim",5598,8188,68.37,58.43,1128
+40,2202075,220207,"Cajazeiras do Piauí",22,"PI","Nordeste",2204,"Sudeste Piauiense",22013,"Picos",514.4,"Sim",NA,3471,NA,NA,NA
+42,2202091,220209,"Caldeirão Grande do Piauí",22,"PI","Nordeste",2204,"Sudeste Piauiense",22015,"Alto Médio Canindé",494.9,"Sim",NA,5674,NA,NA,NA
+43,2202109,220210,"Campinas do Piauí",22,"PI","Nordeste",2204,"Sudeste Piauiense",22015,"Alto Médio Canindé",831.2,"Sim",2259,5507,41.02,8.17,85.33
+44,2202117,220211,"Campo Alegre do Fidalgo",22,"PI","Nordeste",2204,"Sudeste Piauiense",22015,"Alto Médio Canindé",657.8,"Sim",NA,4911,NA,NA,NA
+45,2202133,220213,"Campo Grande do Piauí",22,"PI","Nordeste",2204,"Sudeste Piauiense",22015,"Alto Médio Canindé",311.8,"Sim",2810,5801,48.44,20.26,91.79
+48,2202251,220225,"Canavieira",22,"PI","Nordeste",2203,"Sudoeste Piauiense",22009,"Floriano",2162.9,"Sim",2064,3904,52.87,8.31,85.47
+49,2202307,220230,"Canto do Buriti",22,"PI","Nordeste",2203,"Sudoeste Piauiense",22011,"São Raimundo Nonato",4325.6,"Sim",13866,20700,66.99,36.15,600.45
+51,2202455,220245,"Capitão Gervásio Oliveira",22,"PI","Nordeste",2204,"Sudeste Piauiense",22015,"Alto Médio Canindé",1134.1,"Sim",1201,4008,29.97,15,120.9
+52,2202505,220250,"Caracol",22,"PI","Nordeste",2203,"Sudoeste Piauiense",22011,"São Raimundo Nonato",1611,"Sim",3109,10641,29.22,15.41,99.16
+54,2202554,220255,"Caridade do Piauí",22,"PI","Nordeste",2204,"Sudeste Piauiense",22015,"Alto Médio Canindé",501.3,"Sim",2127,4994,42.59,7.85,60.52
+55,2202604,220260,"Castelo do Piauí",22,"PI","Nordeste",2202,"Centro-Norte Piauiense",22004,"Campo Maior",2035.2,"Sim",13278,18160,73.12,29.17,463.4
+61,2202752,220275,"Colônia do Gurguéia",22,"PI","Nordeste",2203,"Sudoeste Piauiense",22008,"Bertolínia",430.6,"Sim",2357,6314,37.33,18.26,90.45
+62,2202778,220277,"Colônia do Piauí",22,"PI","Nordeste",2204,"Sudeste Piauiense",22013,"Picos",947.9,"Sim",3348,7527,44.48,14.04,125.52
+63,2202802,220280,"Conceição do Canindé",22,"PI","Nordeste",2204,"Sudeste Piauiense",22015,"Alto Médio Canindé",831.4,"Sim",3245,4536,71.54,15.57,127.7
+64,2202851,220285,"Coronel José Dias",22,"PI","Nordeste",2203,"Sudoeste Piauiense",22011,"São Raimundo Nonato",1914.8,"Sim",2460,4602,53.46,6,84.98
+67,2203107,220310,"Cristino Castro",22,"PI","Nordeste",2203,"Sudoeste Piauiense",22010,"Alto Médio Gurguéia",1846.3,"Sim",7883,10214,77.18,16.41,285.86
+68,2203206,220320,"Curimatá",22,"PI","Nordeste",2203,"Sudoeste Piauiense",22012,"Chapadas do Extremo Sul Piauiense",2337.5,"Sim",9547,11121,85.85,31.91,347.33
+69,2203230,220323,"Currais",22,"PI","Nordeste",2203,"Sudoeste Piauiense",22010,"Alto Médio Gurguéia",3156.6,"Sim",NA,4845,NA,NA,NA
+71,2203271,220327,"Curral Novo do Piauí",22,"PI","Nordeste",2204,"Sudeste Piauiense",22015,"Alto Médio Canindé",752.3,"Sim",1585,5086,31.16,6.19,43.88
+73,2203354,220335,"Dirceu Arcoverde",22,"PI","Nordeste",2203,"Sudoeste Piauiense",22011,"São Raimundo Nonato",1017.1,"Sim",2516,6862,36.67,5.67,74.21
+74,2203404,220340,"Dom Expedito Lopes",22,"PI","Nordeste",2204,"Sudeste Piauiense",22013,"Picos",219.1,"Sim",4437,6756,65.67,8.04,176.02
+75,2203420,220342,"Domingos Mourão",22,"PI","Nordeste",2202,"Centro-Norte Piauiense",22004,"Campo Maior",846.8,"Sim",1297,4290,30.23,5.94,47.5
+76,2203453,220345,"Dom Inocêncio",22,"PI","Nordeste",2203,"Sudoeste Piauiense",22011,"São Raimundo Nonato",3870.2,"Sim",NA,9387,NA,NA,NA
+78,2203602,220360,"Eliseu Martins",22,"PI","Nordeste",2203,"Sudoeste Piauiense",22008,"Bertolínia",1090.4,"Sim",4638,4807,96.48,22.98,191.64
+80,2203750,220375,"Fartura do Piauí",22,"PI","Nordeste",2203,"Sudoeste Piauiense",22011,"São Raimundo Nonato",712.9,"Sim",NA,5199,NA,NA,NA
+81,2203800,220380,"Flores do Piauí",22,"PI","Nordeste",2203,"Sudoeste Piauiense",22009,"Floriano",946.7,"Sim",2504,4394,56.99,15.27,100.9
+82,2203859,220385,"Floresta do Piauí",22,"PI","Nordeste",2204,"Sudeste Piauiense",22015,"Alto Médio Canindé",194.7,"Sim",NA,2515,NA,NA,NA
+86,2204154,220415,"Francisco Macedo",22,"PI","Nordeste",2204,"Sudeste Piauiense",22015,"Alto Médio Canindé",155.3,"Sim",NA,3097,NA,NA,NA
+87,2204204,220420,"Francisco Santos",22,"PI","Nordeste",2204,"Sudeste Piauiense",22014,"Pio IX",491.9,"Sim",4088,9054,45.15,9.17,123.75
+88,2204303,220430,"Fronteiras",22,"PI","Nordeste",2204,"Sudeste Piauiense",22015,"Alto Médio Canindé",775.7,"Sim",9126,11372,80.25,17.01,323.54
+89,2204352,220435,"Geminiano",22,"PI","Nordeste",2204,"Sudeste Piauiense",22013,"Picos",462.5,"Sim",NA,5319,NA,NA,NA
+92,2204550,220455,"Guaribas",22,"PI","Nordeste",2203,"Sudoeste Piauiense",22011,"São Raimundo Nonato",3118.2,"Sim",2340,4478,52.26,10.74,70.95
+95,2204709,220470,"Inhuma",22,"PI","Nordeste",2202,"Centro-Norte Piauiense",22006,"Valença do Piauí",978.2,"Sim",9923,15044,65.96,39.45,351.85
+96,2204808,220480,"Ipiranga do Piauí",22,"PI","Nordeste",2204,"Sudeste Piauiense",22013,"Picos",527.7,"Sim",6228,9599,64.88,37.85,216.76
+97,2204907,220490,"Isaías Coelho",22,"PI","Nordeste",2204,"Sudeste Piauiense",22015,"Alto Médio Canindé",776.1,"Sim",2749,8408,32.7,10.76,106.09
+98,2205003,220500,"Itainópolis",22,"PI","Nordeste",2204,"Sudeste Piauiense",22015,"Alto Médio Canindé",828.1,"Sim",3834,11354,33.77,9.3,149.66
+99,2205102,220510,"Itaueira",22,"PI","Nordeste",2203,"Sudoeste Piauiense",22009,"Floriano",2554.2,"Sim",8119,10828,74.98,19.74,288.44
+100,2205151,220515,"Jacobina do Piauí",22,"PI","Nordeste",2204,"Sudeste Piauiense",22015,"Alto Médio Canindé",1370.7,"Sim",2608,5682,45.9,5.44,88.28
+101,2205201,220520,"Jaicós",22,"PI","Nordeste",2204,"Sudeste Piauiense",22015,"Alto Médio Canindé",865.1,"Sim",8856,18660,47.46,42.12,198.81
+105,2205359,220535,"João Costa",22,"PI","Nordeste",2204,"Sudeste Piauiense",22015,"Alto Médio Canindé",1800.2,"Sim",2300,2965,77.57,20,900
+109,2205516,220551,"Juazeiro do Piauí",22,"PI","Nordeste",2202,"Centro-Norte Piauiense",22004,"Campo Maior",827.2,"Sim",1851,5380,34.41,5.12,64.37
+110,2205524,220552,"Júlio Borges",22,"PI","Nordeste",2203,"Sudoeste Piauiense",22012,"Chapadas do Extremo Sul Piauiense",1297.1,"Sim",2133,5510,38.71,7.2,79.12
+111,2205532,220553,"Jurema",22,"PI","Nordeste",2203,"Sudoeste Piauiense",22011,"São Raimundo Nonato",1271.9,"Sim",2525,4657,54.22,8.21,78.94
+114,2205565,220556,"Lagoa do Barro do Piauí",22,"PI","Nordeste",2204,"Sudeste Piauiense",22015,"Alto Médio Canindé",1261.9,"Sim",NA,4579,NA,NA,NA
+115,2205573,220557,"Lagoa de São Francisco",22,"PI","Nordeste",2202,"Centro-Norte Piauiense",22004,"Campo Maior",155.6,"Sim",NA,6611,NA,NA,NA
+117,2205599,220559,"Lagoa do Sítio",22,"PI","Nordeste",2202,"Centro-Norte Piauiense",22006,"Valença do Piauí",804.7,"Sim",NA,5047,NA,NA,NA
+122,2205904,220590,"Manoel Emídio",22,"PI","Nordeste",2203,"Sudoeste Piauiense",22008,"Bertolínia",1619,"Sim",3971,5263,75.45,16.53,146.93
+123,2205953,220595,"Marcolândia",22,"PI","Nordeste",2204,"Sudeste Piauiense",22015,"Alto Médio Canindé",143.9,"Sim",NA,8249,NA,NA,NA
+125,2206050,220605,"Massapê do Piauí",22,"PI","Nordeste",2204,"Sudeste Piauiense",22015,"Alto Médio Canindé",521.1,"Sim",NA,6323,NA,NA,NA
+129,2206357,220635,"Milton Brandão",22,"PI","Nordeste",2202,"Centro-Norte Piauiense",22004,"Campo Maior",1371.7,"Sim",4758,6517,73.01,43,140
+131,2206506,220650,"Monsenhor Hipólito",22,"PI","Nordeste",2204,"Sudeste Piauiense",22014,"Pio IX",401.4,"Sim",4084,7586,53.84,8.78,130.92
+133,2206654,220665,"Morro Cabeça no Tempo",22,"PI","Nordeste",2203,"Sudoeste Piauiense",22012,"Chapadas do Extremo Sul Piauiense",2116.9,"Sim",NA,4073,NA,NA,NA
+136,2206704,220670,"Nazaré do Piauí",22,"PI","Nordeste",2203,"Sudoeste Piauiense",22009,"Floriano",1315.8,"Sim",3394,7261,46.74,10.87,142.34
+140,2206902,220690,"Novo Oriente do Piauí",22,"PI","Nordeste",2202,"Centro-Norte Piauiense",22006,"Valença do Piauí",525.3,"Sim",4179,6483,64.46,10.31,168.7
+142,2207009,220700,"Oeiras",22,"PI","Nordeste",2204,"Sudeste Piauiense",22013,"Picos",2702.5,"Sim",22065,36329,60.74,69.8,899.81
+144,2207207,220720,"Padre Marcos",22,"PI","Nordeste",2204,"Sudeste Piauiense",22015,"Alto Médio Canindé",272,"Sim",4467,6748,66.2,10.37,141.52
+145,2207306,220730,"Paes Landim",22,"PI","Nordeste",2204,"Sudeste Piauiense",22015,"Alto Médio Canindé",401.4,"Sim",3065,4071,75.29,10.97,117.13
+146,2207355,220735,"Pajeú do Piauí",22,"PI","Nordeste",2203,"Sudoeste Piauiense",22011,"São Raimundo Nonato",1079.2,"Sim",1650,3308,49.88,5,40
+147,2207405,220740,"Palmeira do Piauí",22,"PI","Nordeste",2203,"Sudoeste Piauiense",22010,"Alto Médio Gurguéia",2023.5,"Sim",1701,4980,34.16,4.93,53.7
+149,2207553,220755,"Paquetá",22,"PI","Nordeste",2204,"Sudeste Piauiense",22013,"Picos",448.5,"Sim",759,3900,19.46,2.61,32.12
+153,2207777,220777,"Patos do Piauí",22,"PI","Nordeste",2204,"Sudeste Piauiense",22015,"Alto Médio Canindé",751.6,"Sim",2346,6257,37.49,8.71,77.07
+155,2207801,220780,"Paulistana",22,"PI","Nordeste",2204,"Sudeste Piauiense",22015,"Alto Médio Canindé",1969.9,"Sim",14048,20168,69.65,31.46,494.26
+156,2207850,220785,"Pavussu",22,"PI","Nordeste",2203,"Sudoeste Piauiense",22009,"Floriano",1090.7,"Sim",2601,3637,71.51,6.51,86.32
+157,2207900,220790,"Pedro II",22,"PI","Nordeste",2202,"Centro-Norte Piauiense",22004,"Campo Maior",1518.2,"Sim",27978,38055,73.52,44.96,863.92
+158,2207934,220793,"Pedro Laurentino",22,"PI","Nordeste",2204,"Sudeste Piauiense",22015,"Alto Médio Canindé",870.3,"Sim",NA,2481,NA,NA,NA
+159,2207959,220795,"Nova Santa Rita",22,"PI","Nordeste",2204,"Sudeste Piauiense",22015,"Alto Médio Canindé",909.7,"Sim",962,4286,22.45,5.08,37.19
+160,2208007,220800,"Picos",22,"PI","Nordeste",2204,"Sudeste Piauiense",22013,"Picos",534.7,"Sim",75076,76544,98.08,118.64,3079.92
+161,2208106,220810,"Pimenteiras",22,"PI","Nordeste",2202,"Centro-Norte Piauiense",22006,"Valença do Piauí",4563.1,"Sim",6002,11913,50.38,25.4,221.51
+162,2208205,220820,"Pio IX",22,"PI","Nordeste",2204,"Sudeste Piauiense",22014,"Pio IX",1947.1,"Sim",7432,18061,41.15,19.33,250.56
+163,2208304,220830,"Piracuruca",22,"PI","Nordeste",2201,"Norte Piauiense",22002,"Litoral Piauiense",2380.4,"Sim",24795,28160,88.05,103.96,876.27
+168,2208650,220865,"Queimada Nova",22,"PI","Nordeste",2204,"Sudeste Piauiense",22015,"Alto Médio Canindé",1352.4,"Sim",NA,8796,NA,NA,NA
+169,2208700,220870,"Redenção do Gurguéia",22,"PI","Nordeste",2203,"Sudoeste Piauiense",22010,"Alto Médio Gurguéia",2468,"Sim",NA,8600,NA,NA,NA
+172,2208874,220887,"Ribeira do Piauí",22,"PI","Nordeste",2204,"Sudeste Piauiense",22015,"Alto Médio Canindé",1004.2,"Sim",NA,4381,NA,NA,NA
+174,2209005,220900,"Rio Grande do Piauí",22,"PI","Nordeste",2203,"Sudoeste Piauiense",22009,"Floriano",635.9,"Sim",4771,6329,75.38,13.81,198.53
+175,2209104,220910,"Santa Cruz do Piauí",22,"PI","Nordeste",2204,"Sudeste Piauiense",22013,"Picos",611.6,"Sim",4866,6127,79.42,9.51,177.45
+176,2209153,220915,"Santa Cruz dos Milagres",22,"PI","Nordeste",2202,"Centro-Norte Piauiense",22006,"Valença do Piauí",979.7,"Sim",3926,3926,100,20,150.8
+178,2209302,220930,"Santa Luz",22,"PI","Nordeste",2203,"Sudoeste Piauiense",22010,"Alto Médio Gurguéia",1186.8,"Sim",3588,5719,62.74,9.61,122.17
+179,2209351,220935,"Santana do Piauí",22,"PI","Nordeste",2204,"Sudeste Piauiense",22013,"Picos",141.1,"Sim",2099,4544,46.19,7.22,87.13
+180,2209377,220937,"Santa Rosa do Piauí",22,"PI","Nordeste",2204,"Sudeste Piauiense",22013,"Picos",340.2,"Sim",4658,5178,89.96,16.84,175.96
+181,2209401,220940,"Santo Antônio de Lisboa",22,"PI","Nordeste",2204,"Sudeste Piauiense",22014,"Pio IX",387.4,"Sim",4316,6244,69.12,11.69,160.94
+183,2209500,220950,"Santo Inácio do Piauí",22,"PI","Nordeste",2204,"Sudeste Piauiense",22015,"Alto Médio Canindé",852.9,"Sim",3037,3720,81.64,7.79,117.6
+184,2209559,220955,"São Braz do Piauí",22,"PI","Nordeste",2203,"Sudoeste Piauiense",22011,"São Raimundo Nonato",656.4,"Sim",355,4371,8.12,2.9,9.69
+186,2209658,220965,"São Francisco de Assis do Piauí",22,"PI","Nordeste",2204,"Sudeste Piauiense",22015,"Alto Médio Canindé",1100.4,"Sim",2062,5786,35.64,6.38,73.5
+187,2209708,220970,"São Francisco do Piauí",22,"PI","Nordeste",2203,"Sudoeste Piauiense",22009,"Floriano",1340.7,"Sim",2492,6329,39.37,17.07,80.96
+190,2209856,220985,"São João da Canabrava",22,"PI","Nordeste",2204,"Sudeste Piauiense",22013,"Picos",480.3,"Sim",2270,4523,50.19,6.76,90
+191,2209872,220987,"São João da Fronteira",22,"PI","Nordeste",2201,"Norte Piauiense",22002,"Litoral Piauiense",764.9,"Sim",NA,5898,NA,NA,NA
+192,2209906,220990,"São João da Serra",22,"PI","Nordeste",2202,"Centro-Norte Piauiense",22004,"Campo Maior",1006.5,"Sim",4605,6081,75.73,17.52,157.88
+193,2209955,220995,"São João da Varjota",22,"PI","Nordeste",2204,"Sudeste Piauiense",22013,"Picos",395.3,"Sim",4738,4747,99.81,130,150
+195,2210003,221000,"São João do Piauí",22,"PI","Nordeste",2204,"Sudeste Piauiense",22015,"Alto Médio Canindé",1527.8,"Sim",17420,20146,86.47,64.22,676.36
+196,2210052,221005,"São José do Divino",22,"PI","Nordeste",2201,"Norte Piauiense",22002,"Litoral Piauiense",319.1,"Sim",3005,5246,57.28,11.46,95.46
+197,2210102,221010,"São José do Peixe",22,"PI","Nordeste",2203,"Sudoeste Piauiense",22009,"Floriano",1287.2,"Sim",2577,3697,69.71,12.62,110.23
+198,2210201,221020,"São José do Piauí",22,"PI","Nordeste",2204,"Sudeste Piauiense",22013,"Picos",364.9,"Sim",2584,6610,39.09,16.62,94.11
+199,2210300,221030,"São Julião",22,"PI","Nordeste",2204,"Sudeste Piauiense",22014,"Pio IX",257.2,"Sim",5602,6244,89.72,23.13,196.72
+200,2210359,221035,"São Lourenço do Piauí",22,"PI","Nordeste",2203,"Sudoeste Piauiense",22011,"São Raimundo Nonato",672.7,"Sim",1771,4493,39.42,11.93,57.5
+201,2210375,221037,"São Luis do Piauí",22,"PI","Nordeste",2204,"Sudeste Piauiense",22013,"Picos",220.4,"Sim",943,2595,36.34,3.64,38.72
+203,2210391,221039,"São Miguel do Fidalgo",22,"PI","Nordeste",2203,"Sudoeste Piauiense",22009,"Floriano",813.4,"Sim",NA,2993,NA,NA,NA
+204,2210409,221040,"São Miguel do Tapuio",22,"PI","Nordeste",2202,"Centro-Norte Piauiense",22004,"Campo Maior",5207,"Sim",6854,18105,37.86,9.69,258.5
+206,2210607,221060,"São Raimundo Nonato",22,"PI","Nordeste",2203,"Sudoeste Piauiense",22011,"São Raimundo Nonato",2415.6,"Sim",26960,33802,79.76,93.6,1032.98
+208,2210631,221063,"Sebastião Leal",22,"PI","Nordeste",2203,"Sudoeste Piauiense",22008,"Bertolínia",3151.6,"Sim",1916,4209,45.52,4.75,65.93
+210,2210706,221070,"Simões",22,"PI","Nordeste",2204,"Sudeste Piauiense",22015,"Alto Médio Canindé",1071.5,"Sim",7870,14411,54.61,24.75,243.65
+211,2210805,221080,"Simplício Mendes",22,"PI","Nordeste",2204,"Sudeste Piauiense",22015,"Alto Médio Canindé",1345.8,"Sim",8638,12424,69.53,27.57,332.38
+212,2210904,221090,"Socorro do Piauí",22,"PI","Nordeste",2204,"Sudeste Piauiense",22015,"Alto Médio Canindé",761.9,"Sim",2051,4512,45.46,13.65,72.13
+213,2210938,221093,"Sussuapara",22,"PI","Nordeste",2204,"Sudeste Piauiense",22013,"Picos",209.7,"Sim",NA,6545,NA,NA,NA
+214,2210953,221095,"Tamboril do Piauí",22,"PI","Nordeste",2203,"Sudoeste Piauiense",22011,"São Raimundo Nonato",1587.3,"Sim",NA,2851,NA,NA,NA
+215,2210979,221097,"Tanque do Piauí",22,"PI","Nordeste",2204,"Sudeste Piauiense",22013,"Picos",398.7,"Sim",NA,2703,NA,NA,NA
+219,2211308,221130,"Valença do Piauí",22,"PI","Nordeste",2202,"Centro-Norte Piauiense",22006,"Valença do Piauí",1334.6,"Sim",18279,20568,88.87,29.73,730.52
+220,2211357,221135,"Várzea Branca",22,"PI","Nordeste",2203,"Sudoeste Piauiense",22011,"São Raimundo Nonato",450.8,"Sim",1460,4889,29.86,5.46,44.09
+222,2211506,221150,"Vera Mendes",22,"PI","Nordeste",2204,"Sudeste Piauiense",22015,"Alto Médio Canindé",342,"Sim",NA,3025,NA,NA,NA
+223,2211605,221160,"Vila Nova do Piauí",22,"PI","Nordeste",2204,"Sudeste Piauiense",22015,"Alto Médio Canindé",218.3,"Sim",NA,2965,NA,NA,NA
+224,2211704,221170,"Wall Ferraz",22,"PI","Nordeste",2204,"Sudeste Piauiense",22013,"Picos",270,"Sim",1800,4375,41.14,4.85,61.05
+218,2300101,230010,"Abaiara",23,"CE","Nordeste",2307,"Sul Cearense",23033,"Brejo Santo",178.8,"Sim",3829,11357,33.71,11.14,126.1
+219,2300150,230015,"Acarape",23,"CE","Nordeste",2302,"Norte Cearense",23013,"Baturité",160.3,"Sim",6154,16288,37.78,34.37,377.83
+221,2300309,230030,"Acopiara",23,"CE","Nordeste",2304,"Sertões Cearenses",23021,"Sertão de Senador Pompeu",2253.8,"Sim",18845,53135,35.47,44.42,817.37
+222,2300408,230040,"Aiuaba",23,"CE","Nordeste",2304,"Sertões Cearenses",23020,"Sertão de Inhamuns",2434.4,"Sim",NA,16997,NA,NA,NA
+223,2300507,230050,"Alcântaras",23,"CE","Nordeste",2301,"Noroeste Cearense",23004,"Meruoca",138.6,"Sim",2638,11321,23.3,15.26,77.65
+224,2300606,230060,"Altaneira",23,"CE","Nordeste",2307,"Sul Cearense",23030,"Caririaçu",73.3,"Sim",4329,7344,58.95,33.28,160.34
+225,2300705,230070,"Alto Santo",23,"CE","Nordeste",2305,"Jaguaribe",23023,"Baixo Jaguaribe",1338.2,"Sim",5764,16876,34.16,12.17,167.62
+227,2300804,230080,"Antonina do Norte",23,"CE","Nordeste",2306,"Centro-Sul Cearense",23027,"Várzea Alegre",260.1,"Sim",4532,7227,62.71,24.94,210.56
+228,2300903,230090,"Apuiarés",23,"CE","Nordeste",2302,"Norte Cearense",23011,"Médio Curu",552.3,"Sim",4654,14565,31.95,21.63,184.79
+230,2301109,230110,"Aracati",23,"CE","Nordeste",2305,"Jaguaribe",23022,"Litoral de Aracati",1247.3,"Sim",36102,72727,49.64,162.49,1877.57
+231,2301208,230120,"Aracoiaba",23,"CE","Nordeste",2302,"Norte Cearense",23013,"Baturité",656.6,"Sim",10063,26134,38.51,58.16,737.43
+232,2301257,230125,"Ararendá",23,"CE","Nordeste",2304,"Sertões Cearenses",23018,"Sertão de Cratéus",344.1,"Sim",3439,10775,31.92,18.18,141.46
+233,2301307,230130,"Araripe",23,"CE","Nordeste",2307,"Sul Cearense",23029,"Chapada do Araripe",1099.9,"Sim",8760,21289,41.15,47.66,283.78
+234,2301406,230140,"Aratuba",23,"CE","Nordeste",2302,"Norte Cearense",23013,"Baturité",114.8,"Sim",3248,11358,28.6,12.66,102.13
+235,2301505,230150,"Arneiroz",23,"CE","Nordeste",2304,"Sertões Cearenses",23020,"Sertão de Inhamuns",1066.4,"Sim",3154,7771,40.59,21.86,105.18
+236,2301604,230160,"Assaré",23,"CE","Nordeste",2307,"Sul Cearense",23029,"Chapada do Araripe",1116.3,"Sim",10143,23126,43.86,36.25,384.21
+237,2301703,230170,"Aurora",23,"CE","Nordeste",2307,"Sul Cearense",23031,"Barro",889.9,"Sim",10359,24602,42.11,35.83,479.92
+238,2301802,230180,"Baixio",23,"CE","Nordeste",2306,"Centro-Sul Cearense",23028,"Lavras da Mangabeira",146.4,"Sim",3307,6198,53.36,28.13,109.82
+239,2301851,230185,"Banabuiú",23,"CE","Nordeste",2304,"Sertões Cearenses",23019,"Sertão de Quixeramobim",1080,"Sim",9052,17906,50.55,23,354.5
+240,2301901,230190,"Barbalha",23,"CE","Nordeste",2307,"Sul Cearense",23032,"Cariri",599.3,"Sim",34498,58855,58.62,98.54,1448.9
+241,2301950,230195,"Barreira",23,"CE","Nordeste",2302,"Norte Cearense",23014,"Chorozinho",240.9,"Sim",7404,20687,35.79,113.32,463.97
+242,2302008,230200,"Barro",23,"CE","Nordeste",2307,"Sul Cearense",23031,"Barro",711.9,"Sim",11332,22279,50.86,59.18,453.13
+244,2302107,230210,"Baturité",23,"CE","Nordeste",2302,"Norte Cearense",23013,"Baturité",308.6,"Sim",21592,34949,61.78,54.85,986.41
+247,2302404,230240,"Boa Viagem",23,"CE","Nordeste",2304,"Sertões Cearenses",23019,"Sertão de Quixeramobim",2836.8,"Sim",38987,53838,72.42,236,1010
+248,2302503,230250,"Brejo Santo",23,"CE","Nordeste",2307,"Sul Cearense",23033,"Brejo Santo",663.4,"Sim",NA,48056,NA,NA,NA
+250,2302701,230270,"Campos Sales",23,"CE","Nordeste",2307,"Sul Cearense",23029,"Chapada do Araripe",1082.8,"Sim",12668,27123,46.71,41.99,497.01
+251,2302800,230280,"Canindé",23,"CE","Nordeste",2302,"Norte Cearense",23012,"Canindé",3218.5,"Sim",52425,76998,68.09,109.3,1667.57
+252,2302909,230290,"Capistrano",23,"CE","Nordeste",2302,"Norte Cearense",23013,"Baturité",222.5,"Sim",4855,17573,27.63,26.39,199.69
+253,2303006,230300,"Caridade",23,"CE","Nordeste",2302,"Norte Cearense",23012,"Canindé",846.5,"Sim",4849,21800,22.24,32.49,137.56
+254,2303105,230310,"Cariré",23,"CE","Nordeste",2301,"Noroeste Cearense",23005,"Sobral",756.9,"Sim",5917,18645,31.74,32.12,254.08
+255,2303204,230320,"Caririaçu",23,"CE","Nordeste",2307,"Sul Cearense",23030,"Caririaçu",637.4,"Sim",15373,26858,57.24,40,840
+256,2303303,230330,"Cariús",23,"CE","Nordeste",2306,"Centro-Sul Cearense",23027,"Várzea Alegre",1061.8,"Sim",4403,18810,23.41,14.72,227.7
+257,2303402,230340,"Carnaubal",23,"CE","Nordeste",2301,"Noroeste Cearense",23002,"Ibiapaba",364.8,"Sim",6871,17463,39.35,41.09,410.8
+259,2303600,230360,"Catarina",23,"CE","Nordeste",2304,"Sertões Cearenses",23020,"Sertão de Inhamuns",486.9,"Sim",8509,20079,42.38,20.51,216.67
+260,2303659,230365,"Catunda",23,"CE","Nordeste",2301,"Noroeste Cearense",23007,"Santa Quitéria",783.2,"Sim",4939,10294,47.98,23.39,139.3
+261,2303709,230370,"Caucaia",23,"CE","Nordeste",2303,"Metropolitana de Fortaleza",23016,"Fortaleza",1223.8,"Sim",240953,353932,68.08,600.29,9829.76
+262,2303808,230380,"Cedro",23,"CE","Nordeste",2306,"Centro-Sul Cearense",23026,"Iguatu",725.8,"Sim",12298,25013,49.17,50.56,553.11
+264,2303931,230393,"Choró",23,"CE","Nordeste",2304,"Sertões Cearenses",23019,"Sertão de Quixeramobim",815.8,"Sim",2892,13294,21.75,11.78,128.7
+265,2303956,230395,"Chorozinho",23,"CE","Nordeste",2302,"Norte Cearense",23014,"Chorozinho",278.4,"Sim",6346,19192,33.07,72.51,307.47
+266,2304004,230400,"Coreaú",23,"CE","Nordeste",2301,"Noroeste Cearense",23003,"Coreaú",775.8,"Sim",10001,22889,43.69,44.03,360.21
+267,2304103,230410,"Crateús",23,"CE","Nordeste",2304,"Sertões Cearenses",23018,"Sertão de Cratéus",2988.3,"Sim",41225,74271,55.51,151.55,1529.76
+268,2304202,230420,"Crato",23,"CE","Nordeste",2307,"Sul Cearense",23032,"Cariri",1157.9,"Sim",127432,128680,99.03,269.5,7007.76
+269,2304236,230423,"Croatá",23,"CE","Nordeste",2301,"Noroeste Cearense",23002,"Ibiapaba",697,"Sim",4965,17728,28.01,17.11,178.44
+271,2304269,230426,"Deputado Irapuan Pinheiro",23,"CE","Nordeste",2304,"Sertões Cearenses",23021,"Sertão de Senador Pompeu",470.4,"Sim",4325,9444,45.8,16,174.14
+272,2304277,230427,"Ererê",23,"CE","Nordeste",2305,"Jaguaribe",23025,"Serra do Pereiro",396,"Sim",2823,7104,39.74,16.28,130.6
+274,2304301,230430,"Farias Brito",23,"CE","Nordeste",2307,"Sul Cearense",23030,"Caririaçu",503.6,"Sim",5673,18861,30.08,23.01,250.72
+275,2304350,230435,"Forquilha",23,"CE","Nordeste",2301,"Noroeste Cearense",23005,"Sobral",517,"Sim",14656,23544,62.25,33.52,428.37
+278,2304509,230450,"Frecheirinha",23,"CE","Nordeste",2301,"Noroeste Cearense",23003,"Coreaú",181.2,"Sim",6987,13541,51.6,55.89,368.48
+279,2304608,230460,"General Sampaio",23,"CE","Nordeste",2302,"Norte Cearense",23011,"Médio Curu",187.1,"Sim",3907,6763,57.77,10.74,139.93
+280,2304657,230465,"Graça",23,"CE","Nordeste",2301,"Noroeste Cearense",23005,"Sobral",281.9,"Sim",5328,15294,34.84,19.83,191.31
+282,2304806,230480,"Granjeiro",23,"CE","Nordeste",2307,"Sul Cearense",23030,"Caririaçu",100.1,"Sim",1193,4494,26.55,9.68,72.52
+283,2304905,230490,"Groaíras",23,"CE","Nordeste",2301,"Noroeste Cearense",23005,"Sobral",155.9,"Sim",7125,10847,65.69,35.22,260.41
+285,2305001,230500,"Guaraciaba do Norte",23,"CE","Nordeste",2301,"Noroeste Cearense",23002,"Ibiapaba",611.5,"Sim",11576,39151,29.57,54.52,473.93
+286,2305100,230510,"Guaramiranga",23,"CE","Nordeste",2302,"Norte Cearense",23013,"Baturité",100.9,"Sim",1359,3720,36.53,6.09,67.2
+287,2305209,230520,"Hidrolândia",23,"CE","Nordeste",2301,"Noroeste Cearense",23007,"Santa Quitéria",927.4,"Sim",10269,20055,51.2,52.9,327.61
+288,2305233,230523,"Horizonte",23,"CE","Nordeste",2303,"Metropolitana de Fortaleza",23017,"Pacajus",160,"Sim",43745,63365,69.04,148.16,1935.24
+289,2305266,230526,"Ibaretama",23,"CE","Nordeste",2304,"Sertões Cearenses",23019,"Sertão de Quixeramobim",877.3,"Sim",NA,13188,NA,NA,NA
+290,2305308,230530,"Ibiapina",23,"CE","Nordeste",2301,"Noroeste Cearense",23002,"Ibiapaba",414.9,"Sim",9358,24649,37.97,50.72,358.93
+291,2305332,230533,"Ibicuitinga",23,"CE","Nordeste",2305,"Jaguaribe",23023,"Baixo Jaguaribe",424.2,"Sim",5346,12130,44.07,99.87,330.85
+292,2305357,230535,"Icapuí",23,"CE","Nordeste",2305,"Jaguaribe",23022,"Litoral de Aracati",423.4,"Sim",19418,19418,100,152.08,3096
+293,2305407,230540,"Icó",23,"CE","Nordeste",2306,"Centro-Sul Cearense",23026,"Iguatu",1872,"Sim",49536,67198,73.72,138,3369
+294,2305506,230550,"Iguatu",23,"CE","Nordeste",2306,"Centro-Sul Cearense",23026,"Iguatu",1017.1,"Sim",85377,101386,84.21,378.95,4204
+295,2305605,230560,"Independência",23,"CE","Nordeste",2304,"Sertões Cearenses",23018,"Sertão de Cratéus",3218.7,"Sim",9622,25957,37.07,39.62,341.16
+296,2305654,230565,"Ipaporanga",23,"CE","Nordeste",2304,"Sertões Cearenses",23018,"Sertão de Cratéus",702.1,"Sim",NA,11499,NA,NA,NA
+297,2305704,230570,"Ipaumirim",23,"CE","Nordeste",2306,"Centro-Sul Cearense",23028,"Lavras da Mangabeira",273.8,"Sim",6207,12305,50.44,23.52,217.13
+298,2305803,230580,"Ipu",23,"CE","Nordeste",2301,"Noroeste Cearense",23006,"Ipu",629.3,"Sim",NA,41391,NA,NA,NA
+299,2305902,230590,"Ipueiras",23,"CE","Nordeste",2301,"Noroeste Cearense",23006,"Ipu",1477.4,"Sim",NA,38022,NA,NA,NA
+300,2306009,230600,"Iracema",23,"CE","Nordeste",2305,"Jaguaribe",23025,"Serra do Pereiro",824,"Sim",7955,14071,56.53,53.07,370.07
+301,2306108,230610,"Irauçuba",23,"CE","Nordeste",2301,"Noroeste Cearense",23005,"Sobral",1450.7,"Sim",9088,23543,38.6,53.7,92.91
+302,2306207,230620,"Itaiçaba",23,"CE","Nordeste",2305,"Jaguaribe",23022,"Litoral de Aracati",209.9,"Sim",2434,7656,31.79,14.99,124.28
+304,2306306,230630,"Itapagé",23,"CE","Nordeste",2302,"Norte Cearense",23010,"Uruburetama",430.4,"Sim",42500,51113,83.15,41,1404.49
+305,2306405,230640,"Itapipoca",23,"CE","Nordeste",2302,"Norte Cearense",23008,"Itapipoca",1603.7,"Sim",57113,124950,45.71,310.22,2599.1
+306,2306504,230650,"Itapiúna",23,"CE","Nordeste",2302,"Norte Cearense",23013,"Baturité",588.7,"Sim",7523,19724,38.14,51.81,362.95
+308,2306603,230660,"Itatira",23,"CE","Nordeste",2302,"Norte Cearense",23012,"Canindé",783.4,"Sim",1843,20285,9.09,25.92,29.22
+309,2306702,230670,"Jaguaretama",23,"CE","Nordeste",2305,"Jaguaribe",23024,"Médio Jaguaribe",1759.7,"Sim",7442,17997,41.35,41.54,233.72
+310,2306801,230680,"Jaguaribara",23,"CE","Nordeste",2305,"Jaguaribe",23024,"Médio Jaguaribe",668.7,"Sim",7700,11102,69.36,54.63,295.2
+311,2306900,230690,"Jaguaribe",23,"CE","Nordeste",2305,"Jaguaribe",23024,"Médio Jaguaribe",1876.8,"Sim",32672,34561,94.53,113.55,1347.43
+312,2307007,230700,"Jaguaruana",23,"CE","Nordeste",2305,"Jaguaribe",23023,"Baixo Jaguaribe",847.3,"Sim",13642,33469,40.76,63.23,818.29
+313,2307106,230710,"Jardim",23,"CE","Nordeste",2307,"Sul Cearense",23032,"Cariri",519.1,"Sim",NA,27072,NA,NA,NA
+314,2307205,230720,"Jati",23,"CE","Nordeste",2307,"Sul Cearense",23033,"Brejo Santo",361.1,"Sim",3296,7807,42.22,17.29,136.4
+316,2307304,230730,"Juazeiro do Norte",23,"CE","Nordeste",2307,"Sul Cearense",23032,"Cariri",248.2,"Sim",222131,266022,83.5,673.73,9646.43
+317,2307403,230740,"Jucás",23,"CE","Nordeste",2306,"Centro-Sul Cearense",23027,"Várzea Alegre",937.2,"Sim",18566,24479,75.84,58,914
+318,2307502,230750,"Lavras da Mangabeira",23,"CE","Nordeste",2306,"Centro-Sul Cearense",23028,"Lavras da Mangabeira",948,"Sim",14855,31383,47.33,81.01,679.93
+319,2307601,230760,"Limoeiro do Norte",23,"CE","Nordeste",2305,"Jaguaribe",23023,"Baixo Jaguaribe",751.8,"Sim",57593,58175,99,144.6,4593.96
+320,2307635,230763,"Madalena",23,"CE","Nordeste",2304,"Sertões Cearenses",23019,"Sertão de Quixeramobim",1026.3,"Sim",NA,19425,NA,NA,NA
+322,2307700,230770,"Maranguape",23,"CE","Nordeste",2303,"Metropolitana de Fortaleza",23016,"Fortaleza",590.9,"Sim",71863,123570,58.16,268.97,3124.8
+325,2308005,230800,"Massapê",23,"CE","Nordeste",2301,"Noroeste Cearense",23005,"Sobral",566.6,"Sim",19333,37560,51.47,81.86,944.72
+326,2308104,230810,"Mauriti",23,"CE","Nordeste",2307,"Sul Cearense",23031,"Barro",1079,"Sim",15001,46113,32.53,58.83,645.94
+327,2308203,230820,"Meruoca",23,"CE","Nordeste",2301,"Noroeste Cearense",23004,"Meruoca",149.8,"Sim",3440,14674,23.44,19.55,123.99
+328,2308302,230830,"Milagres",23,"CE","Nordeste",2307,"Sul Cearense",23033,"Brejo Santo",577,"Sim",9145,28354,32.25,26.74,309.68
+329,2308351,230835,"Milhã",23,"CE","Nordeste",2304,"Sertões Cearenses",23021,"Sertão de Senador Pompeu",502.3,"Sim",NA,13170,NA,NA,NA
+330,2308377,230837,"Miraíma",23,"CE","Nordeste",2301,"Noroeste Cearense",23005,"Sobral",700,"Sim",5754,13428,42.85,32.42,204.68
+331,2308401,230840,"Missão Velha",23,"CE","Nordeste",2307,"Sul Cearense",23032,"Cariri",650.5,"Sim",11897,35240,33.76,46.09,576.93
+332,2308500,230850,"Mombaça",23,"CE","Nordeste",2304,"Sertões Cearenses",23021,"Sertão de Senador Pompeu",2119.5,"Sim",14586,43619,33.44,40.06,550.4
+333,2308609,230860,"Monsenhor Tabosa",23,"CE","Nordeste",2304,"Sertões Cearenses",23018,"Sertão de Cratéus",893.6,"Sim",8472,17012,49.8,42.72,278.34
+334,2308708,230870,"Morada Nova",23,"CE","Nordeste",2305,"Jaguaribe",23023,"Baixo Jaguaribe",2779.2,"Sim",58000,61903,93.69,500,2487
+337,2309003,230900,"Mucambo",23,"CE","Nordeste",2301,"Noroeste Cearense",23005,"Sobral",190.6,"Sim",8510,14357,59.27,21.96,248.48
+338,2309102,230910,"Mulungu",23,"CE","Nordeste",2302,"Norte Cearense",23013,"Baturité",95.6,"Sim",3464,12526,27.65,14.83,95.03
+339,2309201,230920,"Nova Olinda",23,"CE","Nordeste",2307,"Sul Cearense",23032,"Cariri",284.4,"Sim",8965,15181,59.05,37.91,396.98
+340,2309300,230930,"Nova Russas",23,"CE","Nordeste",2304,"Sertões Cearenses",23018,"Sertão de Cratéus",742.8,"Sim",NA,31870,NA,NA,NA
+341,2309409,230940,"Novo Oriente",23,"CE","Nordeste",2304,"Sertões Cearenses",23018,"Sertão de Cratéus",946.2,"Sim",10520,28220,37.28,85.58,442.04
+342,2309458,230945,"Ocara",23,"CE","Nordeste",2302,"Norte Cearense",23014,"Chorozinho",765.4,"Sim",4874,25123,19.4,36.7,258.53
+343,2309508,230950,"Orós",23,"CE","Nordeste",2306,"Centro-Sul Cearense",23026,"Iguatu",576.3,"Sim",12541,21394,58.62,41.13,654.69
+344,2309607,230960,"Pacajus",23,"CE","Nordeste",2303,"Metropolitana de Fortaleza",23017,"Pacajus",254.5,"Sim",40004,68800,58.15,152.03,1627.9
+346,2309805,230980,"Pacoti",23,"CE","Nordeste",2302,"Norte Cearense",23013,"Baturité",109.6,"Sim",3671,11910,30.82,8.49,72.21
+347,2309904,230990,"Pacujá",23,"CE","Nordeste",2301,"Noroeste Cearense",23005,"Sobral",76.1,"Sim",3397,6168,55.07,26.83,150.94
+348,2310001,231000,"Palhano",23,"CE","Nordeste",2305,"Jaguaribe",23023,"Baixo Jaguaribe",440.4,"Sim",3326,9209,36.12,42.64,221.33
+349,2310100,231010,"Palmácia",23,"CE","Nordeste",2302,"Norte Cearense",23013,"Baturité",117.8,"Sim",3953,12895,30.66,17.17,81.22
+352,2310308,231030,"Parambu",23,"CE","Nordeste",2304,"Sertões Cearenses",23020,"Sertão de Inhamuns",2312.4,"Sim",11153,31293,35.64,38,309.13
+353,2310407,231040,"Paramoti",23,"CE","Nordeste",2302,"Norte Cearense",23012,"Canindé",482.6,"Sim",5539,11549,47.96,20.11,194.34
+354,2310506,231050,"Pedra Branca",23,"CE","Nordeste",2304,"Sertões Cearenses",23021,"Sertão de Senador Pompeu",1303.3,"Sim",18513,42746,43.31,89,688
+355,2310605,231060,"Penaforte",23,"CE","Nordeste",2307,"Sul Cearense",23033,"Brejo Santo",141.9,"Sim",5679,8817,64.41,46.61,264.33
+356,2310704,231070,"Pentecoste",23,"CE","Nordeste",2302,"Norte Cearense",23011,"Médio Curu",1378.3,"Sim",18670,36773,50.77,64.99,852
+357,2310803,231080,"Pereiro",23,"CE","Nordeste",2305,"Jaguaribe",23025,"Serra do Pereiro",423.1,"Sim",4400,16115,27.3,32.67,201.01
+359,2310902,231090,"Piquet Carneiro",23,"CE","Nordeste",2304,"Sertões Cearenses",23021,"Sertão de Senador Pompeu",587.9,"Sim",4812,16461,29.23,24.18,205.07
+360,2310951,231095,"Pires Ferreira",23,"CE","Nordeste",2301,"Noroeste Cearense",23006,"Ipu",243.1,"Sim",2217,10674,20.77,28.84,89.8
+361,2311009,231100,"Poranga",23,"CE","Nordeste",2301,"Noroeste Cearense",23006,"Ipu",1309.3,"Sim",5413,12224,44.28,26.76,263.38
+362,2311108,231110,"Porteiras",23,"CE","Nordeste",2307,"Sul Cearense",23032,"Cariri",217.6,"Sim",5178,15010,34.5,17.79,231.71
+363,2311207,231120,"Potengi",23,"CE","Nordeste",2307,"Sul Cearense",23029,"Chapada do Araripe",338.7,"Sim",5088,10790,47.15,39.64,167.75
+364,2311231,231123,"Potiretama",23,"CE","Nordeste",2305,"Jaguaribe",23025,"Serra do Pereiro",404.6,"Sim",2352,6318,37.23,9.98,86.88
+365,2311264,231126,"Quiterianópolis",23,"CE","Nordeste",2304,"Sertões Cearenses",23018,"Sertão de Cratéus",1041,"Sim",4526,20690,21.88,17.99,166.75
+366,2311306,231130,"Quixadá",23,"CE","Nordeste",2304,"Sertões Cearenses",23019,"Sertão de Quixeramobim",2019.8,"Sim",48651,85351,57,170.63,2158.01
+367,2311355,231135,"Quixelô",23,"CE","Nordeste",2306,"Centro-Sul Cearense",23026,"Iguatu",583.2,"Sim",6390,14949,42.75,15,256
+368,2311405,231140,"Quixeramobim",23,"CE","Nordeste",2304,"Sertões Cearenses",23019,"Sertão de Quixeramobim",3330.1,"Sim",53915,77174,69.86,368,1725.61
+369,2311504,231150,"Quixeré",23,"CE","Nordeste",2305,"Jaguaribe",23023,"Baixo Jaguaribe",610.8,"Sim",5090,21572,23.6,45.13,294.9
+370,2311603,231160,"Redenção",23,"CE","Nordeste",2302,"Norte Cearense",23013,"Baturité",225.6,"Sim",12029,27272,44.11,84.48,690.42
+371,2311702,231170,"Reriutaba",23,"CE","Nordeste",2301,"Noroeste Cearense",23006,"Ipu",383.3,"Sim",7131,19015,37.5,44.84,291.92
+372,2311801,231180,"Russas",23,"CE","Nordeste",2305,"Jaguaribe",23023,"Baixo Jaguaribe",1591.3,"Sim",39333,75018,52.43,147.87,1951.7
+373,2311900,231190,"Saboeiro",23,"CE","Nordeste",2304,"Sertões Cearenses",23020,"Sertão de Inhamuns",1383.5,"Sim",4348,15753,27.6,14.25,207.34
+374,2311959,231195,"Salitre",23,"CE","Nordeste",2307,"Sul Cearense",23029,"Chapada do Araripe",804.3,"Sim",1039,16161,6.43,13.69,0
+375,2312007,231200,"Santana do Acaraú",23,"CE","Nordeste",2301,"Noroeste Cearense",23005,"Sobral",969.3,"Sim",12013,31596,38.02,30.9,431.14
+376,2312106,231210,"Santana do Cariri",23,"CE","Nordeste",2307,"Sul Cearense",23032,"Cariri",855.6,"Sim",4706,17468,26.94,39.93,226.97
+377,2312205,231220,"Santa Quitéria",23,"CE","Nordeste",2301,"Noroeste Cearense",23007,"Santa Quitéria",4260.5,"Sim",18574,43359,42.84,95.39,837.44
+378,2312304,231230,"São Benedito",23,"CE","Nordeste",2301,"Noroeste Cearense",23002,"Ibiapaba",338.2,"Sim",19937,46171,43.18,56.69,826.82
+380,2312502,231250,"São João do Jaguaribe",23,"CE","Nordeste",2305,"Jaguaribe",23023,"Baixo Jaguaribe",280.5,"Sim",NA,7721,NA,NA,NA
+382,2312700,231270,"Senador Pompeu",23,"CE","Nordeste",2304,"Sertões Cearenses",23021,"Sertão de Senador Pompeu",956.1,"Sim",10984,26547,41.38,27.16,450.84
+384,2312908,231290,"Sobral",23,"CE","Nordeste",2301,"Noroeste Cearense",23005,"Sobral",2122.9,"Sim",199260,201756,98.76,576.4,11176.41
+385,2313005,231300,"Solonópole",23,"CE","Nordeste",2304,"Sertões Cearenses",23021,"Sertão de Senador Pompeu",1536.2,"Sim",18060,18094,99.81,100,499.01
+386,2313104,231310,"Tabuleiro do Norte",23,"CE","Nordeste",2305,"Jaguaribe",23023,"Baixo Jaguaribe",861.8,"Sim",15973,30263,52.78,80.26,948.42
+387,2313203,231320,"Tamboril",23,"CE","Nordeste",2304,"Sertões Cearenses",23018,"Sertão de Cratéus",2000.8,"Sim",9719,25597,37.97,66.38,363.28
+388,2313252,231325,"Tarrafas",23,"CE","Nordeste",2306,"Centro-Sul Cearense",23027,"Várzea Alegre",454.4,"Sim",2621,8899,29.45,8.48,96.09
+389,2313302,231330,"Tauá",23,"CE","Nordeste",2304,"Sertões Cearenses",23020,"Sertão de Inhamuns",4009.3,"Sim",28663,57701,49.68,89.79,904.34
+390,2313351,231335,"Tejuçuoca",23,"CE","Nordeste",2302,"Norte Cearense",23011,"Médio Curu",781.7,"Sim",4732,18510,25.56,12.02,115.19
+391,2313401,231340,"Tianguá",23,"CE","Nordeste",2301,"Noroeste Cearense",23002,"Ibiapaba",908.9,"Sim",41019,73468,55.83,178.28,1876.8
+394,2313609,231360,"Ubajara",23,"CE","Nordeste",2301,"Noroeste Cearense",23002,"Ibiapaba",421,"Sim",13026,33792,38.55,65.79,612.01
+395,2313708,231370,"Umari",23,"CE","Nordeste",2306,"Centro-Sul Cearense",23028,"Lavras da Mangabeira",263.9,"Sim",2451,7665,31.98,17.5,90.85
+396,2313757,231375,"Umirim",23,"CE","Nordeste",2302,"Norte Cearense",23010,"Uruburetama",316.8,"Sim",9374,19521,48.02,58.65,424.13
+397,2313807,231380,"Uruburetama",23,"CE","Nordeste",2302,"Norte Cearense",23010,"Uruburetama",107.6,"Sim",12312,21206,58.06,48.7,544.81
+399,2313955,231395,"Varjota",23,"CE","Nordeste",2301,"Noroeste Cearense",23006,"Ipu",179.4,"Sim",11492,18136,63.37,40.65,488.92
+400,2314003,231400,"Várzea Alegre",23,"CE","Nordeste",2306,"Centro-Sul Cearense",23027,"Várzea Alegre",835.7,"Sim",21501,40062,53.67,60.4,818.18
+225,2400109,240010,"Acari",24,"RN","Nordeste",2402,"Central Potiguar",24012,"Seridó Oriental",608.6,"Sim",9151,11344,80.67,34.1,199.86
+226,2400208,240020,"Açu",24,"RN","Nordeste",2401,"Oeste Potiguar",24004,"Vale do Açu",1303.4,"Sim",42364,57292,73.94,140.35,1686.66
+227,2400307,240030,"Afonso Bezerra",24,"RN","Nordeste",2402,"Central Potiguar",24009,"Angicos",576.2,"Sim",5475,11202,48.88,31.94,185.13
+228,2400406,240040,"Água Nova",24,"RN","Nordeste",2401,"Oeste Potiguar",24005,"Serra de São Miguel",50.7,"Sim",2055,3210,64.02,3.06,70.44
+229,2400505,240050,"Alexandria",24,"RN","Nordeste",2401,"Oeste Potiguar",24006,"Pau dos Ferros",381.2,"Sim",13512,13852,97.55,45,526.04
+230,2400604,240060,"Almino Afonso",24,"RN","Nordeste",2401,"Oeste Potiguar",24007,"Umarizal",128,"Sim",3499,4899,71.42,9.44,138.17
+231,2400703,240070,"Alto do Rodrigues",24,"RN","Nordeste",2401,"Oeste Potiguar",24004,"Vale do Açu",191.3,"Sim",9966,13915,71.62,19.35,441.51
+232,2400802,240080,"Angicos",24,"RN","Nordeste",2402,"Central Potiguar",24009,"Angicos",741.6,"Sim",10507,11907,88.24,44.84,505.1
+233,2400901,240090,"Antônio Martins",24,"RN","Nordeste",2401,"Oeste Potiguar",24007,"Umarizal",244.6,"Sim",2879,7205,39.96,11.05,0
+234,2401008,240100,"Apodi",24,"RN","Nordeste",2401,"Oeste Potiguar",24002,"Chapada do Apodi",1602.5,"Sim",18584,36189,51.35,49.71,968.35
+235,2401107,240110,"Areia Branca",24,"RN","Nordeste",2401,"Oeste Potiguar",24001,"Mossoró",357.6,"Sim",21955,27356,80.26,61.82,1081.54
+237,2401305,240130,"Augusto Severo",24,"RN","Nordeste",2401,"Oeste Potiguar",24003,"Médio Oeste",896.9,"Sim",5232,9716,53.85,15.16,188.38
+239,2401453,240145,"Baraúna",24,"RN","Nordeste",2401,"Oeste Potiguar",24001,"Mossoró",825.7,"Sim",17132,27238,62.9,35.69,708.77
+240,2401503,240150,"Barcelona",24,"RN","Nordeste",2403,"Agreste Potiguar",24014,"Borborema Potiguar",152.6,"Sim",3861,4066,94.96,13.73,127.64
+241,2401602,240160,"Bento Fernandes",24,"RN","Nordeste",2403,"Agreste Potiguar",24013,"Baixa Verde",301.1,"Sim",2277,5458,41.72,9.72,108.95
+242,2401651,240165,"Bodó",24,"RN","Nordeste",2402,"Central Potiguar",24010,"Serra de Santana",253.5,"Sim",1367,2358,57.97,5.01,70.25
+243,2401701,240170,"Bom Jesus",24,"RN","Nordeste",2403,"Agreste Potiguar",24015,"Agreste Potiguar",122,"Sim",7387,10114,73.04,46.62,411.99
+244,2401800,240180,"Brejinho",24,"RN","Nordeste",2403,"Agreste Potiguar",24015,"Agreste Potiguar",61.6,"Sim",8925,12509,71.35,39.5,505.26
+245,2401859,240185,"Caiçara do Norte",24,"RN","Nordeste",2402,"Central Potiguar",24008,"Macau",189.5,"Sim",4788,6587,72.69,9.18,154.2
+246,2401909,240190,"Caiçara do Rio do Vento",24,"RN","Nordeste",2402,"Central Potiguar",24009,"Angicos",261.2,"Sim",2845,3608,78.85,7.98,175.12
+247,2402006,240200,"Caicó",24,"RN","Nordeste",2402,"Central Potiguar",24011,"Seridó Ocidental",1228.6,"Sim",61630,67259,91.63,135.73,2377.26
+248,2402105,240210,"Campo Redondo",24,"RN","Nordeste",2403,"Agreste Potiguar",24014,"Borborema Potiguar",213.7,"Sim",5651,11066,51.07,10.82,177.39
+250,2402303,240230,"Caraúbas",24,"RN","Nordeste",2401,"Oeste Potiguar",24002,"Chapada do Apodi",1095,"Sim",14514,20564,70.58,72.3,641.07
+251,2402402,240240,"Carnaúba dos Dantas",24,"RN","Nordeste",2402,"Central Potiguar",24012,"Seridó Oriental",245.6,"Sim",5227,8045,64.97,9.16,0
+252,2402501,240250,"Carnaubais",24,"RN","Nordeste",2401,"Oeste Potiguar",24004,"Vale do Açu",542.5,"Sim",3167,10760,29.43,10.88,119.48
+254,2402709,240270,"Cerro Corá",24,"RN","Nordeste",2402,"Central Potiguar",24010,"Serra de Santana",393.6,"Sim",5807,11318,51.31,17.24,265.36
+255,2402808,240280,"Coronel Ezequiel",24,"RN","Nordeste",2403,"Agreste Potiguar",24014,"Borborema Potiguar",185.7,"Sim",2350,5587,42.06,5.8,74.37
+256,2402907,240290,"Coronel João Pessoa",24,"RN","Nordeste",2401,"Oeste Potiguar",24005,"Serra de São Miguel",117.1,"Sim",1700,4963,34.25,4.65,63.82
+257,2403004,240300,"Cruzeta",24,"RN","Nordeste",2402,"Central Potiguar",24012,"Seridó Oriental",295.8,"Sim",6682,8164,81.85,17.81,248.2
+258,2403103,240310,"Currais Novos",24,"RN","Nordeste",2402,"Central Potiguar",24012,"Seridó Oriental",864.3,"Sim",37929,44887,84.5,78.72,923.09
+259,2403202,240320,"Doutor Severiano",24,"RN","Nordeste",2401,"Oeste Potiguar",24005,"Serra de São Miguel",108.3,"Sim",3756,7184,52.28,11.95,91.81
+261,2403301,240330,"Encanto",24,"RN","Nordeste",2401,"Oeste Potiguar",24005,"Serra de São Miguel",125.7,"Sim",2464,5593,44.06,26.46,145.86
+262,2403400,240340,"Equador",24,"RN","Nordeste",2402,"Central Potiguar",24012,"Seridó Oriental",265,"Sim",4707,6087,77.33,14.36,148.38
+265,2403707,240370,"Felipe Guerra",24,"RN","Nordeste",2401,"Oeste Potiguar",24002,"Chapada do Apodi",268.6,"Sim",3470,6013,57.71,20.33,119.46
+266,2403756,240375,"Fernando Pedroza",24,"RN","Nordeste",2402,"Central Potiguar",24009,"Angicos",322.6,"Sim",2635,3037,86.76,7.4,161.2
+267,2403806,240380,"Florânia",24,"RN","Nordeste",2402,"Central Potiguar",24010,"Serra de Santana",504.9,"Sim",7114,9254,76.87,15.37,246.36
+268,2403905,240390,"Francisco Dantas",24,"RN","Nordeste",2401,"Oeste Potiguar",24006,"Pau dos Ferros",181.6,"Sim",1667,2909,57.3,2.55,64.15
+269,2404002,240400,"Frutuoso Gomes",24,"RN","Nordeste",2401,"Oeste Potiguar",24007,"Umarizal",63.3,"Sim",2809,4228,66.44,9.39,77.53
+270,2404101,240410,"Galinhos",24,"RN","Nordeste",2402,"Central Potiguar",24008,"Macau",342.2,"Sim",NA,2584,NA,NA,NA
+272,2404309,240430,"Governador Dix-Sept Rosado",24,"RN","Nordeste",2401,"Oeste Potiguar",24002,"Chapada do Apodi",1129.3,"Sim",6092,13048,46.69,15.13,223.67
+273,2404408,240440,"Grossos",24,"RN","Nordeste",2401,"Oeste Potiguar",24001,"Mossoró",126.5,"Sim",7642,10197,74.94,59.89,371.63
+274,2404507,240450,"Guamaré",24,"RN","Nordeste",2402,"Central Potiguar",24008,"Macau",259,"Sim",9239,14633,63.14,44.1,351.36
+275,2404606,240460,"Ielmo Marinho",24,"RN","Nordeste",2403,"Agreste Potiguar",24015,"Agreste Potiguar",312,"Sim",1869,13400,13.95,3.83,69.08
+276,2404705,240470,"Ipanguaçu",24,"RN","Nordeste",2401,"Oeste Potiguar",24004,"Vale do Açu",374.2,"Sim",3842,15147,25.36,22.24,133.3
+277,2404804,240480,"Ipueira",24,"RN","Nordeste",2402,"Central Potiguar",24011,"Seridó Ocidental",127.3,"Sim",2020,2221,90.95,4.08,84.36
+278,2404853,240485,"Itajá",24,"RN","Nordeste",2401,"Oeste Potiguar",24004,"Vale do Açu",203.6,"Sim",NA,7457,NA,NA,NA
+279,2404903,240490,"Itaú",24,"RN","Nordeste",2401,"Oeste Potiguar",24006,"Pau dos Ferros",133,"Sim",5161,5878,87.8,8.19,178.11
+280,2405009,240500,"Jaçanã",24,"RN","Nordeste",2403,"Agreste Potiguar",24014,"Borborema Potiguar",54.6,"Sim",3938,8827,44.61,5.52,119.05
+281,2405108,240510,"Jandaíra",24,"RN","Nordeste",2403,"Agreste Potiguar",24013,"Baixa Verde",435.9,"Sim",3340,6898,48.42,14.33,109.61
+282,2405207,240520,"Janduís",24,"RN","Nordeste",2401,"Oeste Potiguar",24003,"Médio Oeste",304.9,"Sim",4101,5419,75.68,14.68,116.22
+283,2405306,240530,"Januário Cicco",24,"RN","Nordeste",2403,"Agreste Potiguar",24015,"Agreste Potiguar",187.2,"Sim",3518,9879,35.61,17.66,211.71
+284,2405405,240540,"Japi",24,"RN","Nordeste",2403,"Agreste Potiguar",24014,"Borborema Potiguar",189,"Sim",3937,5366,73.37,8.05,139.38
+285,2405504,240550,"Jardim de Angicos",24,"RN","Nordeste",2402,"Central Potiguar",24009,"Angicos",254,"Sim",1432,2669,53.65,7.45,47.18
+286,2405603,240560,"Jardim de Piranhas",24,"RN","Nordeste",2402,"Central Potiguar",24011,"Seridó Ocidental",330.5,"Sim",11276,14606,77.2,31.06,299.01
+287,2405702,240570,"Jardim do Seridó",24,"RN","Nordeste",2402,"Central Potiguar",24012,"Seridó Oriental",368.6,"Sim",10192,12553,81.19,26.65,309.64
+288,2405801,240580,"João Câmara",24,"RN","Nordeste",2403,"Agreste Potiguar",24013,"Baixa Verde",715,"Sim",25385,34585,73.4,81.42,1012.1
+289,2405900,240590,"João Dias",24,"RN","Nordeste",2401,"Oeste Potiguar",24007,"Umarizal",88.2,"Sim",972,2691,36.12,5.02,0
+290,2406007,240600,"José da Penha",24,"RN","Nordeste",2401,"Oeste Potiguar",24006,"Pau dos Ferros",117.6,"Sim",3651,6049,60.36,21.9,130.06
+291,2406106,240610,"Jucurutu",24,"RN","Nordeste",2401,"Oeste Potiguar",24004,"Vale do Açu",933.7,"Sim",11341,18450,61.47,21.05,448.43
+293,2406205,240620,"Lagoa d'Anta",24,"RN","Nordeste",2403,"Agreste Potiguar",24015,"Agreste Potiguar",105.7,"Sim",4307,6692,64.36,22.22,153.5
+294,2406304,240630,"Lagoa de Pedras",24,"RN","Nordeste",2403,"Agreste Potiguar",24015,"Agreste Potiguar",117.7,"Sim",4203,7478,56.2,23.8,138.88
+295,2406403,240640,"Lagoa de Velhos",24,"RN","Nordeste",2403,"Agreste Potiguar",24014,"Borborema Potiguar",112.8,"Sim",2765,2765,100,17.46,106.84
+296,2406502,240650,"Lagoa Nova",24,"RN","Nordeste",2402,"Central Potiguar",24010,"Serra de Santana",176.3,"Sim",7586,15274,49.67,21.82,480.24
+297,2406601,240660,"Lagoa Salgada",24,"RN","Nordeste",2403,"Agreste Potiguar",24015,"Agreste Potiguar",79.3,"Sim",5387,8142,66.16,19.46,213.43
+298,2406700,240670,"Lajes",24,"RN","Nordeste",2402,"Central Potiguar",24009,"Angicos",676.6,"Sim",8840,11151,79.28,49.26,332.21
+299,2406809,240680,"Lajes Pintadas",24,"RN","Nordeste",2403,"Agreste Potiguar",24014,"Borborema Potiguar",130.2,"Sim",2489,4803,51.82,11.71,81.03
+300,2406908,240690,"Lucrécia",24,"RN","Nordeste",2401,"Oeste Potiguar",24007,"Umarizal",30.9,"Sim",2416,3933,61.43,6.6,83.38
+301,2407005,240700,"Luís Gomes",24,"RN","Nordeste",2401,"Oeste Potiguar",24005,"Serra de São Miguel",166.6,"Sim",6625,10129,65.41,19.1,0
+302,2407104,240710,"Macaíba",24,"RN","Nordeste",2404,"Leste Potiguar",24017,"Macaíba",510.8,"Sim",41001,78021,52.55,191.25,1466.44
+303,2407203,240720,"Macau",24,"RN","Nordeste",2402,"Central Potiguar",24008,"Macau",788,"Sim",23797,31318,75.99,86.15,885.15
+304,2407252,240725,"Major Sales",24,"RN","Nordeste",2401,"Oeste Potiguar",24005,"Serra de São Miguel",32,"Sim",NA,3906,NA,NA,NA
+305,2407302,240730,"Marcelino Vieira",24,"RN","Nordeste",2401,"Oeste Potiguar",24006,"Pau dos Ferros",345.7,"Sim",5058,8499,59.51,7.75,223.53
+306,2407401,240740,"Martins",24,"RN","Nordeste",2401,"Oeste Potiguar",24007,"Umarizal",169.5,"Sim",5340,8706,61.34,28.07,217.68
+308,2407609,240760,"Messias Targino",24,"RN","Nordeste",2401,"Oeste Potiguar",24003,"Médio Oeste",135.1,"Sim",2482,4530,54.79,6.42,40.3
+310,2407807,240780,"Monte Alegre",24,"RN","Nordeste",2403,"Agreste Potiguar",24015,"Agreste Potiguar",211.3,"Sim",18547,22155,83.71,76.68,605.83
+311,2407906,240790,"Monte das Gameleiras",24,"RN","Nordeste",2403,"Agreste Potiguar",24014,"Borborema Potiguar",71.9,"Sim",1821,2219,82.06,4.22,56.24
+312,2408003,240800,"Mossoró",24,"RN","Nordeste",2401,"Oeste Potiguar",24001,"Mossoró",2099.3,"Sim",263279,288162,91.36,397.91,10985.17
+315,2408300,240830,"Nova Cruz",24,"RN","Nordeste",2403,"Agreste Potiguar",24015,"Agreste Potiguar",277.7,"Sim",26784,37395,71.62,91.78,1056.57
+316,2408409,240840,"Olho D'Água do Borges",24,"RN","Nordeste",2401,"Oeste Potiguar",24007,"Umarizal",141.2,"Sim",3026,4370,69.24,8.05,112.48
+317,2408508,240850,"Ouro Branco",24,"RN","Nordeste",2402,"Central Potiguar",24012,"Seridó Oriental",253.3,"Sim",3377,4871,69.33,9.74,109.44
+318,2408607,240860,"Paraná",24,"RN","Nordeste",2401,"Oeste Potiguar",24006,"Pau dos Ferros",81.4,"Sim",2874,4222,68.07,8.13,53.89
+319,2408706,240870,"Paraú",24,"RN","Nordeste",2401,"Oeste Potiguar",24003,"Médio Oeste",383.2,"Sim",3424,3891,88,12.7,108.91
+320,2408805,240880,"Parazinho",24,"RN","Nordeste",2403,"Agreste Potiguar",24013,"Baixa Verde",274.7,"Sim",3556,5173,68.74,7.36,105.79
+321,2408904,240890,"Parelhas",24,"RN","Nordeste",2402,"Central Potiguar",24012,"Seridó Oriental",513.1,"Sim",18032,21483,83.94,33.43,672.46
+323,2409100,240910,"Passa e Fica",24,"RN","Nordeste",2403,"Agreste Potiguar",24015,"Agreste Potiguar",42.1,"Sim",7724,12655,61.04,30.31,251.7
+324,2409209,240920,"Passagem",24,"RN","Nordeste",2403,"Agreste Potiguar",24015,"Agreste Potiguar",41.2,"Sim",1265,3075,41.14,16.05,58.03
+325,2409308,240930,"Patu",24,"RN","Nordeste",2401,"Oeste Potiguar",24007,"Umarizal",319.1,"Sim",417,12706,3.28,23.43,14.88
+326,2409332,240933,"Santa Maria",24,"RN","Nordeste",2403,"Agreste Potiguar",24015,"Agreste Potiguar",219.6,"Sim",3444,5341,64.48,9.95,126.28
+327,2409407,240940,"Pau dos Ferros",24,"RN","Nordeste",2401,"Oeste Potiguar",24006,"Pau dos Ferros",260,"Sim",27622,29954,92.21,126.46,974.89
+328,2409506,240950,"Pedra Grande",24,"RN","Nordeste",2404,"Leste Potiguar",24016,"Litoral Nordeste",221.4,"Sim",1341,3429,39.11,4.7,70.03
+329,2409605,240960,"Pedra Preta",24,"RN","Nordeste",2402,"Central Potiguar",24009,"Angicos",295,"Sim",982,2568,38.24,9.83,62.39
+330,2409704,240970,"Pedro Avelino",24,"RN","Nordeste",2402,"Central Potiguar",24009,"Angicos",952.8,"Sim",4056,7059,57.46,19.11,175.08
+332,2409902,240990,"Pendências",24,"RN","Nordeste",2401,"Oeste Potiguar",24004,"Vale do Açu",419.1,"Sim",10168,14751,68.93,38.17,460.03
+333,2410009,241000,"Pilões",24,"RN","Nordeste",2401,"Oeste Potiguar",24006,"Pau dos Ferros",82.7,"Sim",2759,3761,73.36,5.36,23.17
+334,2410108,241010,"Poço Branco",24,"RN","Nordeste",2403,"Agreste Potiguar",24013,"Baixa Verde",230.4,"Sim",13013,15139,85.96,79.97,410.22
+335,2410207,241020,"Portalegre",24,"RN","Nordeste",2401,"Oeste Potiguar",24006,"Pau dos Ferros",110.1,"Sim",4101,7811,52.5,11.5,154.04
+336,2410256,241025,"Porto do Mangue",24,"RN","Nordeste",2401,"Oeste Potiguar",24004,"Vale do Açu",319,"Sim",2010,5884,34.16,5.3,70.52
+337,2410306,241030,"Presidente Juscelino",24,"RN","Nordeste",2403,"Agreste Potiguar",24015,"Agreste Potiguar",167.3,"Sim",9150,9814,93.23,38.09,313.38
+338,2410405,241040,"Pureza",24,"RN","Nordeste",2404,"Leste Potiguar",24016,"Litoral Nordeste",504.3,"Sim",3429,9331,36.75,15.03,126.45
+339,2410504,241050,"Rafael Fernandes",24,"RN","Nordeste",2401,"Oeste Potiguar",24006,"Pau dos Ferros",78.2,"Sim",2841,5040,56.37,4.7,68.73
+340,2410603,241060,"Rafael Godeiro",24,"RN","Nordeste",2401,"Oeste Potiguar",24007,"Umarizal",100.1,"Sim",2028,3213,63.12,4.6,167.44
+341,2410702,241070,"Riacho da Cruz",24,"RN","Nordeste",2401,"Oeste Potiguar",24006,"Pau dos Ferros",127.2,"Sim",1987,3485,57.02,4.49,62.83
+342,2410801,241080,"Riacho de Santana",24,"RN","Nordeste",2401,"Oeste Potiguar",24005,"Serra de São Miguel",128.1,"Sim",1451,4278,33.92,12.26,16.86
+343,2410900,241090,"Riachuelo",24,"RN","Nordeste",2403,"Agreste Potiguar",24015,"Agreste Potiguar",262.9,"Sim",4837,7863,61.52,26.03,214.26
+344,2411007,241100,"Rodolfo Fernandes",24,"RN","Nordeste",2401,"Oeste Potiguar",24006,"Pau dos Ferros",154.8,"Sim",3843,4547,84.52,7.95,138.3
+345,2411056,241105,"Tibau",24,"RN","Nordeste",2401,"Oeste Potiguar",24001,"Mossoró",169.2,"Sim",3090,4019,76.88,40.39,205.22
+346,2411106,241110,"Ruy Barbosa",24,"RN","Nordeste",2403,"Agreste Potiguar",24014,"Borborema Potiguar",125.8,"Sim",1776,3678,48.29,3.44,92.32
+347,2411205,241120,"Santa Cruz",24,"RN","Nordeste",2403,"Agreste Potiguar",24014,"Borborema Potiguar",624.4,"Sim",33163,38924,85.2,86,1862
+348,2411403,241140,"Santana do Matos",24,"RN","Nordeste",2402,"Central Potiguar",24010,"Serra de Santana",1419.4,"Sim",6804,13605,50.01,13.87,271.3
+349,2411429,241142,"Santana do Seridó",24,"RN","Nordeste",2402,"Central Potiguar",24012,"Seridó Oriental",188.4,"Sim",1626,2675,60.79,2.98,48.73
+350,2411502,241150,"Santo Antônio",24,"RN","Nordeste",2403,"Agreste Potiguar",24015,"Agreste Potiguar",301.1,"Sim",14616,23865,61.24,47.78,402.66
+351,2411601,241160,"São Bento do Norte",24,"RN","Nordeste",2402,"Central Potiguar",24008,"Macau",288.7,"Sim",2384,2905,82.07,8.99,81.88
+352,2411700,241170,"São Bento do Trairí",24,"RN","Nordeste",2403,"Agreste Potiguar",24014,"Borborema Potiguar",190.8,"Sim",2083,4318,48.24,7.55,76.61
+353,2411809,241180,"São Fernando",24,"RN","Nordeste",2402,"Central Potiguar",24011,"Seridó Ocidental",404.4,"Sim",2423,3587,67.55,3.78,98.87
+354,2411908,241190,"São Francisco do Oeste",24,"RN","Nordeste",2401,"Oeste Potiguar",24006,"Pau dos Ferros",75.6,"Sim",3176,4173,76.11,17.31,85.59
+356,2412104,241210,"São João do Sabugi",24,"RN","Nordeste",2402,"Central Potiguar",24011,"Seridó Ocidental",277,"Sim",4994,6218,80.32,9.12,219.95
+358,2412302,241230,"São José do Campestre",24,"RN","Nordeste",2403,"Agreste Potiguar",24014,"Borborema Potiguar",341.1,"Sim",11025,12933,85.25,53.64,310.46
+359,2412401,241240,"São José do Seridó",24,"RN","Nordeste",2402,"Central Potiguar",24012,"Seridó Oriental",174.5,"Sim",2972,4567,65.08,9.12,87.33
+360,2412500,241250,"São Miguel",24,"RN","Nordeste",2401,"Oeste Potiguar",24005,"Serra de São Miguel",171.7,"Sim",15231,23274,65.44,30.13,0
+361,2412559,241255,"São Miguel do Gostoso",24,"RN","Nordeste",2404,"Leste Potiguar",24016,"Litoral Nordeste",342,"Sim",1042,9427,11.05,2.07,27.46
+362,2412609,241260,"São Paulo do Potengi",24,"RN","Nordeste",2403,"Agreste Potiguar",24015,"Agreste Potiguar",240.4,"Sim",13124,17239,76.13,45.8,536.95
+363,2412708,241270,"São Pedro",24,"RN","Nordeste",2403,"Agreste Potiguar",24015,"Agreste Potiguar",195.2,"Sim",3483,6216,56.03,12.39,147.45
+364,2412807,241280,"São Rafael",24,"RN","Nordeste",2401,"Oeste Potiguar",24004,"Vale do Açu",469.1,"Sim",5733,8347,68.68,34.03,194.46
+365,2412906,241290,"São Tomé",24,"RN","Nordeste",2403,"Agreste Potiguar",24014,"Borborema Potiguar",862.6,"Sim",6787,11205,60.57,21.44,275.71
+366,2413003,241300,"São Vicente",24,"RN","Nordeste",2402,"Central Potiguar",24010,"Serra de Santana",197.8,"Sim",5185,6400,81.02,8.31,187.12
+367,2413102,241310,"Senador Elói de Souza",24,"RN","Nordeste",2403,"Agreste Potiguar",24015,"Agreste Potiguar",167.6,"Sim",5590,6087,91.84,10.84,195.31
+369,2413300,241330,"Serra de São Bento",24,"RN","Nordeste",2403,"Agreste Potiguar",24014,"Borborema Potiguar",96.6,"Sim",3342,5883,56.81,6.18,117.96
+370,2413359,241335,"Serra do Mel",24,"RN","Nordeste",2401,"Oeste Potiguar",24001,"Mossoró",616.5,"Sim",607,11507,5.28,28.11,8.63
+371,2413409,241340,"Serra Negra do Norte",24,"RN","Nordeste",2402,"Central Potiguar",24011,"Seridó Ocidental",562.4,"Sim",6503,8130,79.99,21.5,278.1
+372,2413508,241350,"Serrinha",24,"RN","Nordeste",2403,"Agreste Potiguar",24015,"Agreste Potiguar",193.4,"Sim",3918,6518,60.11,4.55,164.6
+373,2413557,241355,"Serrinha dos Pintos",24,"RN","Nordeste",2401,"Oeste Potiguar",24007,"Umarizal",122.6,"Sim",2540,4797,52.95,6.43,113.42
+374,2413607,241360,"Severiano Melo",24,"RN","Nordeste",2401,"Oeste Potiguar",24006,"Pau dos Ferros",157.9,"Sim",3893,3893,100,12.16,186.1
+375,2413706,241370,"Sítio Novo",24,"RN","Nordeste",2403,"Agreste Potiguar",24014,"Borborema Potiguar",213.5,"Sim",2698,5433,49.66,9.81,97.17
+376,2413805,241380,"Taboleiro Grande",24,"RN","Nordeste",2401,"Oeste Potiguar",24006,"Pau dos Ferros",124.1,"Sim",1804,2518,71.64,5.95,72.23
+377,2413904,241390,"Taipu",24,"RN","Nordeste",2404,"Leste Potiguar",24016,"Litoral Nordeste",352.8,"Sim",7956,12366,64.34,31.59,283.04
+378,2414001,241400,"Tangará",24,"RN","Nordeste",2403,"Agreste Potiguar",24014,"Borborema Potiguar",356.8,"Sim",11951,15529,76.96,45.14,523.78
+379,2414100,241410,"Tenente Ananias",24,"RN","Nordeste",2401,"Oeste Potiguar",24006,"Pau dos Ferros",223.7,"Sim",7691,10646,72.24,10.4,22.65
+380,2414159,241415,"Tenente Laurentino Cruz",24,"RN","Nordeste",2402,"Central Potiguar",24010,"Serra de Santana",74.4,"Sim",4658,5757,80.91,10.4,206.95
+382,2414308,241430,"Timbaúba dos Batistas",24,"RN","Nordeste",2402,"Central Potiguar",24011,"Seridó Ocidental",135.5,"Sim",1821,2418,75.31,4.53,58.01
+383,2414407,241440,"Touros",24,"RN","Nordeste",2404,"Leste Potiguar",24016,"Litoral Nordeste",840.4,"Sim",2463,33506,7.35,32.55,75.33
+384,2414456,241445,"Triunfo Potiguar",24,"RN","Nordeste",2401,"Oeste Potiguar",24003,"Médio Oeste",268.7,"Sim",2894,3366,85.98,8,93.78
+385,2414506,241450,"Umarizal",24,"RN","Nordeste",2401,"Oeste Potiguar",24007,"Umarizal",213.6,"Sim",9219,10835,85.09,27.1,321.32
+386,2414605,241460,"Upanema",24,"RN","Nordeste",2401,"Oeste Potiguar",24003,"Médio Oeste",873.9,"Sim",7050,14282,49.36,23.83,334.07
+387,2414704,241470,"Várzea",24,"RN","Nordeste",2403,"Agreste Potiguar",24015,"Agreste Potiguar",72.7,"Sim",4784,5512,86.79,16.43,163.27
+388,2414753,241475,"Venha-Ver",24,"RN","Nordeste",2401,"Oeste Potiguar",24005,"Serra de São Miguel",71.6,"Sim",1293,4121,31.38,4.99,59.26
+389,2414803,241480,"Vera Cruz",24,"RN","Nordeste",2403,"Agreste Potiguar",24015,"Agreste Potiguar",83.5,"Sim",12015,12016,99.99,19.77,475.23
+390,2414902,241490,"Viçosa",24,"RN","Nordeste",2401,"Oeste Potiguar",24006,"Pau dos Ferros",37.9,"Sim",1632,1714,95.22,4.88,65.81
+392,2500106,250010,"Água Branca",25,"PB","Nordeste",2501,"Sertão Paraibano",25007,"Serra do Teixeira",236.6,"Sim",4476,10083,44.39,5.62,138.27
+393,2500205,250020,"Aguiar",25,"PB","Nordeste",2501,"Sertão Paraibano",25005,"Piancó",344.7,"Sim",3358,5573,60.25,5,120.66
+397,2500536,250053,"Alcantil",25,"PB","Nordeste",2502,"Borborema",25011,"Cariri Oriental",305.4,"Sim",5425,5451,99.52,10,215
+398,2500577,250057,"Algodão de Jandaíra",25,"PB","Nordeste",2503,"Agreste Paraibano",25012,"Curimataú Ocidental",220.2,"Sim",NA,2475,NA,1.82,0
+400,2500700,250070,"São João do Rio do Peixe",25,"PB","Nordeste",2501,"Sertão Paraibano",25002,"Cajazeiras",474.4,"Sim",NA,17929,NA,31.11,0
+401,2500734,250073,"Amparo",25,"PB","Nordeste",2502,"Borborema",25010,"Cariri Ocidental",122,"Sim",1498,2212,67.72,3,62.78
+402,2500775,250077,"Aparecida",25,"PB","Nordeste",2501,"Sertão Paraibano",25003,"Sousa",295.7,"Sim",4806,8263,58.16,6.78,173.46
+404,2500908,250090,"Arara",25,"PB","Nordeste",2503,"Agreste Paraibano",25012,"Curimataú Ocidental",99.1,"Sim",10429,13355,78.09,12.39,237.6
+405,2501005,250100,"Araruna",25,"PB","Nordeste",2503,"Agreste Paraibano",25013,"Curimataú Oriental",245.7,"Sim",11057,20051,55.14,20.02,126.87
+407,2501153,250115,"Areia de Baraúnas",25,"PB","Nordeste",2501,"Sertão Paraibano",25004,"Patos",96.3,"Sim",953,1880,50.69,1.62,29.68
+408,2501203,250120,"Areial",25,"PB","Nordeste",2503,"Agreste Paraibano",25014,"Esperança",33.1,"Sim",NA,6900,NA,9.47,0
+409,2501302,250130,"Aroeiras",25,"PB","Nordeste",2503,"Agreste Paraibano",25019,"Umbuzeiro",374.7,"Sim",NA,19204,NA,11.32,0
+410,2501351,250135,"Assunção",25,"PB","Nordeste",2502,"Borborema",25010,"Cariri Ocidental",126.4,"Sim",NA,3830,NA,NA,NA
+412,2501500,250150,"Bananeiras",25,"PB","Nordeste",2503,"Agreste Paraibano",25015,"Brejo Paraibano",257.9,"Sim",5266,21235,24.8,17.06,51.41
+413,2501534,250153,"Baraúna",25,"PB","Nordeste",2502,"Borborema",25009,"Seridó Oriental Paraibano",50.6,"Sim",NA,4758,NA,NA,NA
+414,2501575,250157,"Barra de Santana",25,"PB","Nordeste",2502,"Borborema",25011,"Cariri Oriental",376.9,"Sim",891,8249,10.8,1.46,35.38
+415,2501609,250160,"Barra de Santa Rosa",25,"PB","Nordeste",2503,"Agreste Paraibano",25012,"Curimataú Ocidental",775.7,"Sim",9491,15145,62.67,12.73,283.95
+416,2501708,250170,"Barra de São Miguel",25,"PB","Nordeste",2502,"Borborema",25011,"Cariri Oriental",595.2,"Sim",NA,5905,NA,4.71,0
+419,2502003,250200,"Belém do Brejo do Cruz",25,"PB","Nordeste",2501,"Sertão Paraibano",25001,"Catolé do Rocha",603,"Sim",5130,7320,70.08,15.07,151.18
+420,2502052,250205,"Bernardino Batista",25,"PB","Nordeste",2501,"Sertão Paraibano",25002,"Cajazeiras",50.6,"Sim",NA,3356,NA,2.02,0
+421,2502102,250210,"Boa Ventura",25,"PB","Nordeste",2501,"Sertão Paraibano",25006,"Itaporanga",170.6,"Sim",4357,5473,79.61,9.72,74.94
+422,2502151,250215,"Boa Vista",25,"PB","Nordeste",2503,"Agreste Paraibano",25017,"Campina Grande",476.5,"Sim",4861,6884,70.61,16.25,175.2
+423,2502201,250220,"Bom Jesus",25,"PB","Nordeste",2501,"Sertão Paraibano",25002,"Cajazeiras",47.6,"Sim",1811,2532,71.52,10.92,62.62
+424,2502300,250230,"Bom Sucesso",25,"PB","Nordeste",2501,"Sertão Paraibano",25001,"Catolé do Rocha",184.1,"Sim",2158,5007,43.1,6.54,71.03
+425,2502409,250240,"Bonito de Santa Fé",25,"PB","Nordeste",2501,"Sertão Paraibano",25002,"Cajazeiras",228.3,"Sim",9026,11684,77.25,29.09,248.28
+426,2502508,250250,"Boqueirão",25,"PB","Nordeste",2502,"Borborema",25011,"Cariri Oriental",372,"Sim",11319,17670,64.06,18.57,359.53
+427,2502607,250260,"Igaracy",25,"PB","Nordeste",2501,"Sertão Paraibano",25005,"Piancó",192.3,"Sim",4829,6191,78,5.31,131.35
+429,2502805,250280,"Brejo do Cruz",25,"PB","Nordeste",2501,"Sertão Paraibano",25001,"Catolé do Rocha",398.9,"Sim",10100,13900,72.66,23.7,388.72
+430,2502904,250290,"Brejo dos Santos",25,"PB","Nordeste",2501,"Sertão Paraibano",25001,"Catolé do Rocha",93.8,"Sim",5097,6413,79.48,18.09,154.37
+432,2503100,250310,"Cabaceiras",25,"PB","Nordeste",2502,"Borborema",25011,"Cariri Oriental",452.9,"Sim",2463,5449,45.2,4.51,83.27
+434,2503308,250330,"Cachoeira dos Indios",25,"PB","Nordeste",2501,"Sertão Paraibano",25002,"Cajazeiras",193.1,"Sim",3981,10114,39.36,8.63,111.5
+435,2503407,250340,"Cacimba de Areia",25,"PB","Nordeste",2501,"Sertão Paraibano",25004,"Patos",220.4,"Sim",1869,3713,50.34,4.23,56.52
+436,2503506,250350,"Cacimba de Dentro",25,"PB","Nordeste",2503,"Agreste Paraibano",25013,"Curimataú Oriental",163.7,"Sim",10615,17149,61.9,22.18,99.33
+437,2503555,250355,"Cacimbas",25,"PB","Nordeste",2501,"Sertão Paraibano",25007,"Serra do Teixeira",126.5,"Sim",NA,7112,NA,2.22,0
+438,2503605,250360,"Caiçara",25,"PB","Nordeste",2503,"Agreste Paraibano",25016,"Guarabira",127.9,"Sim",5860,7293,80.35,9.63,99.77
+439,2503704,250370,"Cajazeiras",25,"PB","Nordeste",2501,"Sertão Paraibano",25002,"Cajazeiras",565.9,"Sim",61431,61431,100,167.77,2055.01
+440,2503753,250375,"Cajazeirinhas",25,"PB","Nordeste",2501,"Sertão Paraibano",25003,"Sousa",287.9,"Sim",1513,3165,47.8,4.41,53.14
+442,2503902,250390,"Camalaú",25,"PB","Nordeste",2502,"Borborema",25010,"Cariri Ocidental",543.7,"Sim",4292,5971,71.88,6.43,141.21
+443,2504009,250400,"Campina Grande",25,"PB","Nordeste",2503,"Agreste Paraibano",25017,"Campina Grande",594.2,"Sim",405072,405072,100,679.35,15434.99
+445,2504074,250407,"Caraúbas",25,"PB","Nordeste",2502,"Borborema",25011,"Cariri Oriental",497.2,"Sim",1918,4115,46.61,3.23,55.83
+446,2504108,250410,"Carrapateira",25,"PB","Nordeste",2501,"Sertão Paraibano",25002,"Cajazeiras",54.5,"Sim",NA,2601,NA,5.35,0
+447,2504157,250415,"Casserengue",25,"PB","Nordeste",2503,"Agreste Paraibano",25013,"Curimataú Oriental",201.4,"Sim",3210,7394,43.41,5.12,76.97
+448,2504207,250420,"Catingueira",25,"PB","Nordeste",2501,"Sertão Paraibano",25005,"Piancó",529.5,"Sim",3358,4920,68.25,7.43,95.09
+449,2504306,250430,"Catolé do Rocha",25,"PB","Nordeste",2501,"Sertão Paraibano",25001,"Catolé do Rocha",552.1,"Sim",22542,30179,74.69,32.88,837.96
+450,2504355,250435,"Caturité",25,"PB","Nordeste",2502,"Borborema",25011,"Cariri Oriental",118.1,"Sim",1891,4779,39.57,9.71,71.98
+451,2504405,250440,"Conceição",25,"PB","Nordeste",2501,"Sertão Paraibano",25006,"Itaporanga",579.4,"Sim",13106,18860,69.49,36.9,434.98
+452,2504504,250450,"Condado",25,"PB","Nordeste",2501,"Sertão Paraibano",25003,"Sousa",280.9,"Sim",6181,6733,91.8,13.67,197.07
+454,2504702,250470,"Congo",25,"PB","Nordeste",2502,"Borborema",25010,"Cariri Ocidental",333.5,"Sim",4314,4780,90.25,5.35,140.66
+455,2504801,250480,"Coremas",25,"PB","Nordeste",2501,"Sertão Paraibano",25005,"Piancó",379.5,"Sim",NA,15409,NA,NA,NA
+456,2504850,250485,"Coxixola",25,"PB","Nordeste",2502,"Borborema",25010,"Cariri Ocidental",169.9,"Sim",1040,1892,54.97,1.27,36.74
+458,2505006,250500,"Cubati",25,"PB","Nordeste",2502,"Borborema",25009,"Seridó Oriental Paraibano",137,"Sim",5682,7193,78.99,7.99,172.87
+459,2505105,250510,"Cuité",25,"PB","Nordeste",2503,"Agreste Paraibano",25012,"Curimataú Ocidental",741.8,"Sim",NA,20325,NA,23.13,0
+463,2505303,250530,"Curral Velho",25,"PB","Nordeste",2501,"Sertão Paraibano",25006,"Itaporanga",223,"Sim",NA,2523,NA,NA,NA
+464,2505352,250535,"Damião",25,"PB","Nordeste",2503,"Agreste Paraibano",25012,"Curimataú Ocidental",185.7,"Sim",NA,5246,NA,2.92,0
+465,2505402,250540,"Desterro",25,"PB","Nordeste",2501,"Sertão Paraibano",25007,"Serra do Teixeira",179.4,"Sim",NA,8253,NA,11.93,0
+466,2505501,250550,"Vista Serrana",25,"PB","Nordeste",2501,"Sertão Paraibano",25003,"Sousa",61.4,"Sim",2900,3744,77.46,2.73,81.98
+467,2505600,250560,"Diamante",25,"PB","Nordeste",2501,"Sertão Paraibano",25006,"Itaporanga",269.1,"Sim",4491,6591,68.14,7.94,68.08
+468,2505709,250570,"Dona Inês",25,"PB","Nordeste",2503,"Agreste Paraibano",25013,"Curimataú Oriental",166.2,"Sim",NA,10456,NA,8.73,0
+470,2505907,250590,"Emas",25,"PB","Nordeste",2501,"Sertão Paraibano",25005,"Piancó",240.9,"Sim",2346,3485,67.32,7.32,56.98
+471,2506004,250600,"Esperança",25,"PB","Nordeste",2503,"Agreste Paraibano",25014,"Esperança",163.8,"Sim",20481,32785,62.47,33,99.74
+472,2506103,250610,"Fagundes",25,"PB","Nordeste",2503,"Agreste Paraibano",25017,"Campina Grande",189,"Sim",6067,11378,53.32,7.23,199.16
+473,2506202,250620,"Frei Martinho",25,"PB","Nordeste",2502,"Borborema",25009,"Seridó Oriental Paraibano",244.3,"Sim",2144,2986,71.8,2.85,76.4
+474,2506251,250625,"Gado Bravo",25,"PB","Nordeste",2503,"Agreste Paraibano",25019,"Umbuzeiro",192.4,"Sim",NA,8450,NA,5.73,0
+477,2506509,250650,"Gurjão",25,"PB","Nordeste",2502,"Borborema",25011,"Cariri Oriental",343.2,"Sim",2282,3376,67.59,5.81,75.31
+478,2506608,250660,"Ibiara",25,"PB","Nordeste",2501,"Sertão Paraibano",25006,"Itaporanga",244.5,"Sim",4083,5974,68.35,19.96,140.01
+479,2506707,250670,"Imaculada",25,"PB","Nordeste",2501,"Sertão Paraibano",25007,"Serra do Teixeira",317,"Sim",4887,11749,41.6,6.62,134.77
+480,2506806,250680,"Ingá",25,"PB","Nordeste",2503,"Agreste Paraibano",25018,"Itabaiana",288,"Sim",12808,18042,70.99,20.01,466.05
+481,2506905,250690,"Itabaiana",25,"PB","Nordeste",2503,"Agreste Paraibano",25018,"Itabaiana",218.8,"Sim",18119,24565,73.76,38.15,797.78
+482,2507002,250700,"Itaporanga",25,"PB","Nordeste",2501,"Sertão Paraibano",25006,"Itaporanga",468.1,"Sim",18267,24499,74.56,20.47,545.07
+484,2507200,250720,"Itatuba",25,"PB","Nordeste",2503,"Agreste Paraibano",25018,"Itabaiana",244.2,"Sim",6008,10739,55.95,8.6,190.44
+486,2507408,250740,"Jericó",25,"PB","Nordeste",2501,"Sertão Paraibano",25001,"Catolé do Rocha",179.3,"Sim",4129,7717,53.51,12.87,141.16
+489,2507705,250770,"Juazeirinho",25,"PB","Nordeste",2502,"Borborema",25009,"Seridó Oriental Paraibano",467.5,"Sim",8442,17902,47.16,12.84,373.04
+490,2507804,250780,"Junco do Seridó",25,"PB","Nordeste",2502,"Borborema",25008,"Seridó Ocidental Paraibano",170.4,"Sim",NA,7054,NA,NA,NA
+492,2508000,250800,"Juru",25,"PB","Nordeste",2501,"Sertão Paraibano",25007,"Serra do Teixeira",403.3,"Sim",5075,9892,51.3,10.77,151.51
+493,2508109,250810,"Lagoa",25,"PB","Nordeste",2501,"Sertão Paraibano",25001,"Catolé do Rocha",177.9,"Sim",2380,4687,50.78,9.1,69.09
+495,2508307,250830,"Lagoa Seca",25,"PB","Nordeste",2503,"Agreste Paraibano",25017,"Campina Grande",107.6,"Sim",11461,27247,42.06,14.3,358.58
+496,2508406,250840,"Lastro",25,"PB","Nordeste",2501,"Sertão Paraibano",25003,"Sousa",102.7,"Sim",1614,2765,58.37,12.36,47.45
+497,2508505,250850,"Livramento",25,"PB","Nordeste",2502,"Borborema",25010,"Cariri Ocidental",260.2,"Sim",4238,7355,57.62,15.92,132.62
+498,2508554,250855,"Logradouro",25,"PB","Nordeste",2503,"Agreste Paraibano",25016,"Guarabira",38,"Sim",2061,4254,48.45,2.83,35.12
+500,2508703,250870,"Mãe d'Ã?gua",25,"PB","Nordeste",2501,"Sertão Paraibano",25004,"Patos",243.8,"Sim",3030,4026,75.26,18.2,439.12
+501,2508802,250880,"Malta",25,"PB","Nordeste",2501,"Sertão Paraibano",25003,"Sousa",156.2,"Sim",5481,5672,96.63,19.01,160.35
+503,2509008,250900,"Manaíra",25,"PB","Nordeste",2501,"Sertão Paraibano",25007,"Serra do Teixeira",352.6,"Sim",7797,11066,70.46,9.26,222.67
+506,2509156,250915,"Marizópolis",25,"PB","Nordeste",2501,"Sertão Paraibano",25003,"Sousa",63.6,"Sim",5665,6522,86.86,8.44,3472.69
+507,2509206,250920,"Massaranduba",25,"PB","Nordeste",2503,"Agreste Paraibano",25017,"Campina Grande",206,"Sim",4230,13654,30.98,6.87,130.44
+510,2509370,250937,"Mato Grosso",25,"PB","Nordeste",2501,"Sertão Paraibano",25001,"Catolé do Rocha",83.5,"Sim",798,2869,27.81,6.31,27.95
+511,2509396,250939,"Maturéia",25,"PB","Nordeste",2501,"Sertão Paraibano",25007,"Serra do Teixeira",83.7,"Sim",4805,6441,74.6,8.67,88.04
+512,2509404,250940,"Mogeiro",25,"PB","Nordeste",2503,"Agreste Paraibano",25018,"Itabaiana",193.9,"Sim",2871,13317,21.56,13.46,104.4
+513,2509503,250950,"Montadas",25,"PB","Nordeste",2503,"Agreste Paraibano",25014,"Esperança",31.6,"Sim",NA,5528,NA,4.4,0
+514,2509602,250960,"Monte Horebe",25,"PB","Nordeste",2501,"Sertão Paraibano",25002,"Cajazeiras",116.2,"Sim",3421,4759,71.88,12.6,96.32
+515,2509701,250970,"Monteiro",25,"PB","Nordeste",2502,"Borborema",25010,"Cariri Ocidental",986.4,"Sim",24337,32774,74.26,33.14,872.53
+517,2509909,250990,"Natuba",25,"PB","Nordeste",2503,"Agreste Paraibano",25019,"Umbuzeiro",205,"Sim",3447,10450,32.99,5.96,102.59
+518,2510006,251000,"Nazarezinho",25,"PB","Nordeste",2501,"Sertão Paraibano",25003,"Sousa",191.5,"Sim",NA,7318,NA,15.16,86.26
+519,2510105,251010,"Nova Floresta",25,"PB","Nordeste",2503,"Agreste Paraibano",25012,"Curimataú Ocidental",47.4,"Sim",NA,10650,NA,11.29,0
+520,2510204,251020,"Nova Olinda",25,"PB","Nordeste",2501,"Sertão Paraibano",25005,"Piancó",84.3,"Sim",3841,5999,64.03,6.3,116.71
+521,2510303,251030,"Nova Palmeira",25,"PB","Nordeste",2502,"Borborema",25009,"Seridó Oriental Paraibano",310.4,"Sim",NA,4784,NA,3.22,0
+522,2510402,251040,"Olho D'Água",25,"PB","Nordeste",2501,"Sertão Paraibano",25005,"Piancó",596.1,"Sim",4483,6646,67.45,16.14,154.93
+523,2510501,251050,"Olivedos",25,"PB","Nordeste",2503,"Agreste Paraibano",25012,"Curimataú Ocidental",317.9,"Sim",2369,3880,61.06,3.53,64.16
+524,2510600,251060,"Ouro Velho",25,"PB","Nordeste",2502,"Borborema",25010,"Cariri Ocidental",129.4,"Sim",2063,3023,68.24,6.48,61.5
+525,2510659,251065,"Parari",25,"PB","Nordeste",2502,"Borborema",25010,"Cariri Ocidental",128.5,"Sim",924,1795,51.48,1.8,29.96
+526,2510709,251070,"Passagem",25,"PB","Nordeste",2501,"Sertão Paraibano",25004,"Patos",111.9,"Sim",2115,2383,88.75,2.92,71.68
+527,2510808,251080,"Patos",25,"PB","Nordeste",2501,"Sertão Paraibano",25004,"Patos",473.1,"Sim",106314,106314,100,200.58,4058.52
+528,2510907,251090,"Paulista",25,"PB","Nordeste",2501,"Sertão Paraibano",25003,"Sousa",576.9,"Sim",4678,12216,38.29,21.72,145.91
+529,2511004,251100,"Pedra Branca",25,"PB","Nordeste",2501,"Sertão Paraibano",25006,"Itaporanga",112.9,"Sim",2550,3796,67.18,18.5,500
+530,2511103,251110,"Pedra Lavrada",25,"PB","Nordeste",2502,"Borborema",25009,"Seridó Oriental Paraibano",351.7,"Sim",3709,7982,46.47,6.28,116.3
+532,2511301,251130,"Piancó",25,"PB","Nordeste",2501,"Sertão Paraibano",25005,"Piancó",564.7,"Sim",12190,15985,76.26,17.64,369.2
+533,2511400,251140,"Picuí",25,"PB","Nordeste",2502,"Borborema",25009,"Seridó Oriental Paraibano",661.7,"Sim",13705,18670,73.41,18.9,422.58
+539,2512002,251200,"Pocinhos",25,"PB","Nordeste",2503,"Agreste Paraibano",25012,"Curimataú Ocidental",628.1,"Sim",NA,18272,NA,12.3,56.91
+540,2512036,251203,"Poço Dantas",25,"PB","Nordeste",2501,"Sertão Paraibano",25002,"Cajazeiras",97.2,"Sim",796,3778,21.07,1.86,23.04
+541,2512077,251207,"Poço de José de Moura",25,"PB","Nordeste",2501,"Sertão Paraibano",25002,"Cajazeiras",101,"Sim",3953,4245,93.12,4.07,73.87
+542,2512101,251210,"Pombal",25,"PB","Nordeste",2501,"Sertão Paraibano",25003,"Sousa",888.8,"Sim",32051,32712,97.98,40.05,1371.77
+543,2512200,251220,"Prata",25,"PB","Nordeste",2502,"Borborema",25010,"Cariri Ocidental",192,"Sim",2748,4109,66.88,4.74,84.32
+544,2512309,251230,"Princesa Isabel",25,"PB","Nordeste",2501,"Sertão Paraibano",25007,"Serra do Teixeira",368,"Sim",17405,22995,75.69,18.79,260.1
+545,2512408,251240,"Puxinanã",25,"PB","Nordeste",2503,"Agreste Paraibano",25017,"Campina Grande",72.7,"Sim",4947,13557,36.49,11.54,48.2
+546,2512507,251250,"Queimadas",25,"PB","Nordeste",2503,"Agreste Paraibano",25017,"Campina Grande",401.8,"Sim",30488,43667,69.82,34.03,883.97
+547,2512606,251260,"Quixabá",25,"PB","Nordeste",2501,"Sertão Paraibano",25004,"Patos",156.7,"Sim",978,1901,51.45,2.5,30.16
+548,2512705,251270,"Remígio",25,"PB","Nordeste",2503,"Agreste Paraibano",25012,"Curimataú Ocidental",178,"Sim",NA,19149,NA,18.69,0
+550,2512747,251274,"Riachão",25,"PB","Nordeste",2503,"Agreste Paraibano",25013,"Curimataú Oriental",90.2,"Sim",NA,3531,NA,6.26,0
+551,2512754,251275,"Riachão do Bacamarte",25,"PB","Nordeste",2503,"Agreste Paraibano",25018,"Itabaiana",38.4,"Sim",2228,4476,49.78,8.83,62.4
+553,2512788,251278,"Riacho de Santo Antônio",25,"PB","Nordeste",2502,"Borborema",25011,"Cariri Oriental",91.3,"Sim",NA,1923,NA,3.5,0
+554,2512804,251280,"Riacho dos Cavalos",25,"PB","Nordeste",2501,"Sertão Paraibano",25001,"Catolé do Rocha",264,"Sim",NA,8563,NA,9.41,0
+556,2513000,251300,"Salgadinho",25,"PB","Nordeste",2502,"Borborema",25008,"Seridó Ocidental Paraibano",184.2,"Sim",1305,3871,33.71,10.92,69.68
+557,2513109,251310,"Salgado de São Félix",25,"PB","Nordeste",2503,"Agreste Paraibano",25018,"Itabaiana",201.9,"Sim",4283,12144,35.27,10.13,164.65
+558,2513158,251315,"Santa Cecília",25,"PB","Nordeste",2503,"Agreste Paraibano",25019,"Umbuzeiro",227.9,"Sim",NA,6583,NA,NA,NA
+559,2513208,251320,"Santa Cruz",25,"PB","Nordeste",2501,"Sertão Paraibano",25003,"Sousa",210.2,"Sim",4176,6579,63.47,9.83,118.23
+560,2513307,251330,"Santa Helena",25,"PB","Nordeste",2501,"Sertão Paraibano",25002,"Cajazeiras",210.3,"Sim",3252,5917,54.96,11.55,98.74
+561,2513356,251335,"Santa Inês",25,"PB","Nordeste",2501,"Sertão Paraibano",25006,"Itaporanga",324.4,"Sim",1450,3594,40.35,6.5,80
+562,2513406,251340,"Santa Luzia",25,"PB","Nordeste",2502,"Borborema",25008,"Seridó Ocidental Paraibano",455.7,"Sim",14197,15278,92.92,17.75,490.77
+563,2513505,251350,"Santana de Mangueira",25,"PB","Nordeste",2501,"Sertão Paraibano",25006,"Itaporanga",402.2,"Sim",2902,5223,55.56,5.09,90.65
+564,2513604,251360,"Santana dos Garrotes",25,"PB","Nordeste",2501,"Sertão Paraibano",25005,"Piancó",353.8,"Sim",4129,7113,58.05,10.85,133.46
+565,2513653,251365,"Santarém",25,"PB","Nordeste",2501,"Sertão Paraibano",25002,"Cajazeiras",74,"Sim",880,2680,32.84,1.75,23.23
+567,2513802,251380,"Santa Teresinha",25,"PB","Nordeste",2501,"Sertão Paraibano",25004,"Patos",358,"Sim",3188,4592,69.43,5.7,94.97
+568,2513851,251385,"Santo André",25,"PB","Nordeste",2502,"Borborema",25011,"Cariri Oriental",225.2,"Sim",NA,2541,NA,NA,NA
+569,2513901,251390,"São Bento",25,"PB","Nordeste",2501,"Sertão Paraibano",25001,"Catolé do Rocha",248.2,"Sim",28382,33464,84.81,32.34,931.23
+570,2513927,251392,"São Bentinho",25,"PB","Nordeste",2501,"Sertão Paraibano",25003,"Sousa",196,"Sim",3356,4451,75.4,72.87,91.21
+571,2513943,251394,"São Domingos do Cariri",25,"PB","Nordeste",2502,"Borborema",25011,"Cariri Oriental",218.8,"Sim",1751,2563,68.32,4.64,58.02
+572,2513968,251396,"São Domingos",25,"PB","Nordeste",2501,"Sertão Paraibano",25003,"Sousa",169.1,"Sim",NA,3061,NA,NA,NA
+573,2513984,251398,"São Francisco",25,"PB","Nordeste",2501,"Sertão Paraibano",25003,"Sousa",95.1,"Sim",1578,3375,46.76,4.04,39.42
+574,2514008,251400,"São João do Cariri",25,"PB","Nordeste",2502,"Borborema",25011,"Cariri Oriental",653.6,"Sim",3624,4323,83.83,8.41,111.02
+575,2514107,251410,"São João do Tigre",25,"PB","Nordeste",2502,"Borborema",25010,"Cariri Ocidental",816.1,"Sim",NA,4432,NA,NA,NA
+576,2514206,251420,"São José da Lagoa Tapada",25,"PB","Nordeste",2501,"Sertão Paraibano",25003,"Sousa",341.8,"Sim",3360,7677,43.77,9.67,96.34
+577,2514305,251430,"São José de Caiana",25,"PB","Nordeste",2501,"Sertão Paraibano",25006,"Itaporanga",176.3,"Sim",3161,6231,50.73,10.82,102.61
+578,2514404,251440,"São José de Espinharas",25,"PB","Nordeste",2501,"Sertão Paraibano",25004,"Patos",725.7,"Sim",2074,4684,44.28,5.77,67.36
+580,2514503,251450,"São José de Piranhas",25,"PB","Nordeste",2501,"Sertão Paraibano",25002,"Cajazeiras",677.3,"Sim",16001,19956,80.18,16.16,487.24
+581,2514552,251455,"São José de Princesa",25,"PB","Nordeste",2501,"Sertão Paraibano",25007,"Serra do Teixeira",158,"Sim",NA,3955,NA,NA,NA
+582,2514602,251460,"São José do Bonfim",25,"PB","Nordeste",2501,"Sertão Paraibano",25004,"Patos",134.7,"Sim",2057,3492,58.91,40.74,64.25
+583,2514651,251465,"São José do Brejo do Cruz",25,"PB","Nordeste",2501,"Sertão Paraibano",25001,"Catolé do Rocha",253,"Sim",1318,1780,74.04,5.7,24.3
+584,2514701,251470,"São José do Sabugi",25,"PB","Nordeste",2502,"Borborema",25008,"Seridó Ocidental Paraibano",206.9,"Sim",3375,4124,81.84,7.38,102.26
+585,2514800,251480,"São José dos Cordeiros",25,"PB","Nordeste",2502,"Borborema",25010,"Cariri Ocidental",417.7,"Sim",2487,3729,66.69,3.76,82.19
+586,2514909,251490,"São Mamede",25,"PB","Nordeste",2502,"Borborema",25008,"Seridó Ocidental Paraibano",530.7,"Sim",7232,7756,93.24,14.89,248.45
+588,2515104,251510,"São Sebastião de Lagoa de Roça",25,"PB","Nordeste",2503,"Agreste Paraibano",25014,"Esperança",49.9,"Sim",5425,11677,46.46,7.77,152.83
+589,2515203,251520,"São Sebastião do Umbuzeiro",25,"PB","Nordeste",2502,"Borborema",25010,"Cariri Ocidental",460.6,"Sim",2500,3440,72.67,15,127
+591,2515401,251540,"Seridó",25,"PB","Nordeste",2502,"Borborema",25009,"Seridó Oriental Paraibano",276.5,"Sim",4412,10900,40.48,7.35,124.94
+592,2515500,251550,"Serra Branca",25,"PB","Nordeste",2502,"Borborema",25010,"Cariri Ocidental",686.9,"Sim",10630,13564,78.37,16.5,425.08
+594,2515708,251570,"Serra Grande",25,"PB","Nordeste",2501,"Sertão Paraibano",25006,"Itaporanga",83.5,"Sim",2539,3078,82.49,4.8,78.51
+599,2516003,251600,"Solânea",25,"PB","Nordeste",2503,"Agreste Paraibano",25013,"Curimataú Oriental",232.1,"Sim",18844,26734,70.49,35.12,348.23
+600,2516102,251610,"Soledade",25,"PB","Nordeste",2503,"Agreste Paraibano",25012,"Curimataú Ocidental",560,"Sim",12425,14714,84.44,21.11,466.46
+601,2516151,251615,"Sossêgo",25,"PB","Nordeste",2503,"Agreste Paraibano",25012,"Curimataú Ocidental",154.7,"Sim",NA,3475,NA,NA,NA
+602,2516201,251620,"Sousa",25,"PB","Nordeste",2501,"Sertão Paraibano",25003,"Sousa",738.5,"Sim",61453,68822,89.29,343.35,4380
+603,2516300,251630,"Sumé",25,"PB","Nordeste",2502,"Borborema",25010,"Cariri Ocidental",838.1,"Sim",14948,16784,89.06,22.21,638.57
+604,2516409,251640,"Campo de Santana",25,"PB","Nordeste",2503,"Agreste Paraibano",25013,"Curimataú Oriental",246.7,"Sim",6037,10822,55.78,9.95,31.42
+605,2516508,251650,"Taperoá",25,"PB","Nordeste",2502,"Borborema",25010,"Cariri Ocidental",662.9,"Sim",NA,15376,NA,16.28,0
+606,2516607,251660,"Tavares",25,"PB","Nordeste",2501,"Sertão Paraibano",25007,"Serra do Teixeira",237.3,"Sim",10383,14568,71.27,19.12,334.39
+607,2516706,251670,"Teixeira",25,"PB","Nordeste",2501,"Sertão Paraibano",25007,"Serra do Teixeira",160.9,"Sim",9520,14974,63.58,11.65,219.98
+608,2516755,251675,"Tenório",25,"PB","Nordeste",2502,"Borborema",25009,"Seridó Oriental Paraibano",105.3,"Sim",1200,3011,39.85,5.23,80
+609,2516805,251680,"Triunfo",25,"PB","Nordeste",2501,"Sertão Paraibano",25002,"Cajazeiras",219.9,"Sim",NA,9447,NA,15.6,0
+610,2516904,251690,"Uiraúna",25,"PB","Nordeste",2501,"Sertão Paraibano",25002,"Cajazeiras",294.5,"Sim",12794,15228,84.02,18.7,448.98
+611,2517001,251700,"Umbuzeiro",25,"PB","Nordeste",2503,"Agreste Paraibano",25019,"Umbuzeiro",181.3,"Sim",1360,9889,13.75,7.87,46.27
+612,2517100,251710,"Várzea",25,"PB","Nordeste",2502,"Borborema",25008,"Seridó Ocidental Paraibano",190.4,"Sim",2426,2747,88.31,5.57,73.63
+613,2517209,251720,"Vieirópolis",25,"PB","Nordeste",2501,"Sertão Paraibano",25003,"Sousa",146.8,"Sim",1186,5295,22.4,2.8,41.05
+614,2517407,251740,"Zabelê",25,"PB","Nordeste",2502,"Borborema",25010,"Cariri Ocidental",109.4,"Sim",1566,2208,70.92,5,600
+403,2600104,260010,"Afogados da Ingazeira",26,"PE","Nordeste",2601,"Sertão Pernambucano",26003,"Pajeú",377.7,"Sim",36709,36709,100,98.66,1172.33
+404,2600203,260020,"Afrânio",26,"PE","Nordeste",2602,"São Francisco Pernambucano",26005,"Petrolina",1490.6,"Sim",9755,19031,51.26,23.35,273.22
+405,2600302,260030,"Agrestina",26,"PE","Nordeste",2603,"Agreste Pernambucano",26012,"Brejo Pernambucano",201.4,"Sim",23436,24256,96.62,69.37,731.19
+407,2600500,260050,"Águas Belas",26,"PE","Nordeste",2603,"Agreste Pernambucano",26007,"Vale do Ipanema",886,"Sim",20270,42566,47.62,65.03,329.67
+408,2600609,260060,"Alagoinha",26,"PE","Nordeste",2603,"Agreste Pernambucano",26008,"Vale do Ipojuca",217.8,"Sim",6273,14341,43.74,17.67,1.47
+410,2600807,260080,"Altinho",26,"PE","Nordeste",2603,"Agreste Pernambucano",26012,"Brejo Pernambucano",454.5,"Sim",18190,22876,79.52,49.25,559.04
+412,2601003,260100,"Angelim",26,"PE","Nordeste",2603,"Agreste Pernambucano",26011,"Garanhuns",118,"Sim",7541,10882,69.3,19.25,220.2
+414,2601102,260110,"Araripina",26,"PE","Nordeste",2601,"Sertão Pernambucano",26001,"Araripina",1892.6,"Sim",53978,82800,65.19,147.2,1408.21
+415,2601201,260120,"Arcoverde",26,"PE","Nordeste",2601,"Sertão Pernambucano",26004,"Sertão do Moxotó",350.9,"Sim",67787,72625,93.34,163.21,1535.19
+419,2601607,260160,"Belém de São Francisco",26,"PE","Nordeste",2602,"São Francisco Pernambucano",26006,"Itaparica",1830.8,"Sim",15175,20675,73.4,34.26,588.56
+420,2601706,260170,"Belo Jardim",26,"PE","Nordeste",2603,"Agreste Pernambucano",26008,"Vale do Ipojuca",647.7,"Sim",75462,75462,100,226.97,1743.39
+421,2601805,260180,"Betânia",26,"PE","Nordeste",2601,"Sertão Pernambucano",26004,"Sertão do Moxotó",1244.1,"Sim",5691,12539,45.39,23.35,167.06
+422,2601904,260190,"Bezerros",26,"PE","Nordeste",2603,"Agreste Pernambucano",26008,"Vale do Ipojuca",490.8,"Sim",48789,60386,80.8,148.86,1479.63
+423,2602001,260200,"Bodocó",26,"PE","Nordeste",2601,"Sertão Pernambucano",26001,"Araripina",1616.5,"Sim",17068,37317,45.74,39.95,535.44
+424,2602100,260210,"Bom Conselho",26,"PE","Nordeste",2603,"Agreste Pernambucano",26011,"Garanhuns",792.2,"Sim",30960,47760,64.82,80.13,1040.66
+425,2602209,260220,"Bom Jardim",26,"PE","Nordeste",2603,"Agreste Pernambucano",26010,"Médio Capibaribe",218.4,"Sim",24988,38924,64.2,89.73,468.75
+427,2602407,260240,"Brejão",26,"PE","Nordeste",2603,"Agreste Pernambucano",26011,"Garanhuns",159.8,"Sim",4013,8989,44.64,9.59,101.96
+428,2602506,260250,"Brejinho",26,"PE","Nordeste",2601,"Sertão Pernambucano",26003,"Pajeú",106.3,"Sim",4740,7464,63.5,12.37,8.44
+429,2602605,260260,"Brejo da Madre de Deus",26,"PE","Nordeste",2603,"Agreste Pernambucano",26008,"Vale do Ipojuca",762.4,"Sim",27327,49092,55.66,105.18,567.91
+431,2602803,260280,"Buíque",26,"PE","Nordeste",2603,"Agreste Pernambucano",26007,"Vale do Ipanema",1347.6,"Sim",17066,56523,30.19,48.22,323.17
+433,2603009,260300,"Cabrobó",26,"PE","Nordeste",2602,"São Francisco Pernambucano",26005,"Petrolina",1657.9,"Sim",27637,33247,83.13,121.99,926.46
+434,2603108,260310,"Cachoeirinha",26,"PE","Nordeste",2603,"Agreste Pernambucano",26008,"Vale do Ipojuca",179.3,"Sim",17392,19951,87.17,48.95,480.64
+435,2603207,260320,"Caetés",26,"PE","Nordeste",2603,"Agreste Pernambucano",26011,"Garanhuns",329.5,"Sim",6536,28145,23.22,19.01,18.91
+436,2603306,260330,"Calçado",26,"PE","Nordeste",2603,"Agreste Pernambucano",26011,"Garanhuns",121.9,"Sim",3922,11136,35.22,11.07,69.61
+437,2603405,260340,"Calumbi",26,"PE","Nordeste",2601,"Sertão Pernambucano",26003,"Pajeú",179.3,"Sim",2649,5745,46.11,9.22,84.06
+439,2603504,260350,"Camocim de São Félix",26,"PE","Nordeste",2603,"Agreste Pernambucano",26012,"Brejo Pernambucano",72.5,"Sim",13072,18292,71.46,40.54,379.79
+441,2603702,260370,"Canhotinho",26,"PE","Nordeste",2603,"Agreste Pernambucano",26011,"Garanhuns",423.1,"Sim",14181,24837,57.1,42.09,412.81
+442,2603801,260380,"Capoeiras",26,"PE","Nordeste",2603,"Agreste Pernambucano",26008,"Vale do Ipojuca",336.3,"Sim",7092,19997,35.47,17.66,22.79
+443,2603900,260390,"Carnaíba",26,"PE","Nordeste",2601,"Sertão Pernambucano",26003,"Pajeú",427.8,"Sim",11972,19318,61.97,34.38,376.24
+444,2603926,260392,"Carnaubeira da Penha",26,"PE","Nordeste",2602,"São Francisco Pernambucano",26006,"Itaparica",1004.7,"Sim",3200,12603,25.39,12,138
+446,2604106,260410,"Caruaru",26,"PE","Nordeste",2603,"Agreste Pernambucano",26008,"Vale do Ipojuca",920.6,"Sim",339749,347088,97.89,883.9,11340.92
+447,2604155,260415,"Casinhas",26,"PE","Nordeste",2603,"Agreste Pernambucano",26009,"Alto Capibaribe",115.9,"Sim",1670,14219,11.74,6.17,40.7
+449,2604304,260430,"Cedro",26,"PE","Nordeste",2601,"Sertão Pernambucano",26002,"Salgueiro",171.6,"Sim",8525,11515,74.03,19.88,237.4
+451,2604502,260450,"Chã Grande",26,"PE","Nordeste",2604,"Mata Pernambucana",26014,"Vitória de Santo Antão",84.8,"Sim",13598,21274,63.92,31.43,371.36
+453,2604700,260470,"Correntes",26,"PE","Nordeste",2603,"Agreste Pernambucano",26011,"Garanhuns",328.7,"Sim",12129,17968,67.5,29.3,353.58
+455,2604908,260490,"Cumaru",26,"PE","Nordeste",2603,"Agreste Pernambucano",26010,"Médio Capibaribe",292.2,"Sim",7009,13132,53.37,22.68,217.8
+456,2605004,260500,"Cupira",26,"PE","Nordeste",2603,"Agreste Pernambucano",26012,"Brejo Pernambucano",105.6,"Sim",23841,23841,100,66.09,888.29
+457,2605103,260510,"Custódia",26,"PE","Nordeste",2601,"Sertão Pernambucano",26004,"Sertão do Moxotó",1404.1,"Sim",21359,36184,59.03,75.02,436.88
+458,2605152,260515,"Dormentes",26,"PE","Nordeste",2602,"São Francisco Pernambucano",26005,"Petrolina",1537.6,"Sim",7873,18321,42.97,21.94,223.51
+460,2605301,260530,"Exu",26,"PE","Nordeste",2601,"Sertão Pernambucano",26001,"Araripina",1337.5,"Sim",18481,31928,57.88,48.53,440.92
+464,2605608,260560,"Flores",26,"PE","Nordeste",2601,"Sertão Pernambucano",26003,"Pajeú",995.6,"Sim",12911,22588,57.16,35.48,389.19
+465,2605707,260570,"Floresta",26,"PE","Nordeste",2602,"São Francisco Pernambucano",26006,"Itaparica",3644.2,"Sim",27172,31809,85.42,60.69,870.79
+466,2605806,260580,"Frei Miguelinho",26,"PE","Nordeste",2603,"Agreste Pernambucano",26009,"Alto Capibaribe",212.7,"Sim",6063,15137,40.05,27.91,124.77
+468,2606002,260600,"Garanhuns",26,"PE","Nordeste",2603,"Agreste Pernambucano",26011,"Garanhuns",458.6,"Sim",136949,136949,100,326.12,4857.58
+471,2606309,260630,"Granito",26,"PE","Nordeste",2601,"Sertão Pernambucano",26001,"Araripina",521.9,"Sim",3756,7308,51.4,8.04,117.7
+472,2606408,260640,"Gravatá",26,"PE","Nordeste",2603,"Agreste Pernambucano",26008,"Vale do Ipojuca",505.1,"Sim",81893,81893,100,323.36,4056.05
+473,2606507,260650,"Iati",26,"PE","Nordeste",2603,"Agreste Pernambucano",26011,"Garanhuns",635.1,"Sim",NA,19010,NA,NA,NA
+474,2606606,260660,"Ibimirim",26,"PE","Nordeste",2601,"Sertão Pernambucano",26004,"Sertão do Moxotó",1954.7,"Sim",15556,28604,54.38,44.88,454.56
+475,2606705,260670,"Ibirajuba",26,"PE","Nordeste",2603,"Agreste Pernambucano",26012,"Brejo Pernambucano",189.6,"Sim",4029,7725,52.16,16.25,107.75
+477,2606903,260690,"Iguaraci",26,"PE","Nordeste",2601,"Sertão Pernambucano",26003,"Pajeú",838.1,"Sim",8144,12137,67.1,21.19,193.56
+478,2607000,260700,"Inajá",26,"PE","Nordeste",2601,"Sertão Pernambucano",26004,"Sertão do Moxotó",1182.5,"Sim",13264,21932,60.48,48,823.14
+479,2607109,260710,"Ingazeira",26,"PE","Nordeste",2601,"Sertão Pernambucano",26003,"Pajeú",243.7,"Sim",2147,4556,47.12,5.82,58.56
+481,2607307,260730,"Ipubi",26,"PE","Nordeste",2601,"Sertão Pernambucano",26001,"Araripina",861.4,"Sim",16799,29721,56.52,37.14,441.33
+482,2607406,260740,"Itacuruba",26,"PE","Nordeste",2602,"São Francisco Pernambucano",26006,"Itaparica",430,"Sim",4754,4754,100,16.6,172.53
+483,2607505,260750,"Itaíba",26,"PE","Nordeste",2603,"Agreste Pernambucano",26007,"Vale do Ipanema",1083.7,"Sim",17700,26412,67.01,44.5,492.45
+486,2607703,260770,"Itapetim",26,"PE","Nordeste",2601,"Sertão Pernambucano",26003,"Pajeú",404.8,"Sim",9351,13780,67.86,27.13,0.64
+491,2608008,260800,"Jataúba",26,"PE","Nordeste",2603,"Agreste Pernambucano",26008,"Vale do Ipojuca",672.2,"Sim",2592,16858,15.38,13.88,0
+492,2608057,260805,"Jatobá",26,"PE","Nordeste",2602,"São Francisco Pernambucano",26006,"Itaparica",277.9,"Sim",11445,14587,78.46,41.5,458.26
+493,2608107,260810,"João Alfredo",26,"PE","Nordeste",2603,"Agreste Pernambucano",26010,"Médio Capibaribe",138.3,"Sim",19835,32939,60.22,51.7,379.69
+495,2608255,260825,"Jucati",26,"PE","Nordeste",2603,"Agreste Pernambucano",26011,"Garanhuns",120.6,"Sim",3985,11202,35.57,14.55,14.71
+496,2608305,260830,"Jupi",26,"PE","Nordeste",2603,"Agreste Pernambucano",26011,"Garanhuns",105,"Sim",2576,14525,17.73,20.03,20.44
+497,2608404,260840,"Jurema",26,"PE","Nordeste",2603,"Agreste Pernambucano",26011,"Garanhuns",148.3,"Sim",13000,15171,85.69,34.5,333.99
+500,2608602,260860,"Lagoa do Ouro",26,"PE","Nordeste",2603,"Agreste Pernambucano",26011,"Garanhuns",198.8,"Sim",6852,12865,53.26,22.77,204.08
+501,2608701,260870,"Lagoa dos Gatos",26,"PE","Nordeste",2603,"Agreste Pernambucano",26012,"Brejo Pernambucano",222.9,"Sim",9815,16161,60.73,26.97,314.08
+502,2608750,260875,"Lagoa Grande",26,"PE","Nordeste",2602,"São Francisco Pernambucano",26005,"Petrolina",1852.3,"Sim",14898,24757,60.18,55.13,420.34
+503,2608800,260880,"Lajedo",26,"PE","Nordeste",2603,"Agreste Pernambucano",26011,"Garanhuns",189.1,"Sim",39146,39240,99.76,119.82,1006.27
+507,2609154,260915,"Manari",26,"PE","Nordeste",2601,"Sertão Pernambucano",26004,"Sertão do Moxotó",381.3,"Sim",7347,20302,36.19,15.64,155.37
+509,2609303,260930,"Mirandiba",26,"PE","Nordeste",2601,"Sertão Pernambucano",26002,"Salgueiro",821.7,"Sim",12707,15098,84.16,78.62,347.51
+513,2609709,260970,"Orobó",26,"PE","Nordeste",2603,"Agreste Pernambucano",26010,"Médio Capibaribe",138.7,"Sim",7434,23663,31.42,23.75,151.31
+514,2609808,260980,"Orocó",26,"PE","Nordeste",2602,"São Francisco Pernambucano",26005,"Petrolina",554.8,"Sim",5643,14445,39.07,12.79,168.81
+515,2609907,260990,"Ouricuri",26,"PE","Nordeste",2601,"Sertão Pernambucano",26001,"Araripina",2422.9,"Sim",48928,67676,72.3,132.08,1761.75
+517,2610103,261010,"Palmeirina",26,"PE","Nordeste",2603,"Agreste Pernambucano",26011,"Garanhuns",158,"Sim",5303,7969,66.55,16.43,176.62
+518,2610202,261020,"Panelas",26,"PE","Nordeste",2603,"Agreste Pernambucano",26012,"Brejo Pernambucano",370.9,"Sim",16338,26464,61.74,40.97,391.21
+519,2610301,261030,"Paranatama",26,"PE","Nordeste",2603,"Agreste Pernambucano",26011,"Garanhuns",230.9,"Sim",1392,11357,12.26,5.11,22.36
+520,2610400,261040,"Parnamirim",26,"PE","Nordeste",2601,"Sertão Pernambucano",26002,"Salgueiro",2595.9,"Sim",12236,21193,57.74,29.68,392.09
+521,2610509,261050,"Passira",26,"PE","Nordeste",2603,"Agreste Pernambucano",26010,"Médio Capibaribe",326.8,"Sim",17454,28982,60.22,45.01,386.48
+524,2610806,261080,"Pedra",26,"PE","Nordeste",2603,"Agreste Pernambucano",26007,"Vale do Ipanema",803.1,"Sim",10734,22401,47.92,35.13,39.36
+525,2610905,261090,"Pesqueira",26,"PE","Nordeste",2603,"Agreste Pernambucano",26008,"Vale do Ipojuca",995.5,"Sim",40933,66153,61.88,127.77,1133.6
+526,2611002,261100,"Petrolândia",26,"PE","Nordeste",2602,"São Francisco Pernambucano",26006,"Itaparica",1056.6,"Sim",25476,35342,72.08,54.94,1052.87
+527,2611101,261110,"Petrolina",26,"PE","Nordeste",2602,"São Francisco Pernambucano",26005,"Petrolina",4558.4,"Sim",308321,331951,92.88,672.31,10645.52
+528,2611200,261120,"Poção",26,"PE","Nordeste",2603,"Agreste Pernambucano",26008,"Vale do Ipojuca",246.7,"Sim",6686,11265,59.35,20.47,9.75
+532,2611533,261153,"Quixaba",26,"PE","Nordeste",2601,"Sertão Pernambucano",26003,"Pajeú",210.7,"Sim",3605,6823,52.84,13.39,87.16
+534,2611705,261170,"Riacho das Almas",26,"PE","Nordeste",2603,"Agreste Pernambucano",26008,"Vale do Ipojuca",314,"Sim",12754,20177,63.21,36.71,466.41
+537,2612000,261200,"Sairé",26,"PE","Nordeste",2603,"Agreste Pernambucano",26012,"Brejo Pernambucano",191,"Sim",9731,10437,93.24,22.56,341.05
+538,2612109,261210,"Salgadinho",26,"PE","Nordeste",2603,"Agreste Pernambucano",26010,"Médio Capibaribe",88.8,"Sim",3752,10423,36,8.43,68.99
+539,2612208,261220,"Salgueiro",26,"PE","Nordeste",2601,"Sertão Pernambucano",26002,"Salgueiro",1686.8,"Sim",59769,59769,100,242.06,2055.45
+540,2612307,261230,"Saloá",26,"PE","Nordeste",2603,"Agreste Pernambucano",26011,"Garanhuns",252.1,"Sim",5552,15742,35.27,17.63,77.31
+541,2612406,261240,"Sanharó",26,"PE","Nordeste",2603,"Agreste Pernambucano",26008,"Vale do Ipojuca",268.7,"Sim",20948,25047,83.63,58.04,412.66
+542,2612455,261245,"Santa Cruz",26,"PE","Nordeste",2601,"Sertão Pernambucano",26001,"Araripina",1255.9,"Sim",6597,14857,44.4,19.75,191.75
+543,2612471,261247,"Santa Cruz da Baixa Verde",26,"PE","Nordeste",2601,"Sertão Pernambucano",26003,"Pajeú",114.9,"Sim",191,12375,1.54,10.13,5.53
+544,2612505,261250,"Santa Cruz do Capibaribe",26,"PE","Nordeste",2603,"Agreste Pernambucano",26009,"Alto Capibaribe",335.3,"Sim",78656,101485,77.51,202.83,1299.61
+545,2612554,261255,"Santa Filomena",26,"PE","Nordeste",2601,"Sertão Pernambucano",26001,"Araripina",1005,"Sim",5008,14172,35.34,12.21,132.11
+546,2612604,261260,"Santa Maria da Boa Vista",26,"PE","Nordeste",2602,"São Francisco Pernambucano",26005,"Petrolina",3001.2,"Sim",17308,41293,41.92,39.3,567.64
+547,2612703,261270,"Santa Maria do Cambucá",26,"PE","Nordeste",2603,"Agreste Pernambucano",26009,"Alto Capibaribe",92.1,"Sim",6775,13826,49,24.04,123.18
+548,2612802,261280,"Santa Terezinha",26,"PE","Nordeste",2601,"Sertão Pernambucano",26003,"Pajeú",195.6,"Sim",8557,11627,73.6,20.7,196.91
+550,2613008,261300,"São Bento do Una",26,"PE","Nordeste",2603,"Agreste Pernambucano",26008,"Vale do Ipojuca",719.2,"Sim",27118,57659,47.03,85.15,550.46
+551,2613107,261310,"São Caitano",26,"PE","Nordeste",2603,"Agreste Pernambucano",26008,"Vale do Ipojuca",382.5,"Sim",29594,36763,80.5,76.05,744.15
+552,2613206,261320,"São João",26,"PE","Nordeste",2603,"Agreste Pernambucano",26011,"Garanhuns",258.3,"Sim",13749,22403,61.37,32.97,416.6
+553,2613305,261330,"São Joaquim do Monte",26,"PE","Nordeste",2603,"Agreste Pernambucano",26012,"Brejo Pernambucano",231.8,"Sim",16087,21171,75.99,44.66,504.33
+555,2613503,261350,"São José do Belmonte",26,"PE","Nordeste",2601,"Sertão Pernambucano",26002,"Salgueiro",1474.1,"Sim",20351,33677,60.43,64.29,616.12
+556,2613602,261360,"São José do Egito",26,"PE","Nordeste",2601,"Sertão Pernambucano",26003,"Pajeú",798.9,"Sim",24606,33365,73.75,63.74,513.26
+559,2613909,261390,"Serra Talhada",26,"PE","Nordeste",2601,"Sertão Pernambucano",26003,"Pajeú",2980,"Sim",84352,84352,100,194.49,2853.82
+560,2614006,261400,"Serrita",26,"PE","Nordeste",2601,"Sertão Pernambucano",26002,"Salgueiro",1514.4,"Sim",10802,19017,56.8,52.53,263.91
+561,2614105,261410,"Sertânia",26,"PE","Nordeste",2601,"Sertão Pernambucano",26004,"Sertão do Moxotó",2421.5,"Sim",19693,35367,55.68,60.09,451.16
+563,2614303,261430,"Moreilândia",26,"PE","Nordeste",2601,"Sertão Pernambucano",26001,"Araripina",404.6,"Sim",5336,11242,47.46,13.05,134.29
+564,2614402,261440,"Solidão",26,"PE","Nordeste",2601,"Sertão Pernambucano",26003,"Pajeú",138.4,"Sim",2095,5949,35.22,4.1,39.35
+565,2614501,261450,"Surubim",26,"PE","Nordeste",2603,"Agreste Pernambucano",26009,"Alto Capibaribe",252.9,"Sim",63166,63166,100,160.81,1534.77
+566,2614600,261460,"Tabira",26,"PE","Nordeste",2601,"Sertão Pernambucano",26003,"Pajeú",388,"Sim",25816,27958,92.34,64.07,679.94
+567,2614709,261470,"Tacaimbó",26,"PE","Nordeste",2603,"Agreste Pernambucano",26008,"Vale do Ipojuca",227.6,"Sim",8999,12891,69.81,24.77,242.39
+568,2614808,261480,"Tacaratu",26,"PE","Nordeste",2602,"São Francisco Pernambucano",26006,"Itaparica",1264.5,"Sim",15281,24626,62.05,59.88,463.29
+570,2615003,261500,"Taquaritinga do Norte",26,"PE","Nordeste",2603,"Agreste Pernambucano",26009,"Alto Capibaribe",475.2,"Sim",8630,27592,31.28,25.48,36.82
+571,2615102,261510,"Terezinha",26,"PE","Nordeste",2603,"Agreste Pernambucano",26011,"Garanhuns",151.4,"Sim",3602,7057,51.04,9.08,79.89
+572,2615201,261520,"Terra Nova",26,"PE","Nordeste",2602,"São Francisco Pernambucano",26005,"Petrolina",321.4,"Sim",9700,10185,95.24,21.1,264.88
+574,2615409,261540,"Toritama",26,"PE","Nordeste",2603,"Agreste Pernambucano",26009,"Alto Capibaribe",25.7,"Sim",34414,42123,81.7,115.39,630.06
+576,2615607,261560,"Trindade",26,"PE","Nordeste",2601,"Sertão Pernambucano",26001,"Araripina",229.5,"Sim",29519,29519,100,75.76,797.62
+577,2615706,261570,"Triunfo",26,"PE","Nordeste",2601,"Sertão Pernambucano",26003,"Pajeú",191.5,"Sim",7946,15250,52.1,23.05,149.15
+578,2615805,261580,"Tupanatinga",26,"PE","Nordeste",2603,"Agreste Pernambucano",26007,"Vale do Ipanema",884.4,"Sim",11835,26454,44.74,29.84,292.1
+579,2615904,261590,"Tuparetama",26,"PE","Nordeste",2601,"Sertão Pernambucano",26003,"Pajeú",178.6,"Sim",8149,8149,100,22.67,143.13
+580,2616001,261600,"Venturosa",26,"PE","Nordeste",2603,"Agreste Pernambucano",26007,"Vale do Ipanema",320.7,"Sim",8992,17870,50.32,28.74,9.25
+581,2616100,261610,"Verdejante",26,"PE","Nordeste",2601,"Sertão Pernambucano",26002,"Salgueiro",476,"Sim",9376,9450,99.22,25.29,251.66
+582,2616183,261618,"Vertente do Lério",26,"PE","Nordeste",2603,"Agreste Pernambucano",26009,"Alto Capibaribe",73.6,"Sim",2991,7746,38.61,15.72,46.25
+583,2616209,261620,"Vertentes",26,"PE","Nordeste",2603,"Agreste Pernambucano",26009,"Alto Capibaribe",196.3,"Sim",14625,19976,73.21,46.45,306.95
+1,2700102,270010,"Água Branca",27,"AL","Nordeste",2701,"Sertão Alagoano",27001,"Serrana do Sertão Alagoano",454.6,"Sim",13178,20434,64.49,25,442.8
+3,2700300,270030,"Arapiraca",27,"AL","Nordeste",2702,"Agreste Alagoano",27006,"Arapiraca",356.2,"Sim",221212,231053,95.74,622.94,8223.24
+7,2700706,270070,"Batalha",27,"AL","Nordeste",2701,"Sertão Alagoano",27004,"Batalha",320.9,"Sim",13757,18496,74.38,75,410.03
+9,2700904,270090,"Belo Monte",27,"AL","Nordeste",2701,"Sertão Alagoano",27004,"Batalha",334.1,"Sim",1854,6775,27.37,32.3,77.34
+12,2701209,270120,"Cacimbinhas",27,"AL","Nordeste",2702,"Agreste Alagoano",27005,"Palmeira dos Indios",273,"Sim",1935,10818,17.89,34.1,74.28
+17,2701605,270160,"Canapi",27,"AL","Nordeste",2701,"Sertão Alagoano",27001,"Serrana do Sertão Alagoano",574.6,"Sim",5634,17976,31.34,17,200.69
+19,2701803,270180,"Carneiros",27,"AL","Nordeste",2701,"Sertão Alagoano",27003,"Santana do Ipanema",113.1,"Sim",5674,8969,63.26,28.8,203.9
+21,2702009,270200,"Coité do Nóia",27,"AL","Nordeste",2702,"Agreste Alagoano",27006,"Arapiraca",88.5,"Sim",3417,10992,31.09,10.25,106.92
+25,2702355,270235,"Craíbas",27,"AL","Nordeste",2702,"Agreste Alagoano",27006,"Arapiraca",271.3,"Sim",15009,24288,61.8,152.1,538.11
+26,2702405,270240,"Delmiro Gouveia",27,"AL","Nordeste",2701,"Sertão Alagoano",27002,"Alagoana do Sertão do São Francisco",607.8,"Sim",50940,51997,97.97,208,3143.78
+27,2702504,270250,"Dois Riachos",27,"AL","Nordeste",2701,"Sertão Alagoano",27003,"Santana do Ipanema",140.5,"Sim",3829,11224,34.11,26.4,152.98
+28,2702553,270255,"Estrela de Alagoas",27,"AL","Nordeste",2702,"Agreste Alagoano",27005,"Palmeira dos Indios",259.8,"Sim",6313,18306,34.49,17.07,182.61
+32,2702900,270290,"Girau do Ponciano",27,"AL","Nordeste",2702,"Agreste Alagoano",27006,"Arapiraca",500.6,"Sim",16387,40519,40.44,56.93,631.69
+34,2703106,270310,"Igaci",27,"AL","Nordeste",2702,"Agreste Alagoano",27005,"Palmeira dos Indios",334.5,"Sim",13758,26041,52.83,150.52,417.02
+36,2703304,270330,"Inhapi",27,"AL","Nordeste",2701,"Sertão Alagoano",27001,"Serrana do Sertão Alagoano",376.9,"Sim",8346,18621,44.82,16,271.52
+37,2703403,270340,"Jacaré dos Homens",27,"AL","Nordeste",2701,"Sertão Alagoano",27004,"Batalha",142.3,"Sim",3622,5429,66.72,40.6,212.77
+40,2703700,270370,"Jaramataia",27,"AL","Nordeste",2701,"Sertão Alagoano",27004,"Batalha",103.7,"Sim",3356,5695,58.93,52.5,81.65
+45,2704104,270410,"Lagoa da Canoa",27,"AL","Nordeste",2702,"Agreste Alagoano",27006,"Arapiraca",88.5,"Sim",13187,18343,71.89,30.08,424.21
+48,2704401,270440,"Major Isidoro",27,"AL","Nordeste",2701,"Sertão Alagoano",27004,"Batalha",453.9,"Sim",9790,20047,48.84,101.4,310.89
+50,2704609,270460,"Maravilha",27,"AL","Nordeste",2701,"Sertão Alagoano",27003,"Santana do Ipanema",302.1,"Sim",5690,9770,58.24,32.6,199.1
+54,2705002,270500,"Mata Grande",27,"AL","Nordeste",2701,"Sertão Alagoano",27001,"Serrana do Sertão Alagoano",908,"Sim",9833,25590,38.43,33,323.94
+57,2705309,270530,"Minador do Negrão",27,"AL","Nordeste",2702,"Agreste Alagoano",27005,"Palmeira dos Indios",167.6,"Sim",1804,5425,33.25,5.56,37.29
+58,2705408,270540,"Monteirópolis",27,"AL","Nordeste",2701,"Sertão Alagoano",27004,"Batalha",86.1,"Sim",4111,7241,56.77,28.2,176.02
+61,2705705,270570,"Olho d'Ã?gua das Flores",27,"AL","Nordeste",2701,"Sertão Alagoano",27004,"Batalha",183.4,"Sim",18226,21641,84.22,89,793.11
+62,2705804,270580,"Olho d'Ã?gua do Casado",27,"AL","Nordeste",2701,"Sertão Alagoano",27002,"Alagoana do Sertão do São Francisco",322.9,"Sim",5656,9298,60.83,12,620.21
+64,2706000,270600,"Olivença",27,"AL","Nordeste",2701,"Sertão Alagoano",27004,"Batalha",173,"Sim",5429,11688,46.45,24.5,213.04
+65,2706109,270610,"Ouro Branco",27,"AL","Nordeste",2701,"Sertão Alagoano",27003,"Santana do Ipanema",204.8,"Sim",5058,11537,43.84,28,105.18
+66,2706208,270620,"Palestina",27,"AL","Nordeste",2701,"Sertão Alagoano",27003,"Santana do Ipanema",48.9,"Sim",3922,5004,78.38,25.5,147.75
+67,2706307,270630,"Palmeira dos Ã?ndios",27,"AL","Nordeste",2702,"Agreste Alagoano",27005,"Palmeira dos Indios",452.7,"Sim",64202,73878,86.9,284.14,2708.16
+68,2706406,270640,"Pão de Açúcar",27,"AL","Nordeste",2701,"Sertão Alagoano",27003,"Santana do Ipanema",683,"Sim",24878,24878,100,87.5,18729.24
+69,2706422,270642,"Pariconha",27,"AL","Nordeste",2701,"Sertão Alagoano",27001,"Serrana do Sertão Alagoano",258.5,"Sim",7580,10601,71.5,20,281.53
+77,2707107,270710,"Piranhas",27,"AL","Nordeste",2701,"Sertão Alagoano",27002,"Alagoana do Sertão do São Francisco",408.1,"Sim",22243,24950,89.15,44,701.05
+78,2707206,270720,"Poço das Trincheiras",27,"AL","Nordeste",2701,"Sertão Alagoano",27003,"Santana do Ipanema",291.9,"Sim",3295,14493,22.74,26.2,133.45
+82,2707602,270760,"Quebrangulo",27,"AL","Nordeste",2702,"Agreste Alagoano",27005,"Palmeira dos Ã?ndios",319.8,"Sim",6555,11592,56.55,20.85,5228.93
+86,2708006,270800,"Santana do Ipanema",27,"AL","Nordeste",2701,"Sertão Alagoano",27003,"Santana do Ipanema",437.9,"Sim",34652,47820,72.46,203.3,1518.13
+90,2708402,270840,"São José da Tapera",27,"AL","Nordeste",2701,"Sertão Alagoano",27003,"Santana do Ipanema",495.1,"Sim",15568,32271,48.24,137,566.11
+96,2708956,270895,"Senador Rui Palmeira",27,"AL","Nordeste",2701,"Sertão Alagoano",27003,"Santana do Ipanema",342.7,"Sim",4190,13909,30.12,15.5,126.82
+100,2709202,270920,"Traipu",27,"AL","Nordeste",2702,"Agreste Alagoano",27007,"Traipu",698,"Sim",10026,27798,36.07,19.88,9901.62
+103,2800100,280010,"Amparo de São Francisco",28,"SE","Nordeste",2803,"Leste Sergipano",28007,"Propriá",35.1,"Sim",2088,2374,87.95,4.39,76.74
+104,2800209,280020,"Aquidabã",28,"SE","Nordeste",2802,"Agreste Sergipano",28003,"Nossa Senhora das Dores",359.3,"Sim",18959,21312,88.96,84.1,642.81
+112,2801108,280110,"Canhoba",28,"SE","Nordeste",2803,"Leste Sergipano",28007,"Propriá",170.3,"Sim",4005,4057,98.72,47.54,153.17
+113,2801207,280120,"Canindé de São Francisco",28,"SE","Nordeste",2801,"Sertão Sergipano",28001,"Sergipana do Sertão do São Francisco",902.2,"Sim",19011,28279,67.23,92.98,690.09
+115,2801405,280140,"Carira",28,"SE","Nordeste",2801,"Sertão Sergipano",28002,"Carira",636.4,"Sim",19439,21484,90.48,107.61,606.53
+117,2801603,280160,"Cedro de São João",28,"SE","Nordeste",2803,"Leste Sergipano",28007,"Propriá",83.7,"Sim",5675,5890,96.35,17.72,235.5
+119,2801900,280190,"Cumbe",28,"SE","Nordeste",2802,"Agreste Sergipano",28003,"Nossa Senhora das Dores",128.6,"Sim",3861,3985,96.89,24.13,233.27
+122,2802205,280220,"Feira Nova",28,"SE","Nordeste",2801,"Sertão Sergipano",28001,"Sergipana do Sertão do São Francisco",184.9,"Sim",5385,5573,96.63,37.96,209.12
+123,2802304,280230,"Frei Paulo",28,"SE","Nordeste",2801,"Sertão Sergipano",28002,"Carira",400.4,"Sim",14689,15047,97.62,60.4,446.41
+124,2802403,280240,"Gararu",28,"SE","Nordeste",2801,"Sertão Sergipano",28001,"Sergipana do Sertão do São Francisco",655,"Sim",10421,11724,88.89,85.99,362.16
+126,2802601,280260,"Gracho Cardoso",28,"SE","Nordeste",2801,"Sertão Sergipano",28001,"Sergipana do Sertão do São Francisco",242.1,"Sim",5767,5848,98.61,42.95,250.12
+131,2803104,280310,"Itabi",28,"SE","Nordeste",2801,"Sertão Sergipano",28001,"Sergipana do Sertão do São Francisco",184.4,"Sim",4923,5017,98.13,54.83,243.03
+137,2803708,280370,"Macambira",28,"SE","Nordeste",2802,"Agreste Sergipano",28004,"Agreste de Itabaiana",136.9,"Sim",5760,6824,84.41,39.71,183.75
+142,2804201,280420,"Monte Alegre de Sergipe",28,"SE","Nordeste",2801,"Sertão Sergipano",28001,"Sergipana do Sertão do São Francisco",407.4,"Sim",12572,14853,84.64,138.6,472.98
+145,2804458,280445,"Nossa Senhora Aparecida",28,"SE","Nordeste",2801,"Sertão Sergipano",28002,"Carira",340.4,"Sim",8724,8830,98.8,52.95,385.88
+146,2804508,280450,"Nossa Senhora da Glória",28,"SE","Nordeste",2801,"Sertão Sergipano",28001,"Sergipana do Sertão do São Francisco",756.5,"Sim",35129,35726,98.33,117.46,1455.41
+147,2804607,280460,"Nossa Senhora das Dores",28,"SE","Nordeste",2802,"Agreste Sergipano",28003,"Nossa Senhora das Dores",483.3,"Sim",24208,26240,92.26,86.56,674.39
+148,2804706,280470,"Nossa Senhora de Lourdes",28,"SE","Nordeste",2803,"Leste Sergipano",28007,"Propriá",81.1,"Sim",6246,6494,96.18,18.75,237.82
+151,2805000,280500,"Pedra Mole",28,"SE","Nordeste",2801,"Sertão Sergipano",28002,"Carira",82,"Sim",3139,3199,98.12,24.59,109.55
+153,2805208,280520,"Pinhão",28,"SE","Nordeste",2801,"Sertão Sergipano",28002,"Carira",155.9,"Sim",5424,6440,84.22,7.56,162.12
+155,2805406,280540,"Poço Redondo",28,"SE","Nordeste",2801,"Sertão Sergipano",28001,"Sergipana do Sertão do São Francisco",1232.1,"Sim",18346,33757,54.35,103.41,630.39
+156,2805505,280550,"Poço Verde",28,"SE","Nordeste",2802,"Agreste Sergipano",28005,"Tobias Barreto",440.1,"Sim",20069,23416,85.71,113.24,626.89
+157,2805604,280560,"Porto da Folha",28,"SE","Nordeste",2801,"Sertão Sergipano",28001,"Sergipana do Sertão do São Francisco",877.3,"Sim",27942,28492,98.07,87.52,888.75
+158,2805703,280570,"Propriá",28,"SE","Nordeste",2803,"Leste Sergipano",28007,"Propriá",92.5,"Sim",28135,29655,94.87,66.76,1079.97
+161,2806008,280600,"Ribeirópolis",28,"SE","Nordeste",2801,"Sertão Sergipano",28002,"Carira",258.5,"Sim",16400,18362,89.31,30.29,531.96
+171,2807006,280700,"São Miguel do Aleixo",28,"SE","Nordeste",2802,"Agreste Sergipano",28003,"Nossa Senhora das Dores",144.1,"Sim",2971,3902,76.14,6.76,93.55
+172,2807105,280710,"Simão Dias",28,"SE","Nordeste",2802,"Agreste Sergipano",28005,"Tobias Barreto",564.7,"Sim",28171,40526,69.51,106.94,882.64
+174,2807303,280730,"Telha",28,"SE","Nordeste",2803,"Leste Sergipano",28007,"Propriá",49,"Sim",3113,3170,98.2,8.8,120.08
+175,2807402,280740,"Tobias Barreto",28,"SE","Nordeste",2802,"Agreste Sergipano",28005,"Tobias Barreto",1021.3,"Sim",40134,51375,78.12,105.33,1426.02
+587,2900108,290010,"Abaíra",29,"BA","Nordeste",2906,"Centro Sul Baiano",29023,"Seabra",530.5,"Sim",NA,9226,NA,NA,NA
+588,2900207,290020,"Abaré",29,"BA","Nordeste",2902,"Vale São-Franciscano da Bahia",29005,"Paulo Afonso",1485,"Sim",12855,19574,65.67,68.33,439.08
+590,2900355,290035,"Adustina",29,"BA","Nordeste",2904,"Nordeste Baiano",29015,"Ribeira do Pombal",632.1,"Sim",10107,17153,58.92,112.96,351.93
+591,2900405,290040,"Água Fria",29,"BA","Nordeste",2903,"Centro Norte Baiano",29012,"Feira de Santana",661.9,"Sim",8123,17043,47.66,25.91,238.28
+592,2900504,290050,"Érico Cardoso",29,"BA","Nordeste",2906,"Centro Sul Baiano",29025,"Livramento do Brumado",701.4,"Sim",4633,11437,40.51,38,141
+597,2901007,290100,"Amargosa",29,"BA","Nordeste",2906,"Centro Sul Baiano",29024,"Jequié",463.2,"Sim",32742,37807,86.6,149.21,1068.56
+599,2901155,290115,"América Dourada",29,"BA","Nordeste",2903,"Centro Norte Baiano",29009,"Irecê",839.3,"Sim",13822,16923,81.68,67.75,402.75
+600,2901205,290120,"Anagé",29,"BA","Nordeste",2906,"Centro Sul Baiano",29028,"Vitória da Conquista",1947.4,"Sim",6350,20096,31.6,35.21,225.94
+601,2901304,290130,"Andaraí",29,"BA","Nordeste",2906,"Centro Sul Baiano",29023,"Seabra",1861.7,"Sim",8580,13723,62.52,39.1,248.09
+602,2901353,290135,"Andorinha",29,"BA","Nordeste",2903,"Centro Norte Baiano",29008,"Senhor do Bonfim",1247.6,"Sim",9908,14791,66.99,134.84,286.6
+604,2901502,290150,"Anguera",29,"BA","Nordeste",2903,"Centro Norte Baiano",29012,"Feira de Santana",177,"Sim",8236,11299,72.89,16.14,195.54
+605,2901601,290160,"Antas",29,"BA","Nordeste",2904,"Nordeste Baiano",29015,"Ribeira do Pombal",319.6,"Sim",10872,19183,56.68,30.94,309.39
+606,2901700,290170,"Antônio Cardoso",29,"BA","Nordeste",2903,"Centro Norte Baiano",29012,"Feira de Santana",294.5,"Sim",4979,12225,40.73,27.98,153.92
+607,2901809,290180,"Antônio Gonçalves",29,"BA","Nordeste",2903,"Centro Norte Baiano",29008,"Senhor do Bonfim",313.9,"Sim",9127,12187,74.89,74.07,278.47
+610,2902005,290200,"Aracatu",29,"BA","Nordeste",2906,"Centro Sul Baiano",29027,"Brumado",1489.8,"Sim",5902,14089,41.89,43.27,189.96
+612,2902104,290210,"Araci",29,"BA","Nordeste",2904,"Nordeste Baiano",29016,"Serrinha",1556.1,"Sim",26781,56370,47.51,53.21,764.85
+618,2902609,290260,"Baixa Grande",29,"BA","Nordeste",2903,"Centro Norte Baiano",29011,"Itaberaba",946.6,"Sim",12765,21197,60.22,47.84,388.57
+619,2902658,290265,"Banzaê",29,"BA","Nordeste",2904,"Nordeste Baiano",29015,"Ribeira do Pombal",227.2,"Sim",5684,13711,41.46,15.58,152.84
+620,2902708,290270,"Barra",29,"BA","Nordeste",2902,"Vale São-Franciscano da Bahia",29006,"Barra",11412.8,"Sim",NA,54188,NA,NA,NA
+621,2902807,290280,"Barra da Estiva",29,"BA","Nordeste",2906,"Centro Sul Baiano",29023,"Seabra",1346.6,"Sim",18982,22394,84.76,97.93,688.19
+622,2902906,290290,"Barra do Choça",29,"BA","Nordeste",2906,"Centro Sul Baiano",29028,"Vitória da Conquista",646.6,"Sim",29022,34853,83.27,88.91,1115.78
+623,2903003,290300,"Barra do Mendes",29,"BA","Nordeste",2903,"Centro Norte Baiano",29009,"Irecê",1540.6,"Sim",11336,14526,78.04,52.59,342.27
+626,2903235,290323,"Barro Alto",29,"BA","Nordeste",2903,"Centro Norte Baiano",29009,"Irecê",416.7,"Sim",6393,15377,41.58,22.74,194.44
+627,2903276,290327,"Barrocas",29,"BA","Nordeste",2904,"Nordeste Baiano",29016,"Serrinha",201,"Sim",11441,15770,72.55,28.64,335.61
+630,2903508,290350,"Belo Campo",29,"BA","Nordeste",2906,"Centro Sul Baiano",29028,"Vitória da Conquista",629.1,"Sim",6777,18383,36.87,52.52,154.64
+631,2903607,290360,"Biritinga",29,"BA","Nordeste",2904,"Nordeste Baiano",29016,"Serrinha",550,"Sim",7002,15799,44.32,23.4,581.51
+632,2903706,290370,"Boa Nova",29,"BA","Nordeste",2906,"Centro Sul Baiano",29028,"Vitória da Conquista",868.8,"Sim",9110,14577,62.5,109.67,292.66
+633,2903805,290380,"Boa Vista do Tupim",29,"BA","Nordeste",2903,"Centro Norte Baiano",29011,"Itaberaba",2811.1,"Sim",13333,18658,71.46,56.81,358.26
+634,2903904,290390,"Bom Jesus da Lapa",29,"BA","Nordeste",2902,"Vale São-Franciscano da Bahia",29007,"Bom Jesus da Lapa",4200.3,"Sim",69526,69526,100,169,2183
+635,2903953,290395,"Bom Jesus da Serra",29,"BA","Nordeste",2906,"Centro Sul Baiano",29028,"Vitória da Conquista",421.5,"Sim",4340,10554,41.12,16.69,135.07
+636,2904001,290400,"Boninal",29,"BA","Nordeste",2906,"Centro Sul Baiano",29023,"Seabra",934,"Sim",5619,14585,38.53,12.18,181.73
+637,2904050,290405,"Bonito",29,"BA","Nordeste",2906,"Centro Sul Baiano",29023,"Seabra",726.6,"Sim",6921,16873,41.02,18.53,180.19
+638,2904100,290410,"Boquira",29,"BA","Nordeste",2906,"Centro Sul Baiano",29022,"Boquira",1482.7,"Sim",NA,22429,NA,NA,NA
+639,2904209,290420,"Botuporã",29,"BA","Nordeste",2906,"Centro Sul Baiano",29022,"Boquira",645.5,"Sim",5916,11021,53.68,45.63,265.53
+640,2904308,290430,"Brejões",29,"BA","Nordeste",2906,"Centro Sul Baiano",29024,"Jequié",480.8,"Sim",13803,15214,90.73,86.84,354.16
+641,2904407,290440,"Brejolândia",29,"BA","Nordeste",2901,"Extremo Oeste Baiano",29002,"Cotegipe",2744.5,"Sim",2983,10698,27.88,26.36,103.95
+642,2904506,290450,"Brotas de Macaúbas",29,"BA","Nordeste",2906,"Centro Sul Baiano",29022,"Boquira",2240,"Sim",4033,11070,36.43,15.85,131.7
+643,2904605,290460,"Brumado",29,"BA","Nordeste",2906,"Centro Sul Baiano",29027,"Brumado",2226.8,"Sim",61083,69255,88.2,311.32,2539
+645,2904753,290475,"Buritirama",29,"BA","Nordeste",2902,"Vale São-Franciscano da Bahia",29006,"Barra",3942.2,"Sim",NA,21549,NA,NA,NA
+646,2904803,290480,"Caatiba",29,"BA","Nordeste",2906,"Centro Sul Baiano",29028,"Vitória da Conquista",491.3,"Sim",7142,10166,70.25,7.68,168.95
+647,2904852,290485,"Cabaceiras do Paraguaçu",29,"BA","Nordeste",2905,"Metropolitana de Salvador",29020,"Santo Antônio de Jesus",226,"Sim",9126,18978,48.09,49.29,255.94
+649,2905008,290500,"Caculé",29,"BA","Nordeste",2906,"Centro Sul Baiano",29026,"Guanambi",668.4,"Sim",19306,23545,82,71.23,684.27
+650,2905107,290510,"Caém",29,"BA","Nordeste",2903,"Centro Norte Baiano",29010,"Jacobina",548.1,"Sim",4596,10143,45.31,9.88,37.47
+651,2905156,290515,"Caetanos",29,"BA","Nordeste",2906,"Centro Sul Baiano",29028,"Vitória da Conquista",774.7,"Sim",3940,15982,24.65,11.07,97.69
+652,2905206,290520,"Caetité",29,"BA","Nordeste",2906,"Centro Sul Baiano",29026,"Guanambi",2442.9,"Sim",38201,52531,72.72,154.26,1220.86
+653,2905305,290530,"Cafarnaum",29,"BA","Nordeste",2903,"Centro Norte Baiano",29009,"Irecê",675.4,"Sim",12016,18695,64.27,56.23,320.18
+655,2905503,290550,"Caldeirão Grande",29,"BA","Nordeste",2903,"Centro Norte Baiano",29010,"Jacobina",455.2,"Sim",8217,13641,60.24,83.7,355.85
+659,2905909,290590,"Campo Alegre de Lourdes",29,"BA","Nordeste",2902,"Vale São-Franciscano da Bahia",29004,"Juazeiro",2781.4,"Sim",8650,29938,28.89,28,250
+660,2906006,290600,"Campo Formoso",29,"BA","Nordeste",2903,"Centro Norte Baiano",29008,"Senhor do Bonfim",7258.6,"Sim",31833,72271,44.05,51.25,859.91
+662,2906204,290620,"Canarana",29,"BA","Nordeste",2903,"Centro Norte Baiano",29009,"Irecê",576.4,"Sim",18827,26382,71.36,94.44,563.91
+664,2906402,290640,"Candeal",29,"BA","Nordeste",2904,"Nordeste Baiano",29016,"Serrinha",445.1,"Sim",4651,9011,51.61,16.47,112.95
+666,2906600,290660,"Candiba",29,"BA","Nordeste",2906,"Centro Sul Baiano",29026,"Guanambi",418,"Sim",10771,14667,73.44,77.57,380.93
+667,2906709,290670,"Cândido Sales",29,"BA","Nordeste",2906,"Centro Sul Baiano",29028,"Vitória da Conquista",1617.5,"Sim",16524,26855,61.53,45.34,532.14
+668,2906808,290680,"Cansanção",29,"BA","Nordeste",2904,"Nordeste Baiano",29014,"Euclides da Cunha",1344.8,"Sim",26650,35235,75.64,241.16,1004.77
+669,2906824,290682,"Canudos",29,"BA","Nordeste",2904,"Nordeste Baiano",29014,"Euclides da Cunha",3219.3,"Sim",11000,17177,64.04,42.23,349.47
+670,2906857,290685,"Capela do Alto Alegre",29,"BA","Nordeste",2904,"Nordeste Baiano",29016,"Serrinha",649.5,"Sim",9161,12118,75.6,53.03,449.1
+671,2906873,290687,"Capim Grosso",29,"BA","Nordeste",2903,"Centro Norte Baiano",29010,"Jacobina",336.2,"Sim",29346,29346,100,388.76,1168.91
+672,2906899,290689,"Caraíbas",29,"BA","Nordeste",2906,"Centro Sul Baiano",29027,"Brumado",805.6,"Sim",3431,10016,34.26,19.26,127.95
+675,2907103,290710,"Carinhanha",29,"BA","Nordeste",2902,"Vale São-Franciscano da Bahia",29007,"Bom Jesus da Lapa",2736.9,"Sim",22975,29955,76.7,70,1915
+676,2907202,290720,"Casa Nova",29,"BA","Nordeste",2902,"Vale São-Franciscano da Bahia",29004,"Juazeiro",9647,"Sim",55000,72172,76.21,106.7,3691.12
+677,2907301,290730,"Castro Alves",29,"BA","Nordeste",2905,"Metropolitana de Salvador",29020,"Santo Antônio de Jesus",711.7,"Sim",22849,27286,83.74,181.27,683.16
+680,2907558,290755,"Caturama",29,"BA","Nordeste",2906,"Centro Sul Baiano",29022,"Boquira",664.6,"Sim",5737,9762,58.77,42.81,176.61
+681,2907608,290760,"Central",29,"BA","Nordeste",2903,"Centro Norte Baiano",29009,"Irecê",602.4,"Sim",14614,18140,80.56,77.91,498.43
+682,2907707,290770,"Chorrochó",29,"BA","Nordeste",2902,"Vale São-Franciscano da Bahia",29005,"Paulo Afonso",3005.3,"Sim",7452,11522,64.68,41.36,224.08
+683,2907806,290780,"Cícero Dantas",29,"BA","Nordeste",2904,"Nordeste Baiano",29015,"Ribeira do Pombal",673,"Sim",24355,34478,70.64,61.78,2872
+684,2907905,290790,"Cipó",29,"BA","Nordeste",2904,"Nordeste Baiano",29015,"Ribeira do Pombal",128.3,"Sim",13169,17602,74.82,57.59,467.4
+686,2908101,290810,"Cocos",29,"BA","Nordeste",2901,"Extremo Oeste Baiano",29003,"Santa Maria da Vitória",10148.1,"Sim",NA,19396,NA,NA,NA
+689,2908408,290840,"Conceição do Coité",29,"BA","Nordeste",2904,"Nordeste Baiano",29016,"Serrinha",1016,"Sim",53481,68146,78.48,156.88,1626.06
+692,2908705,290870,"Condeúba",29,"BA","Nordeste",2906,"Centro Sul Baiano",29027,"Brumado",1285.9,"Sim",9152,18269,50.1,41.28,303.3
+693,2908804,290880,"Contendas do Sincorá",29,"BA","Nordeste",2906,"Centro Sul Baiano",29023,"Seabra",1044.7,"Sim",3011,4326,69.6,14.72,95.37
+695,2909000,290900,"Cordeiros",29,"BA","Nordeste",2906,"Centro Sul Baiano",29027,"Brumado",535.5,"Sim",4956,8834,56.1,21.17,146.87
+696,2909109,290910,"Coribe",29,"BA","Nordeste",2901,"Extremo Oeste Baiano",29003,"Santa Maria da Vitória",2523.2,"Sim",14210,14976,94.89,60,810
+697,2909208,290920,"Coronel João Sá",29,"BA","Nordeste",2904,"Nordeste Baiano",29013,"Jeremoabo",883.4,"Sim",10989,17098,64.27,52.76,307.35
+700,2909505,290950,"Cravolândia",29,"BA","Nordeste",2906,"Centro Sul Baiano",29024,"Jequié",162.2,"Sim",3279,5560,58.97,15.28,92.56
+701,2909604,290960,"Crisópolis",29,"BA","Nordeste",2904,"Nordeste Baiano",29017,"Alagoinhas",607.7,"Sim",9306,21617,43.05,32.92,285.93
+704,2909901,290990,"Curaçá",29,"BA","Nordeste",2902,"Vale São-Franciscano da Bahia",29004,"Juazeiro",6079,"Sim",30291,35208,86.03,272.56,805.43
+707,2910107,291010,"Dom Basílio",29,"BA","Nordeste",2906,"Centro Sul Baiano",29025,"Livramento do Brumado",676.9,"Sim",NA,12499,NA,NA,NA
+709,2910305,291030,"Elísio Medrado",29,"BA","Nordeste",2903,"Centro Norte Baiano",29012,"Feira de Santana",193.5,"Sim",3751,8434,44.47,18.11,124.08
+710,2910404,291040,"Encruzilhada",29,"BA","Nordeste",2906,"Centro Sul Baiano",29029,"Itapetinga",1982.5,"Sim",6196,20331,30.48,16.4,184.21
+713,2910701,291070,"Euclides da Cunha",29,"BA","Nordeste",2904,"Nordeste Baiano",29014,"Euclides da Cunha",2235.3,"Sim",44731,60666,73.73,371.61,1507.16
+715,2910750,291075,"Fátima",29,"BA","Nordeste",2904,"Nordeste Baiano",29015,"Ribeira do Pombal",359.4,"Sim",16647,18481,90.08,39.21,996
+716,2910776,291077,"Feira da Mata",29,"BA","Nordeste",2902,"Vale São-Franciscano da Bahia",29007,"Bom Jesus da Lapa",1668.5,"Sim",NA,5914,NA,NA,NA
+717,2910800,291080,"Feira de Santana",29,"BA","Nordeste",2903,"Centro Norte Baiano",29012,"Feira de Santana",1338,"Sim",581908,617528,94.23,2161.73,17596.87
+718,2910859,291085,"Filadélfia",29,"BA","Nordeste",2903,"Centro Norte Baiano",29008,"Senhor do Bonfim",570.1,"Sim",12141,17583,69.05,121.67,474.21
+723,2911253,291125,"Gavião",29,"BA","Nordeste",2904,"Nordeste Baiano",29016,"Serrinha",369.9,"Sim",3380,4712,71.73,8.49,102.56
+724,2911303,291130,"Gentio do Ouro",29,"BA","Nordeste",2903,"Centro Norte Baiano",29009,"Irecê",3700.1,"Sim",3778,11423,33.07,12.09,131.02
+725,2911402,291140,"Glória",29,"BA","Nordeste",2902,"Vale São-Franciscano da Bahia",29005,"Paulo Afonso",1255.6,"Sim",11679,16072,72.67,93.81,492.88
+728,2911659,291165,"Guajeru",29,"BA","Nordeste",2906,"Centro Sul Baiano",29027,"Brumado",936.1,"Sim",3289,8805,37.35,63.89,92.06
+729,2911709,291170,"Guanambi",29,"BA","Nordeste",2906,"Centro Sul Baiano",29026,"Guanambi",1296.7,"Sim",85797,85797,100,663.19,3434.61
+731,2911857,291185,"Heliópolis",29,"BA","Nordeste",2904,"Nordeste Baiano",29015,"Ribeira do Pombal",312.5,"Sim",8173,13762,59.39,18.87,233.29
+732,2911907,291190,"Iaçu",29,"BA","Nordeste",2903,"Centro Norte Baiano",29011,"Itaberaba",2451.5,"Sim",26056,26178,99.53,90.34,799.62
+733,2912004,291200,"Ibiassucê",29,"BA","Nordeste",2906,"Centro Sul Baiano",29026,"Guanambi",426.7,"Sim",7669,10502,73.02,51.39,259.08
+735,2912202,291220,"Ibicoara",29,"BA","Nordeste",2906,"Centro Sul Baiano",29023,"Seabra",849.9,"Sim",4572,19548,23.39,23.32,165.99
+737,2912400,291240,"Ibipeba",29,"BA","Nordeste",2903,"Centro Norte Baiano",29009,"Irecê",1383.7,"Sim",13725,18674,73.5,115.46,508.2
+738,2912509,291250,"Ibipitanga",29,"BA","Nordeste",2906,"Centro Sul Baiano",29022,"Boquira",954.4,"Sim",8256,15296,53.97,70.71,221.32
+739,2912608,291260,"Ibiquera",29,"BA","Nordeste",2903,"Centro Norte Baiano",29011,"Itaberaba",945.3,"Sim",3358,5158,65.1,24.27,84.84
+743,2913002,291300,"Ibitiara",29,"BA","Nordeste",2906,"Centro Sul Baiano",29022,"Boquira",1847.6,"Sim",3638,16699,21.79,15.95,102.75
+744,2913101,291310,"Ibititá",29,"BA","Nordeste",2903,"Centro Norte Baiano",29009,"Irecê",624.1,"Sim",18455,18727,98.55,97.76,587.63
+745,2913200,291320,"Ibotirama",29,"BA","Nordeste",2902,"Vale São-Franciscano da Bahia",29006,"Barra",1722.3,"Sim",24471,27655,88.49,108.32,790.94
+746,2913309,291330,"Ichu",29,"BA","Nordeste",2904,"Nordeste Baiano",29016,"Serrinha",127.7,"Sim",5001,6311,79.24,16.03,120.76
+747,2913408,291340,"Igaporã",29,"BA","Nordeste",2906,"Centro Sul Baiano",29026,"Guanambi",832.5,"Sim",NA,16225,NA,NA,NA
+749,2913507,291350,"Iguaí",29,"BA","Nordeste",2906,"Centro Sul Baiano",29028,"Vitória da Conquista",827.8,"Sim",15614,27787,56.19,26.87,512.97
+751,2913705,291370,"Inhambupe",29,"BA","Nordeste",2904,"Nordeste Baiano",29017,"Alagoinhas",1222.6,"Sim",23007,40915,56.23,95.08,766.19
+752,2913804,291380,"Ipecaetá",29,"BA","Nordeste",2903,"Centro Norte Baiano",29012,"Feira de Santana",369.9,"Sim",8775,15521,56.54,18.77,248.44
+754,2914000,291400,"Ipirá",29,"BA","Nordeste",2903,"Centro Norte Baiano",29012,"Feira de Santana",3048.5,"Sim",45194,62095,72.78,135.1,1463.82
+755,2914109,291410,"Ipupiara",29,"BA","Nordeste",2906,"Centro Sul Baiano",29022,"Boquira",1061.2,"Sim",7688,10113,76.02,26.1,290.13
+756,2914208,291420,"Irajuba",29,"BA","Nordeste",2906,"Centro Sul Baiano",29024,"Jequié",413.5,"Sim",4283,7472,57.32,29.48,160.95
+757,2914307,291430,"Iramaia",29,"BA","Nordeste",2906,"Centro Sul Baiano",29024,"Jequié",1947.3,"Sim",7724,10487,73.65,59.37,276.87
+758,2914406,291440,"Iraquara",29,"BA","Nordeste",2903,"Centro Norte Baiano",29009,"Irecê",1029.4,"Sim",8172,25006,32.68,34.17,242.59
+760,2914604,291460,"Irecê",29,"BA","Nordeste",2903,"Centro Norte Baiano",29009,"Irecê",319,"Sim",73380,73380,100,406.65,2965.38
+762,2914703,291470,"Itaberaba",29,"BA","Nordeste",2903,"Centro Norte Baiano",29011,"Itaberaba",2343.5,"Sim",66310,66310,100,234.53,2346.76
+765,2915007,291500,"Itaeté",29,"BA","Nordeste",2906,"Centro Sul Baiano",29023,"Seabra",1208.7,"Sim",7050,16446,42.87,19.2,245.53
+766,2915106,291510,"Itagi",29,"BA","Nordeste",2906,"Centro Sul Baiano",29024,"Jequié",259.2,"Sim",11077,13359,82.92,23.71,350.95
+769,2915353,291535,"Itaguaçu da Bahia",29,"BA","Nordeste",2902,"Vale São-Franciscano da Bahia",29006,"Barra",4451.2,"Sim",4447,14667,30.32,20.47,136.94
+774,2915809,291580,"Itambé",29,"BA","Nordeste",2906,"Centro Sul Baiano",29029,"Itapetinga",1441.6,"Sim",19381,23327,83.08,56.07,678.46
+780,2916401,291640,"Itapetinga",29,"BA","Nordeste",2906,"Centro Sul Baiano",29029,"Itapetinga",1627.5,"Sim",76184,76184,100,179.4,3972.65
+781,2916500,291650,"Itapicuru",29,"BA","Nordeste",2904,"Nordeste Baiano",29015,"Ribeira do Pombal",1585.6,"Sim",18577,35987,51.62,81,564.98
+783,2916708,291670,"Itaquara",29,"BA","Nordeste",2906,"Centro Sul Baiano",29024,"Jequié",323,"Sim",5229,8519,61.38,14.9,150.8
+784,2916807,291680,"Itarantim",29,"BA","Nordeste",2906,"Centro Sul Baiano",29029,"Itapetinga",1805.1,"Sim",16014,20091,79.71,39.62,574.28
+785,2916856,291685,"Itatim",29,"BA","Nordeste",2903,"Centro Norte Baiano",29012,"Feira de Santana",583.4,"Sim",14657,14763,99.28,115.9,523.03
+786,2916906,291690,"Itiruçu",29,"BA","Nordeste",2906,"Centro Sul Baiano",29024,"Jequié",313.7,"Sim",9899,13307,74.39,37.11,378.01
+787,2917003,291700,"Itiúba",29,"BA","Nordeste",2903,"Centro Norte Baiano",29008,"Senhor do Bonfim",1722.7,"Sim",16097,38492,41.82,89.85,388.98
+788,2917102,291710,"Itororó",29,"BA","Nordeste",2906,"Centro Sul Baiano",29029,"Itapetinga",313.6,"Sim",18460,21178,87.17,64,3105
+789,2917201,291720,"Ituaçu",29,"BA","Nordeste",2906,"Centro Sul Baiano",29027,"Brumado",1216.3,"Sim",8253,19406,42.53,26,257.37
+791,2917334,291733,"Iuiú",29,"BA","Nordeste",2906,"Centro Sul Baiano",29026,"Guanambi",1485.8,"Sim",6477,11331,57.16,22.22,202.47
+793,2917409,291740,"Jacaraci",29,"BA","Nordeste",2906,"Centro Sul Baiano",29026,"Guanambi",1235.6,"Sim",4227,15409,27.43,13.34,120.3
+794,2917508,291750,"Jacobina",29,"BA","Nordeste",2903,"Centro Norte Baiano",29010,"Jacobina",2360,"Sim",68244,84811,80.47,307.08,2489.89
+795,2917607,291760,"Jaguaquara",29,"BA","Nordeste",2906,"Centro Sul Baiano",29024,"Jequié",928.2,"Sim",46893,55449,84.57,123.23,1482.33
+796,2917706,291770,"Jaguarari",29,"BA","Nordeste",2903,"Centro Norte Baiano",29008,"Senhor do Bonfim",2456.5,"Sim",21244,33186,64.01,137.76,1988.44
+799,2918001,291800,"Jequié",29,"BA","Nordeste",2906,"Centro Sul Baiano",29024,"Jequié",3227.3,"Sim",161528,161528,100,486.79,5563.17
+800,2918100,291810,"Jeremoabo",29,"BA","Nordeste",2904,"Nordeste Baiano",29013,"Jeremoabo",4656.1,"Sim",22608,41100,55.01,72.03,1018.8
+803,2918357,291835,"João Dourado",29,"BA","Nordeste",2903,"Centro Norte Baiano",29009,"Irecê",914.9,"Sim",22003,25141,87.52,107.61,710.5
+804,2918407,291840,"Juazeiro",29,"BA","Nordeste",2902,"Vale São-Franciscano da Bahia",29004,"Juazeiro",6500.7,"Sim",211971,218324,97.09,422,20993
+806,2918506,291850,"Jussara",29,"BA","Nordeste",2903,"Centro Norte Baiano",29009,"Irecê",948.6,"Sim",15630,15841,98.67,75.64,499.37
+808,2918605,291860,"Jussiape",29,"BA","Nordeste",2906,"Centro Sul Baiano",29023,"Seabra",585.2,"Sim",3758,7229,51.99,20.94,155.15
+809,2918704,291870,"Lafaiete Coutinho",29,"BA","Nordeste",2906,"Centro Sul Baiano",29024,"Jequié",405.3,"Sim",2512,4020,62.49,33.57,82.67
+810,2918753,291875,"Lagoa Real",29,"BA","Nordeste",2906,"Centro Sul Baiano",29026,"Guanambi",877.4,"Sim",4416,15801,27.95,35.61,127.38
+813,2919009,291900,"Lajedinho",29,"BA","Nordeste",2903,"Centro Norte Baiano",29011,"Itaberaba",776.1,"Sim",2595,3974,65.3,5.28,70.37
+814,2919058,291905,"Lajedo do Tabocal",29,"BA","Nordeste",2906,"Centro Sul Baiano",29024,"Jequié",431.9,"Sim",4499,8836,50.92,20,344.89
+815,2919108,291910,"Lamarão",29,"BA","Nordeste",2904,"Nordeste Baiano",29016,"Serrinha",174.3,"Sim",6109,9442,64.7,9.41,168.66
+816,2919157,291915,"Lapão",29,"BA","Nordeste",2903,"Centro Norte Baiano",29009,"Irecê",602.4,"Sim",26684,27521,96.96,135.96,897.36
+818,2919306,291930,"Lençóis",29,"BA","Nordeste",2906,"Centro Sul Baiano",29023,"Seabra",1277,"Sim",8683,11445,75.87,19.77,330.43
+819,2919405,291940,"Licínio de Almeida",29,"BA","Nordeste",2906,"Centro Sul Baiano",29026,"Guanambi",843.4,"Sim",5705,12966,44,24.22,130.13
+820,2919504,291950,"Livramento de Nossa Senhora",29,"BA","Nordeste",2906,"Centro Sul Baiano",29025,"Livramento do Brumado",2135.6,"Sim",28768,46035,62.49,130.14,990.67
+822,2919603,291960,"Macajuba",29,"BA","Nordeste",2903,"Centro Norte Baiano",29011,"Itaberaba",650.3,"Sim",9759,11837,82.44,34.91,260.2
+823,2919702,291970,"Macarani",29,"BA","Nordeste",2906,"Centro Sul Baiano",29029,"Itapetinga",1287.5,"Sim",14847,18786,79.03,83.79,988.19
+824,2919801,291980,"Macaúbas",29,"BA","Nordeste",2906,"Centro Sul Baiano",29022,"Boquira",2994.1,"Sim",45968,50262,91.46,633.21,1148.7
+825,2919900,291990,"Macururé",29,"BA","Nordeste",2902,"Vale São-Franciscano da Bahia",29005,"Paulo Afonso",2294.3,"Sim",4000,8365,47.82,16,130
+827,2919959,291995,"Maetinga",29,"BA","Nordeste",2906,"Centro Sul Baiano",29027,"Brumado",681.7,"Sim",4364,5174,84.34,41.52,145.62
+828,2920007,292000,"Maiquinique",29,"BA","Nordeste",2906,"Centro Sul Baiano",29029,"Itapetinga",492,"Sim",7387,10082,73.27,24.44,269.09
+829,2920106,292010,"Mairi",29,"BA","Nordeste",2903,"Centro Norte Baiano",29011,"Itaberaba",952.7,"Sim",12158,20097,60.5,46.34,433.96
+830,2920205,292020,"Malhada",29,"BA","Nordeste",2906,"Centro Sul Baiano",29026,"Guanambi",2008.4,"Sim",9673,17455,55.42,50.55,320.79
+831,2920304,292030,"Malhada de Pedras",29,"BA","Nordeste",2906,"Centro Sul Baiano",29027,"Brumado",529,"Sim",3794,8896,42.65,13.64,138.8
+832,2920403,292040,"Manoel Vitorino",29,"BA","Nordeste",2906,"Centro Sul Baiano",29028,"Vitória da Conquista",2254.4,"Sim",6880,14488,47.49,24.65,200.66
+834,2920502,292050,"Maracás",29,"BA","Nordeste",2906,"Centro Sul Baiano",29024,"Jequié",2253.2,"Sim",15050,23751,63.37,67.57,462.29
+837,2920809,292080,"Marcionílio Souza",29,"BA","Nordeste",2906,"Centro Sul Baiano",29024,"Jequié",1277.2,"Sim",7619,10951,69.57,42.96,244.12
+840,2921054,292105,"Matina",29,"BA","Nordeste",2906,"Centro Sul Baiano",29026,"Guanambi",775.7,"Sim",4930,12314,40.04,17,140.28
+842,2921203,292120,"Miguel Calmon",29,"BA","Nordeste",2903,"Centro Norte Baiano",29010,"Jacobina",1568.2,"Sim",20084,27536,72.94,66.26,929.98
+843,2921302,292130,"Milagres",29,"BA","Nordeste",2906,"Centro Sul Baiano",29024,"Jequié",284.4,"Sim",10169,11659,87.22,89.76,342.69
+844,2921401,292140,"Mirangaba",29,"BA","Nordeste",2903,"Centro Norte Baiano",29010,"Jacobina",1697.7,"Sim",3279,18039,18.18,7.61,101.06
+845,2921450,292145,"Mirante",29,"BA","Nordeste",2906,"Centro Sul Baiano",29028,"Vitória da Conquista",1061,"Sim",2739,9902,27.66,15.98,77.57
+846,2921500,292150,"Monte Santo",29,"BA","Nordeste",2904,"Nordeste Baiano",29014,"Euclides da Cunha",3186.9,"Sim",18979,54733,34.68,174.27,713.24
+847,2921609,292160,"Morpará",29,"BA","Nordeste",2902,"Vale São-Franciscano da Bahia",29006,"Barra",1696.9,"Sim",6239,8967,69.58,30.66,198.77
+848,2921708,292170,"Morro do Chapéu",29,"BA","Nordeste",2903,"Centro Norte Baiano",29010,"Jacobina",5742.9,"Sim",23383,36717,63.68,78.07,711.39
+849,2921807,292180,"Mortugaba",29,"BA","Nordeste",2906,"Centro Sul Baiano",29026,"Guanambi",612.2,"Sim",7169,12477,57.46,78.09,211.79
+850,2921906,292190,"Mucugê",29,"BA","Nordeste",2906,"Centro Sul Baiano",29023,"Seabra",2455,"Sim",10244,10244,100,200,580.2
+852,2922052,292205,"Mulungu do Morro",29,"BA","Nordeste",2903,"Centro Norte Baiano",29009,"Irecê",566,"Sim",7095,12200,58.16,79.51,223.54
+853,2922102,292210,"Mundo Novo",29,"BA","Nordeste",2903,"Centro Norte Baiano",29011,"Itaberaba",1493.4,"Sim",17951,27165,66.08,144.64,714.92
+855,2922250,292225,"Muquém de São Francisco",29,"BA","Nordeste",2902,"Vale São-Franciscano da Bahia",29006,"Barra",3638.1,"Sim",2648,11495,23.04,29.28,83.65
+860,2922656,292265,"Nordestina",29,"BA","Nordeste",2904,"Nordeste Baiano",29014,"Euclides da Cunha",461.2,"Sim",9378,13321,70.4,83.82,336.14
+861,2922706,292270,"Nova Canaã",29,"BA","Nordeste",2906,"Centro Sul Baiano",29028,"Vitória da Conquista",853.7,"Sim",7451,17082,43.62,22.59,244.12
+862,2922730,292273,"Nova Fátima",29,"BA","Nordeste",2904,"Nordeste Baiano",29016,"Serrinha",349.9,"Sim",8125,8125,100,12.04,295.65
+864,2922805,292280,"Nova Itarana",29,"BA","Nordeste",2906,"Centro Sul Baiano",29024,"Jequié",470.4,"Sim",4449,8312,53.53,35.15,111.21
+865,2922854,292285,"Nova Redenção",29,"BA","Nordeste",2906,"Centro Sul Baiano",29023,"Seabra",431.3,"Sim",6497,9470,68.61,43.95,175.98
+866,2922904,292290,"Nova Soure",29,"BA","Nordeste",2904,"Nordeste Baiano",29015,"Ribeira do Pombal",950.4,"Sim",13981,25854,54.08,60.4,436.57
+868,2923035,292303,"Novo Horizonte",29,"BA","Nordeste",2906,"Centro Sul Baiano",29022,"Boquira",609.2,"Sim",221,12238,1.81,0,0
+869,2923050,292305,"Novo Triunfo",29,"BA","Nordeste",2904,"Nordeste Baiano",29015,"Ribeira do Pombal",251.4,"Sim",7487,15993,46.81,11.43,149.09
+870,2923100,292310,"Olindina",29,"BA","Nordeste",2904,"Nordeste Baiano",29015,"Ribeira do Pombal",542.2,"Sim",14838,26817,55.33,43.19,500.43
+871,2923209,292320,"Oliveira dos Brejinhos",29,"BA","Nordeste",2906,"Centro Sul Baiano",29022,"Boquira",3512.7,"Sim",6858,22774,30.11,52.4,357
+873,2923357,292335,"Ourolândia",29,"BA","Nordeste",2903,"Centro Norte Baiano",29010,"Jacobina",1487.7,"Sim",7760,17775,43.66,19.84,241.3
+874,2923407,292340,"Palmas de Monte Alto",29,"BA","Nordeste",2906,"Centro Sul Baiano",29026,"Guanambi",2524.9,"Sim",10935,22416,48.78,44.83,383.6
+875,2923506,292350,"Palmeiras",29,"BA","Nordeste",2906,"Centro Sul Baiano",29023,"Seabra",657.7,"Sim",5213,9130,57.1,8.02,157.34
+876,2923605,292360,"Paramirim",29,"BA","Nordeste",2906,"Centro Sul Baiano",29025,"Livramento do Brumado",1170.1,"Sim",22077,22077,100,171.01,794.05
+877,2923704,292370,"Paratinga",29,"BA","Nordeste",2902,"Vale São-Franciscano da Bahia",29007,"Bom Jesus da Lapa",2614.8,"Sim",NA,32636,NA,NA,NA
+878,2923803,292380,"Paripiranga",29,"BA","Nordeste",2904,"Nordeste Baiano",29015,"Ribeira do Pombal",435.7,"Sim",20061,29878,67.14,45.86,556.65
+880,2924009,292400,"Paulo Afonso",29,"BA","Nordeste",2902,"Vale São-Franciscano da Bahia",29005,"Paulo Afonso",1579.7,"Sim",104423,119214,87.59,270.69,4717.13
+881,2924058,292405,"Pé de Serra",29,"BA","Nordeste",2904,"Nordeste Baiano",29016,"Serrinha",616.2,"Sim",8829,14471,61.01,40.74,293.14
+883,2924207,292420,"Pedro Alexandre",29,"BA","Nordeste",2904,"Nordeste Baiano",29013,"Jeremoabo",896.2,"Sim",5697,18135,31.41,71.81,152.61
+884,2924306,292430,"Piatã",29,"BA","Nordeste",2906,"Centro Sul Baiano",29023,"Seabra",1713.5,"Sim",NA,18473,NA,NA,NA
+885,2924405,292440,"Pilão Arcado",29,"BA","Nordeste",2902,"Vale São-Franciscano da Bahia",29004,"Juazeiro",11732.2,"Sim",NA,35428,NA,NA,NA
+886,2924504,292450,"Pindaí",29,"BA","Nordeste",2906,"Centro Sul Baiano",29026,"Guanambi",614.1,"Sim",4410,16805,26.24,33.66,162.78
+887,2924603,292460,"Pindobaçu",29,"BA","Nordeste",2903,"Centro Norte Baiano",29008,"Senhor do Bonfim",496.3,"Sim",NA,21062,NA,NA,NA
+888,2924652,292465,"Pintadas",29,"BA","Nordeste",2903,"Centro Norte Baiano",29012,"Feira de Santana",545.5,"Sim",6832,10742,63.6,31.46,201.5
+890,2924702,292470,"Piripá",29,"BA","Nordeste",2906,"Centro Sul Baiano",29027,"Brumado",439.7,"Sim",6262,12238,51.17,19.77,174.12
+891,2924801,292480,"Piritiba",29,"BA","Nordeste",2903,"Centro Norte Baiano",29010,"Jacobina",975.6,"Sim",18142,25027,72.49,135.87,851.4
+892,2924900,292490,"Planaltino",29,"BA","Nordeste",2906,"Centro Sul Baiano",29024,"Jequié",927,"Sim",4244,9473,44.8,12.05,105.58
+893,2925006,292500,"Planalto",29,"BA","Nordeste",2906,"Centro Sul Baiano",29028,"Vitória da Conquista",961.7,"Sim",18837,26632,70.73,106.67,520.91
+894,2925105,292510,"Poções",29,"BA","Nordeste",2906,"Centro Sul Baiano",29028,"Vitória da Conquista",826.5,"Sim",41921,48729,86.03,167.94,1496.42
+896,2925253,292525,"Ponto Novo",29,"BA","Nordeste",2903,"Centro Norte Baiano",29010,"Jacobina",497.3,"Sim",16044,16168,99.23,163.33,445.57
+898,2925402,292540,"Potiraguá",29,"BA","Nordeste",2906,"Centro Sul Baiano",29029,"Itapetinga",985.5,"Sim",7723,8969,86.11,30.52,350.58
+900,2925600,292560,"Presidente Dutra",29,"BA","Nordeste",2903,"Centro Norte Baiano",29009,"Irecê",163.6,"Sim",14712,14712,100,82.29,517.29
+901,2925709,292570,"Presidente Jânio Quadros",29,"BA","Nordeste",2906,"Centro Sul Baiano",29027,"Brumado",1185.1,"Sim",5819,13178,44.16,44.37,174.91
+903,2925808,292580,"Queimadas",29,"BA","Nordeste",2904,"Nordeste Baiano",29014,"Euclides da Cunha",2024.2,"Sim",15568,26083,59.69,64.1,543.31
+904,2925907,292590,"Quijingue",29,"BA","Nordeste",2904,"Nordeste Baiano",29014,"Euclides da Cunha",1342.9,"Sim",18894,28655,65.94,167.46,644.43
+905,2925931,292593,"Quixabeira",29,"BA","Nordeste",2903,"Centro Norte Baiano",29010,"Jacobina",387.7,"Sim",8461,10033,84.33,52.46,199.34
+906,2925956,292595,"Rafael Jambeiro",29,"BA","Nordeste",2903,"Centro Norte Baiano",29012,"Feira de Santana",1218.9,"Sim",11277,24349,46.31,93.51,352.84
+907,2926004,292600,"Remanso",29,"BA","Nordeste",2902,"Vale São-Franciscano da Bahia",29004,"Juazeiro",4684,"Sim",18752,42275,44.36,88,2793
+908,2926103,292610,"Retirolândia",29,"BA","Nordeste",2904,"Nordeste Baiano",29016,"Serrinha",181.5,"Sim",10117,13319,75.96,28.22,289.17
+910,2926301,292630,"Riachão do Jacuípe",29,"BA","Nordeste",2904,"Nordeste Baiano",29016,"Serrinha",1190.2,"Sim",29278,35403,82.7,124.95,1076.47
+911,2926400,292640,"Riacho de Santana",29,"BA","Nordeste",2906,"Centro Sul Baiano",29026,"Guanambi",2582.2,"Sim",NA,36039,NA,NA,NA
+912,2926509,292650,"Ribeira do Amparo",29,"BA","Nordeste",2904,"Nordeste Baiano",29015,"Ribeira do Pombal",642.6,"Sim",1741,15269,11.4,5.29,57.12
+913,2926608,292660,"Ribeira do Pombal",29,"BA","Nordeste",2904,"Nordeste Baiano",29015,"Ribeira do Pombal",788.6,"Sim",38973,51418,75.8,138.76,1289.61
+914,2926657,292665,"Ribeirão do Largo",29,"BA","Nordeste",2906,"Centro Sul Baiano",29029,"Itapetinga",1271.3,"Sim",407,8260,4.93,1.18,14.3
+915,2926707,292670,"Rio de Contas",29,"BA","Nordeste",2906,"Centro Sul Baiano",29023,"Seabra",1063.7,"Sim",7062,13616,51.87,36.56,232.98
+916,2926806,292680,"Rio do Antônio",29,"BA","Nordeste",2906,"Centro Sul Baiano",29027,"Brumado",814.3,"Sim",11876,15628,75.99,45.57,387.24
+917,2926905,292690,"Rio do Pires",29,"BA","Nordeste",2906,"Centro Sul Baiano",29025,"Livramento do Brumado",819.8,"Sim",6385,12084,52.84,23.26,204.1
+919,2927101,292710,"Rodelas",29,"BA","Nordeste",2902,"Vale São-Franciscano da Bahia",29005,"Paulo Afonso",2723.5,"Sim",7912,8887,89.03,24,190.75
+920,2927200,292720,"Ruy Barbosa",29,"BA","Nordeste",2903,"Centro Norte Baiano",29011,"Itaberaba",2171.4,"Sim",24937,31867,78.25,86.21,783.67
+923,2927507,292750,"Santa Bárbara",29,"BA","Nordeste",2903,"Centro Norte Baiano",29012,"Feira de Santana",345.6,"Sim",13243,20754,63.81,56.87,338.99
+924,2927606,292760,"Santa Brígida",29,"BA","Nordeste",2904,"Nordeste Baiano",29013,"Jeremoabo",882.9,"Sim",9690,15100,64.17,71.78,284.24
+927,2927903,292790,"Santa Inês",29,"BA","Nordeste",2906,"Centro Sul Baiano",29024,"Jequié",315.7,"Sim",9225,11177,82.54,45.56,295.9
+928,2928000,292800,"Santaluz",29,"BA","Nordeste",2904,"Nordeste Baiano",29016,"Serrinha",1559.7,"Sim",29744,36915,80.57,95.4,717.42
+931,2928208,292820,"Santana",29,"BA","Nordeste",2901,"Extremo Oeste Baiano",29003,"Santa Maria da Vitória",1820.1,"Sim",19658,27260,72.11,171.94,669.23
+932,2928307,292830,"Santanópolis",29,"BA","Nordeste",2903,"Centro Norte Baiano",29012,"Feira de Santana",230.8,"Sim",4791,9442,50.74,19.51,139.13
+934,2928505,292850,"Santa Teresinha",29,"BA","Nordeste",2903,"Centro Norte Baiano",29012,"Feira de Santana",707.2,"Sim",7706,10586,72.79,67.02,274.4
+937,2928802,292880,"Santo Estêvão",29,"BA","Nordeste",2903,"Centro Norte Baiano",29012,"Feira de Santana",363,"Sim",41856,53193,78.69,97.31,1263.41
+939,2928950,292895,"São Domingos",29,"BA","Nordeste",2904,"Nordeste Baiano",29016,"Serrinha",326.9,"Sim",8977,9877,90.89,43.68,323.97
+941,2929057,292905,"São Félix do Coribe",29,"BA","Nordeste",2901,"Extremo Oeste Baiano",29003,"Santa Maria da Vitória",949.4,"Sim",12696,15647,81.14,41.5,668.53
+944,2929255,292925,"São Gabriel",29,"BA","Nordeste",2903,"Centro Norte Baiano",29009,"Irecê",1199.5,"Sim",18441,19542,94.37,88.22,621.87
+947,2929370,292937,"São José do Jacuípe",29,"BA","Nordeste",2903,"Centro Norte Baiano",29010,"Jacobina",406,"Sim",8771,11061,79.3,27.55,272.52
+951,2929701,292970,"Sátiro Dias",29,"BA","Nordeste",2904,"Nordeste Baiano",29017,"Alagoinhas",1010,"Sim",8199,20320,40.35,20.04,264.16
+953,2929800,292980,"Saúde",29,"BA","Nordeste",2903,"Centro Norte Baiano",29010,"Jacobina",504.3,"Sim",8523,12739,66.9,25.62,206.74
+954,2929909,292990,"Seabra",29,"BA","Nordeste",2906,"Centro Sul Baiano",29023,"Seabra",2517.3,"Sim",25221,45202,55.8,72.49,733.96
+955,2930006,293000,"Sebastião Laranjeiras",29,"BA","Nordeste",2906,"Centro Sul Baiano",29026,"Guanambi",1948.5,"Sim",10740,11528,93.16,45,920
+956,2930105,293010,"Senhor do Bonfim",29,"BA","Nordeste",2903,"Centro Norte Baiano",29008,"Senhor do Bonfim",827.5,"Sim",79416,81330,97.65,203.3,3125.66
+957,2930154,293015,"Serra do Ramalho",29,"BA","Nordeste",2902,"Vale São-Franciscano da Bahia",29007,"Bom Jesus da Lapa",2593.4,"Sim",NA,33011,NA,NA,NA
+958,2930204,293020,"Sento Sé",29,"BA","Nordeste",2902,"Vale São-Franciscano da Bahia",29004,"Juazeiro",12698.8,"Sim",NA,41464,NA,NA,NA
+959,2930303,293030,"Serra Dourada",29,"BA","Nordeste",2901,"Extremo Oeste Baiano",29003,"Santa Maria da Vitória",1346.6,"Sim",11274,18389,61.31,98.97,332.47
+960,2930402,293040,"Serra Preta",29,"BA","Nordeste",2903,"Centro Norte Baiano",29012,"Feira de Santana",536.5,"Sim",9005,15351,58.66,22,249.93
+961,2930501,293050,"Serrinha",29,"BA","Nordeste",2904,"Nordeste Baiano",29016,"Serrinha",658.9,"Sim",76904,83275,92.35,227.1,6633.91
+962,2930600,293060,"Serrolândia",29,"BA","Nordeste",2903,"Centro Norte Baiano",29010,"Jacobina",295.8,"Sim",13373,13373,100,93.72,511.15
+964,2930758,293075,"Sítio do Mato",29,"BA","Nordeste",2902,"Vale São-Franciscano da Bahia",29007,"Bom Jesus da Lapa",1751,"Sim",NA,13320,NA,NA,NA
+965,2930766,293076,"Sítio do Quinto",29,"BA","Nordeste",2904,"Nordeste Baiano",29013,"Jeremoabo",702.1,"Sim",8079,11767,68.66,25.82,239.67
+966,2930774,293077,"Sobradinho",29,"BA","Nordeste",2902,"Vale São-Franciscano da Bahia",29004,"Juazeiro",1238.9,"Sim",23583,23583,100,55.8,1125.58
+967,2930808,293080,"Souto Soares",29,"BA","Nordeste",2903,"Centro Norte Baiano",29009,"Irecê",993.3,"Sim",7749,17332,44.71,38.53,166.15
+968,2930907,293090,"Tabocas do Brejo Velho",29,"BA","Nordeste",2901,"Extremo Oeste Baiano",29002,"Cotegipe",1375.8,"Sim",11763,13025,90.31,127.24,541
+969,2931004,293100,"Tanhaçu",29,"BA","Nordeste",2906,"Centro Sul Baiano",29027,"Brumado",1234.5,"Sim",11642,21282,54.7,44.21,415.74
+970,2931053,293105,"Tanque Novo",29,"BA","Nordeste",2906,"Centro Sul Baiano",29022,"Boquira",722.9,"Sim",11281,17702,63.73,88.06,321.43
+971,2931103,293110,"Tanquinho",29,"BA","Nordeste",2903,"Centro Norte Baiano",29012,"Feira de Santana",219.9,"Sim",7220,8553,84.41,26.57,212.45
+973,2931301,293130,"Tapiramutá",29,"BA","Nordeste",2903,"Centro Norte Baiano",29011,"Itaberaba",663.9,"Sim",13365,17398,76.82,23.24,292.19
+976,2931509,293150,"Teofilândia",29,"BA","Nordeste",2904,"Nordeste Baiano",29016,"Serrinha",335.5,"Sim",19836,23011,86.2,69.23,1292.1
+979,2931806,293180,"Tremedal",29,"BA","Nordeste",2906,"Centro Sul Baiano",29027,"Brumado",1679.6,"Sim",4894,18187,26.91,28.38,190.26
+980,2931905,293190,"Tucano",29,"BA","Nordeste",2904,"Nordeste Baiano",29014,"Euclides da Cunha",2799.1,"Sim",28873,55777,51.77,81.93,923.94
+981,2932002,293200,"Uauá",29,"BA","Nordeste",2904,"Nordeste Baiano",29014,"Euclides da Cunha",3035.2,"Sim",15999,25087,63.77,209.27,1170.67
+982,2932101,293210,"Ubaíra",29,"BA","Nordeste",2906,"Centro Sul Baiano",29024,"Jequié",726.3,"Sim",9971,20782,47.98,23.59,279.55
+985,2932408,293240,"Uibaí",29,"BA","Nordeste",2903,"Centro Norte Baiano",29009,"Irecê",551,"Sim",14483,14483,100,81.09,516.73
+986,2932457,293245,"Umburanas",29,"BA","Nordeste",2903,"Centro Norte Baiano",29008,"Senhor do Bonfim",1670.5,"Sim",9656,19055,50.67,47.63,220.47
+988,2932606,293260,"Urandi",29,"BA","Nordeste",2906,"Centro Sul Baiano",29026,"Guanambi",969.4,"Sim",NA,17301,NA,NA,NA
+990,2932804,293280,"Utinga",29,"BA","Nordeste",2906,"Centro Sul Baiano",29023,"Seabra",638.2,"Sim",14085,19593,71.89,30.18,428.03
+992,2933000,293300,"Valente",29,"BA","Nordeste",2904,"Nordeste Baiano",29016,"Serrinha",384.3,"Sim",23287,27906,83.45,94.78,652.93
+993,2933059,293305,"Várzea da Roça",29,"BA","Nordeste",2903,"Centro Norte Baiano",29011,"Itaberaba",513.9,"Sim",12471,14729,84.67,82.74,403.53
+994,2933109,293310,"Várzea do Poço",29,"BA","Nordeste",2903,"Centro Norte Baiano",29010,"Jacobina",204.9,"Sim",7435,9416,78.96,63.44,310.1
+995,2933158,293315,"Várzea Nova",29,"BA","Nordeste",2903,"Centro Norte Baiano",29010,"Jacobina",1192.9,"Sim",11878,13470,88.18,47.54,324.8
+999,2933307,293330,"Vitória da Conquista",29,"BA","Nordeste",2906,"Centro Sul Baiano",29028,"Vitória da Conquista",3405.6,"Sim",343230,343230,100,1176.48,11600.41
+1000,2933406,293340,"Wagner",29,"BA","Nordeste",2906,"Centro Sul Baiano",29023,"Seabra",421,"Sim",7266,9731,74.67,18.82,213.35
+1003,2933604,293360,"Xique-Xique",29,"BA","Nordeste",2902,"Vale São-Franciscano da Bahia",29006,"Barra",5502.3,"Sim",45562,48316,94.3,262.3,5434.44
+702,3108255,310825,"Bonito de Minas",31,"MG","Sudeste",3102,"Norte de Minas",31003,"Januária",3904.9,"Sim",2436,10669,22.83,14.51,116.92
+624,3101003,310100,"Águas Vermelhas",31,"MG","Sudeste",3102,"Norte de Minas",31005,"Salinas",1258.8,"Sim",9451,13447,70.28,59.4,370.7
+632,3101706,310170,"Almenara",31,"MG","Sudeste",3103,"Jequitinhonha",31014,"Almenara",2294.4,"Sim",33099,41296,80.15,136.17,1557.75
+643,3102704,310270,"Cachoeira de Pajeú",31,"MG","Sudeste",3103,"Jequitinhonha",31013,"Pedra Azul",695.7,"Sim",4235,9410,45.01,9.87,112.9
+651,3103405,310340,"Araçuaí",31,"MG","Sudeste",3103,"Jequitinhonha",31012,"Araçuaí",2236.3,"Sim",25662,37270,68.85,115.41,1234.13
+671,3105202,310520,"Bandeira",31,"MG","Sudeste",3103,"Jequitinhonha",31014,"Almenara",483.8,"Sim",3081,5019,61.39,14,109.39
+683,3106507,310650,"Berilo",31,"MG","Sudeste",3103,"Jequitinhonha",31011,"Capelinha",587.1,"Sim",12143,12431,97.68,29.28,183.86
+685,3106655,310665,"Berizal",31,"MG","Sudeste",3102,"Norte de Minas",31005,"Salinas",488.8,"Sim",2650,4661,56.85,18.03,134.84
+753,3112703,311270,"Capitão Enéas",31,"MG","Sudeste",3102,"Norte de Minas",31007,"Montes Claros",971.6,"Sim",9104,15074,60.4,37.23,346.5
+756,3113008,311300,"Caraí",31,"MG","Sudeste",3103,"Jequitinhonha",31012,"Araçuaí",1242.2,"Sim",11322,23571,48.03,32.82,287.39
+784,3115474,311547,"Catuti",31,"MG","Sudeste",3102,"Norte de Minas",31004,"Janaúba",287.8,"Sim",2120,5174,40.97,13.46,86.61
+791,3116100,311610,"Chapada do Norte",31,"MG","Sudeste",3103,"Jequitinhonha",31011,"Capelinha",831,"Sim",8094,15657,51.7,45.28,90.32
+801,3117009,311700,"Comercinho",31,"MG","Sudeste",3103,"Jequitinhonha",31013,"Pedra Azul",655,"Sim",5705,7835,72.81,20.45,137.95
+810,3117836,311783,"Cônego Marinho",31,"MG","Sudeste",3102,"Norte de Minas",31003,"Januária",1642,"Sim",2040,7564,26.97,13.08,59.11
+828,3119500,311950,"Coronel Murta",31,"MG","Sudeste",3103,"Jequitinhonha",31012,"Araçuaí",815.4,"Sim",6324,9400,67.28,26.64,292.1
+838,3120300,312030,"Cristália",31,"MG","Sudeste",3102,"Norte de Minas",31008,"Grão Mogol",840.7,"Sim",2670,6010,44.43,21.01,118.36
+845,3120870,312087,"Curral de Dentro",31,"MG","Sudeste",3102,"Norte de Minas",31005,"Salinas",568.3,"Sim",5297,7491,70.71,34.87,177.54
+862,3122355,312235,"Divisa Alegre",31,"MG","Sudeste",3102,"Norte de Minas",31005,"Salinas",117.8,"Sim",5575,6478,86.06,25.67,240.59
+864,3122454,312245,"Divisópolis",31,"MG","Sudeste",3103,"Jequitinhonha",31014,"Almenara",572.9,"Sim",7284,10209,71.35,18.63,231.52
+886,3124302,312430,"Espinosa",31,"MG","Sudeste",3102,"Norte de Minas",31004,"Janaúba",1869,"Sim",18624,32151,57.93,99.52,1030.98
+899,3125606,312560,"Felisburgo",31,"MG","Sudeste",3103,"Jequitinhonha",31014,"Almenara",596.2,"Sim",5420,7338,73.86,29.2,197.51
+909,3126505,312650,"Francisco Badaró",31,"MG","Sudeste",3103,"Jequitinhonha",31011,"Capelinha",461.3,"Sim",6901,10550,65.41,34.24,158.79
+911,3126703,312670,"Francisco Sá",31,"MG","Sudeste",3102,"Norte de Minas",31007,"Montes Claros",2747.3,"Sim",15820,26217,60.34,54,643.47
+918,3127073,312707,"Fruta de Leite",31,"MG","Sudeste",3102,"Norte de Minas",31005,"Salinas",762.8,"Sim",4347,5809,74.83,20.37,100.77
+922,3127339,312733,"Gameleiras",31,"MG","Sudeste",3102,"Norte de Minas",31004,"Janaúba",1733.2,"Sim",NA,5255,NA,NA,NA
+930,3127800,312780,"Grão Mogol",31,"MG","Sudeste",3102,"Norte de Minas",31008,"Grão Mogol",3885.3,"Sim",6485,15805,41.03,25.65,242.53
+950,3129657,312965,"Ibiracatu",31,"MG","Sudeste",3102,"Norte de Minas",31007,"Montes Claros",353.4,"Sim",3149,6206,50.74,21.87,131.6
+963,3130655,313065,"Indaiabira",31,"MG","Sudeste",3102,"Norte de Minas",31005,"Salinas",1004.1,"Sim",2657,7526,35.3,17.31,98.19
+979,3132107,313210,"Itacarambi",31,"MG","Sudeste",3102,"Norte de Minas",31003,"Januária",1225.3,"Sim",12868,18383,70,51.4,552.28
+991,3133303,313330,"Itaobim",31,"MG","Sudeste",3103,"Jequitinhonha",31013,"Pedra Azul",679,"Sim",17883,21564,82.93,100.63,820.75
+999,3134004,313400,"Itinga",31,"MG","Sudeste",3103,"Jequitinhonha",31012,"Araçuaí",1649.6,"Sim",10246,15059,68.04,45.17,335.42
+1006,3134707,313470,"Jacinto",31,"MG","Sudeste",3103,"Jequitinhonha",31014,"Almenara",1393.6,"Sim",8136,12537,64.9,40.87,340.5
+1010,3135050,313505,"Jaíba",31,"MG","Sudeste",3102,"Norte de Minas",31004,"Janaúba",2626.3,"Sim",18288,37054,49.35,84.38,874.92
+1012,3135100,313510,"Janaúba",31,"MG","Sudeste",3102,"Norte de Minas",31004,"Janaúba",2181.3,"Sim",61985,70886,87.44,394.96,2889.14
+1013,3135209,313520,"Januária",31,"MG","Sudeste",3102,"Norte de Minas",31003,"Januária",6661.7,"Sim",33868,68247,49.63,176.84,1783.43
+1015,3135357,313535,"Japonvar",31,"MG","Sudeste",3102,"Norte de Minas",31007,"Montes Claros",374.9,"Sim",2430,8643,28.12,28.56,126.91
+1017,3135456,313545,"Jenipapo de Minas",31,"MG","Sudeste",3103,"Jequitinhonha",31011,"Capelinha",284.5,"Sim",6132,7580,80.9,48.23,154.28
+1021,3135803,313580,"Jequitinhonha",31,"MG","Sudeste",3103,"Jequitinhonha",31014,"Almenara",3514.2,"Sim",18745,25365,73.9,64.69,775
+1023,3136009,313600,"Joaíma",31,"MG","Sudeste",3103,"Jequitinhonha",31014,"Almenara",1664.2,"Sim",10646,15562,68.41,47.25,427.17
+1028,3136504,313650,"Jordânia",31,"MG","Sudeste",3103,"Jequitinhonha",31014,"Almenara",546.7,"Sim",6705,10826,61.93,17.45,289.01
+1029,3136520,313652,"José Gonçalves de Minas",31,"MG","Sudeste",3103,"Jequitinhonha",31011,"Capelinha",381.3,"Sim",2040,4643,43.94,10.03,47.6
+1031,3136579,313657,"Josenópolis",31,"MG","Sudeste",3102,"Norte de Minas",31008,"Grão Mogol",541.4,"Sim",3661,4830,75.8,18.39,81.87
+1037,3136959,313695,"Juvenília",31,"MG","Sudeste",3102,"Norte de Minas",31003,"Januária",1064.7,"Sim",3141,5861,53.59,27.31,148.53
+1058,3138658,313865,"Lontra",31,"MG","Sudeste",3102,"Norte de Minas",31007,"Montes Claros",259.2,"Sim",4622,8938,51.71,25.14,195.92
+1067,3139250,313925,"Mamonas",31,"MG","Sudeste",3102,"Norte de Minas",31004,"Janaúba",291.4,"Sim",NA,6591,NA,NA,NA
+1068,3139300,313930,"Manga",31,"MG","Sudeste",3102,"Norte de Minas",31003,"Januária",1950.2,"Sim",12034,19622,61.33,65.26,610.6
+1083,3140555,314055,"Mata Verde",31,"MG","Sudeste",3103,"Jequitinhonha",31014,"Almenara",227.5,"Sim",6835,8425,81.13,20.77,274.15
+1087,3140852,314085,"Matias Cardoso",31,"MG","Sudeste",3102,"Norte de Minas",31003,"Januária",1949.7,"Sim",5103,10822,47.15,33.68,257.38
+1089,3141009,314100,"Mato Verde",31,"MG","Sudeste",3102,"Norte de Minas",31004,"Janaúba",472.2,"Sim",9616,12895,74.57,61.08,395.83
+1093,3141405,314140,"Medina",31,"MG","Sudeste",3103,"Jequitinhonha",31013,"Pedra Azul",1435.9,"Sim",15065,21459,70.2,54.13,549.81
+1102,3142254,314225,"Miravânia",31,"MG","Sudeste",3102,"Norte de Minas",31003,"Januária",602.1,"Sim",1146,4832,23.72,8.68,59.79
+1107,3142700,314270,"Montalvânia",31,"MG","Sudeste",3102,"Norte de Minas",31003,"Januária",1503.8,"Sim",8578,15779,54.36,50.09,427.1
+1109,3142908,314290,"Monte Azul",31,"MG","Sudeste",3102,"Norte de Minas",31004,"Janaúba",994.2,"Sim",12416,21990,56.46,65.63,596.37
+1112,3143153,314315,"Monte Formoso",31,"MG","Sudeste",3103,"Jequitinhonha",31014,"Almenara",385.6,"Sim",3496,4897,71.39,62.1,69.25
+1116,3143450,314345,"Montezuma",31,"MG","Sudeste",3102,"Norte de Minas",31005,"Salinas",1130.4,"Sim",3061,8041,38.07,15.31,117.23
+1131,3144656,314465,"Ninheira",31,"MG","Sudeste",3102,"Norte de Minas",31005,"Salinas",1108.2,"Sim",2753,10301,26.73,10.52,132.48
+1137,3145059,314505,"Nova Porteirinha",31,"MG","Sudeste",3102,"Norte de Minas",31004,"Janaúba",120.9,"Sim",4200,7636,55,91.27,254.69
+1140,3145307,314530,"Novo Cruzeiro",31,"MG","Sudeste",3103,"Jequitinhonha",31012,"Araçuaí",1703,"Sim",12482,31803,39.25,35.55,426.66
+1142,3145372,314537,"Novorizonte",31,"MG","Sudeste",3102,"Norte de Minas",31005,"Salinas",271.9,"Sim",5013,5255,95.39,31.35,136.23
+1155,3146255,314625,"Padre Carvalho",31,"MG","Sudeste",3102,"Norte de Minas",31008,"Grão Mogol",446.3,"Sim",4907,6250,78.51,26.54,145.58
+1156,3146305,314630,"Padre Paraíso",31,"MG","Sudeste",3103,"Jequitinhonha",31012,"Araçuaí",544.4,"Sim",10793,19971,54.04,40.19,441.15
+1159,3146552,314655,"Pai Pedro",31,"MG","Sudeste",3102,"Norte de Minas",31004,"Janaúba",839.8,"Sim",1564,6162,25.38,13.3,86.06
+1174,3147956,314795,"Patis",31,"MG","Sudeste",3102,"Norte de Minas",31007,"Montes Claros",444.2,"Sim",2146,5914,36.29,14.3,93.88
+1182,3148707,314870,"Pedra Azul",31,"MG","Sudeste",3103,"Jequitinhonha",31013,"Pedra Azul",1595.1,"Sim",18867,24683,76.44,74.29,699.94
+1188,3149150,314915,"Pedras de Maria da Cruz",31,"MG","Sudeste",3102,"Norte de Minas",31003,"Januária",1525.5,"Sim",5850,11193,52.26,28.49,219.99
+1224,3152170,315217,"Ponto dos Volantes",31,"MG","Sudeste",3103,"Jequitinhonha",31012,"Araçuaí",1212.4,"Sim",7254,12016,60.37,22.28,190.28
+1225,3152204,315220,"Porteirinha",31,"MG","Sudeste",3102,"Norte de Minas",31004,"Janaúba",1749.7,"Sim",19900,38720,51.39,271.45,1284.3
+1250,3154507,315450,"Riacho dos Machados",31,"MG","Sudeste",3102,"Norte de Minas",31004,"Janaúba",1315.5,"Sim",3719,9658,38.51,24.06,159.04
+1261,3155603,315560,"Rio Pardo de Minas",31,"MG","Sudeste",3102,"Norte de Minas",31005,"Salinas",3117.4,"Sim",10725,30732,34.9,41.21,431.05
+1271,3156502,315650,"Rubelita",31,"MG","Sudeste",3102,"Norte de Minas",31005,"Salinas",1110.3,"Sim",6398,7093,90.2,36.92,162.37
+1272,3156601,315660,"Rubim",31,"MG","Sudeste",3103,"Jequitinhonha",31014,"Almenara",965.2,"Sim",6738,10330,65.23,29.23,272.47
+1276,3157005,315700,"Salinas",31,"MG","Sudeste",3102,"Norte de Minas",31005,"Salinas",1887.6,"Sim",38487,41301,93.19,276.77,1588.99
+1277,3157104,315710,"Salto da Divisa",31,"MG","Sudeste",3103,"Jequitinhonha",31014,"Almenara",937.9,"Sim",5539,7107,77.94,22.05,273.8
+1283,3157377,315737,"Santa Cruz de Salinas",31,"MG","Sudeste",3102,"Norte de Minas",31005,"Salinas",589.6,"Sim",2674,4383,61.01,10.95,50.11
+1292,3158102,315810,"Santa Maria do Salto",31,"MG","Sudeste",3103,"Jequitinhonha",31014,"Almenara",440.6,"Sim",3819,5393,70.81,18.25,139.09
+1318,3160454,316045,"Santo Antônio do Retiro",31,"MG","Sudeste",3102,"Norte de Minas",31005,"Salinas",796.3,"Sim",1565,7290,21.47,12.25,67.04
+1342,3162401,316240,"São João da Ponte",31,"MG","Sudeste",3102,"Norte de Minas",31007,"Montes Claros",1851.1,"Sim",6344,25906,24.49,38.15,294.44
+1343,3162450,316245,"São João das Missões",31,"MG","Sudeste",3102,"Norte de Minas",31003,"Januária",678.3,"Sim",2337,12652,18.47,11.87,138.73
+1349,3162708,316270,"São João do Paraíso",31,"MG","Sudeste",3102,"Norte de Minas",31005,"Salinas",1925.6,"Sim",10789,23526,45.86,69.29,464.4
+1401,3166956,316695,"Serranópolis de Minas",31,"MG","Sudeste",3102,"Norte de Minas",31004,"Janaúba",552,"Sim",1840,4712,39.05,29.35,87.17
+1412,3168002,316800,"Taiobeiras",31,"MG","Sudeste",3102,"Norte de Minas",31005,"Salinas",1194.5,"Sim",24527,33315,73.62,100,947.98
+1447,3170651,317065,"Vargem Grande do Rio Pardo",31,"MG","Sudeste",3102,"Norte de Minas",31005,"Salinas",491.5,"Sim",2552,4989,51.15,19.15,98.16
+1451,3170909,317090,"Varzelândia",31,"MG","Sudeste",3102,"Norte de Minas",31007,"Montes Claros",815,"Sim",9057,19702,45.97,60.12,445.91
+1453,3171030,317103,"Verdelândia",31,"MG","Sudeste",3102,"Norte de Minas",31007,"Montes Claros",1570.6,"Sim",4967,9056,54.85,29.6,207
+1461,3171600,317160,"Virgem da Lapa",31,"MG","Sudeste",3103,"Jequitinhonha",31012,"Araçuaí",868.9,"Sim",8889,14030,63.36,41.69,392
