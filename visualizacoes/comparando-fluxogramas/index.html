@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Comparando o fluxograma de cursos</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
+
+    <!-- Custom CSS -->
+    <link href="css/business-casual.css" rel="stylesheet">
+
+    <!-- Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Josefin+Slab:100,300,400,600,700,100italic,300italic,400italic,600italic,700italic" rel="stylesheet" type="text/css">
+
+</head>
+
+<body>
+
+    <div class="brand">Comparando o fluxograma de cursos</div>
+    <div class="address-bar"><h6>A missão é utilizar visualizações de redes
+                 para comparar as estruturas de pré-requisitos de diferentes cursos da UFCG<h6></div>
+
+    <div class="container">
+
+        <div class="row">
+            <div class="box">
+                <div class="col-lg-12">
+                    <hr>
+                    <h2 class="intro-text text-center"><strong>Marcas</strong> e <strong>canais</strong> da visualização
+                    </h2>
+                    <hr>
+                <p>Cada vértice da rede abaixo representa uma disciplina. Se uma disciplina A é prerrequisito da disciplina B, então A e B
+                esarão ligadas por uma aresta. Isto significa que se há um vértice livre na rede, é por que a respectiva disciplina não é prerrequisito
+                de nenhuma outra e também não exige prerrequisitos</p>
+                <p>O raio de cada vértice é dado em função do número de créditos da disciplina correspondente. Nos casos em que não há dados
+                sobre o número de créditos da disciplina, o raio do vértico é 6.</p>
+                <p>A cor de cada vértice corresponde ao semestre em que aquela disciplina deve ser cursada de acordo com o fluxograma. Dificilmente
+                você encontrará vértices de mesma cor conectados.</p>
+                <p>Abaixo você pode selecionar dois dos cursos da ufcg para visualizar seus fluxogramas e compará-los.</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="box">
+                <div class="col-lg-12">
+ <div class="section">
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="input-group center">
+                        <div class="dropdown" style="margin-left: 150px;">
+                            <button id="dropdown1"; class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown">
+                                administracao_d_cg
+                                <span class="caret"></span>
+                            </button>
+                            <ul id="options1" class="dropdown-menu scrollable-menu">
+
+                            </ul>
+                        </div>
+                    </div>
+                    <div id="chart1" style="margin-top: 50px; margin-bottom: 50px;"></div>
+                </div>
+                <div class="col-md-6">
+                    <div class="input-group center">
+                        <div class="dropdown" style="margin-left: 150px;"">
+                            <button id="dropdown2" class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown">
+                                ciencia_da_computacao_d_cg
+                                <span class="caret"></span>
+                            </button>
+                            <ul id="options2" class="dropdown-menu scrollable-menu">
+
+                            </ul>
+                        </div>
+                    </div>
+                    <div id="chart2" style="margin-top: 50px; margin-bottom: 50px;"></div>
+                </div>
+            </div>
+        </div>
+            </div>
+        </div>
+        </div>
+
+         <div class="row">
+            <div class="box">
+                <div class="col-lg-12">
+                    <hr>
+                    <h2 class="intro-text text-center">Comparando os cursos
+                    </h2>
+                    <hr>
+                <p>Comparando os cursos acima podemos ver que o curso de administração possui o caráter mais de floresta
+                 do que o curso de computação. Isto significa que há mais vertentes independentes no curso de administração e que no curso
+                 de computação as disciplinas saõ bem mais conectadas.</p>
+                </div>
+            </div>
+        </div>
+
+    </div>
+    <!-- /.container -->
+
+    <!-- jQuery -->
+    <script src="js/jquery.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/d3.v4.min.js"></script>
+    <script src="//d3js.org/d3-color.v1.min.js"></script>
+    <script src="//d3js.org/d3-scale-chromatic.v1.min.js"></script>
+    <script src="js/node-link-chart.js"></script>
+
+</body>
+
+</html>
